@@ -7,8 +7,8 @@ from utils import url_to_filename, filename_to_url
 Get list of all stations in london, loop through them.
 """
 
-stations_df = pd.read_csv('../data/misc/london-stations.csv')
-print(stations_df)
+def london_stations():
+	return pd.read_csv('../data/misc/london-stations.csv')
 
 
 HEADERS = {
