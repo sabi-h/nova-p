@@ -1,3 +1,5 @@
+import time
+
 import pandas as pd
 import requests
 
@@ -10,6 +12,10 @@ Get list of all stations in london, loop through them.
 def london_stations():
 	return pd.read_csv('../data/misc/london-stations.csv')
 
+
+BASE_FP = '../data/onthemarket/raw/{}.json'
+
+BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type=new-homes&location-id={location}&retirement=false&page={page}'
 
 HEADERS = {
 	'authority': 'www.onthemarket.com',
@@ -26,14 +32,48 @@ HEADERS = {
 }
 
 
+def main():
+	locations = london_stations()
+
+	for location in locations:
+		
+		properties = True
+		page = 1
+		fp = BASE_FP.format()
+
+		while properties:
+			request_data = {
+				'location': location,
+				'page': page
+			}
+
+			url = BASE_URL.format(**request_data)
+
+			try:
+				response = requests.request('GET', BASE_URL, headers=HEADERS, data={})
+				json_data = response.json()
+				
+				with open(fp, 'w') as f:
+					pass
+					
+				if len(response['properties']) == 0:
+					properties = False
+
+				properties = False
+			except Exception as e:
+				pass
+
+			page += 1
+
+			time.sleep(1)
 
 
 def test_request():
 	import requests
 
-	url = "https://www.onthemarket.com/async/search/properties/?search-type=new-homes&location-id=london&retirement=false&view=grid"
+	url = "https://www.onthemarket.com/async/search/properties/?search-type=new-homes&location-id=WIJ&retirement=false&view=grid"
 
-	payload={}
+	payload = {}
 	headers = {
 	  'authority': 'www.onthemarket.com',
 	  'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
@@ -57,6 +97,18 @@ def test_request():
 	
 
 if __name__ == '__main__':
-	url = "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&location-id=london&page=1"
+	# test_request()
+	main()
+	# data = london_stations()['Station code'].unique()
+	# print(data)
 	
+
+
+
+
+
+
+
+
+
 
