@@ -1,9 +1,11 @@
+import base64
 import time
 
 import pandas as pd
 import requests
 
-from utils import url_to_filename, filename_to_url
+from utils import url_to_filename, filename_to_url, url_to_fp, fp_to_url
+
 
 """
 Get list of all stations in london, loop through them.
@@ -13,10 +15,8 @@ def london_stations():
 	return pd.read_csv('../data/misc/london-stations.csv')
 
 
-BASE_FP = '../data/onthemarket/raw/{}.json'
-
 BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type=new-homes&location-id={location}&retirement=false&page={page}'
-
+BASE_FP = '../data/onthemarket/raw/{}.json'
 HEADERS = {
 	'authority': 'www.onthemarket.com',
 	'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
@@ -90,11 +90,8 @@ def test_request():
 
 	response = requests.request("GET", url, headers=headers, data=payload)
 
-	print(response.text)
+	return response.json()
 
-
-
-	
 
 if __name__ == '__main__':
 	# test_request()
@@ -102,6 +99,21 @@ if __name__ == '__main__':
 	# data = london_stations()['Station code'].unique()
 	# print(data)
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
