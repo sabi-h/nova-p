@@ -1,0 +1,2955 @@
+{
+    "header-data": {
+        "data-layer": "{\"g-location-type\":\"postal-district\",\"retirement\":false,\"g-location-id\":\"2030000738\",\"property-prices\":[null,null,null,null,null,null,\"495,000\",\"499,999\",\"499,999\",\"659,999\",\"675,000\",\"690,000\",\"690,000\",\"705,000\",\"769,999\",\"900,000\",\"950,000\",\"950,000\",\"1,010,000\",\"1,055,000\",\"1,060,000\",\"1,230,000\",\"1,500,000\",\"2,000,000\"],\"no-of-properties\":62,\"new-home-flag\":\"T\",\"location-name\":\"E2\",\"typeahead\":true,\"g-hierarchy-level\":7,\"meta-robots\":\"not-provided\",\"page\":1,\"exclusive-first\":true,\"property-ids\":[\"9699749\",\"9675313\",\"8579147\",\"9638234\",\"8062966\",\"9488673\",\"9150069\",\"5333948\",\"9191972\",\"9480960\",\"9570680\",\"9707965\",\"9256953\",\"8870073\",\"6220708\",\"9132745\",\"9638222\",\"8114355\",\"7977665\",\"9292252\",\"9755902\",\"9265907\",\"9040154\",\"9454956\"],\"under-offer\":false,\"http-status\":\"200\",\"new-homes\":true,\"location-id\":\"e2\",\"search-type\":\"for-sale\",\"frame-size\":24,\"breadcrumbs\":[\"uk\",\"london\",\"north-london\"],\"direction\":\"desc\",\"view\":\"list\",\"sort-field\":\"update_date\"}",
+        "render-data-layer?": true
+    },
+    "properties": [
+        {
+            "images-count": 10,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "display_address": "Empress Works, Corbridge Crescent, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9755902/1331319331/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9755902/1331319331/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 48663,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - Hackney Wick New Homes",
+                "telephone": "020 8033 5571",
+                "base-contact-url": "/agents/contact/9755902/",
+                "contact-url": "/agents/contact/9755902/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-hackney-wick-new-homes/",
+                "development?": false
+            },
+            "summary": "Empress Works, a collection of 50 warehouse-style apartments and 5 re-commissioned regency cottages situated in the heart of East London.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "9755902",
+            "property-link": "/details/9755902/",
+            "cover-image": "https://media.onthemarket.com/properties/9755902/1331319331/image-0-480x320.jpg",
+            "price": "\u00a31,060,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Long & Waterson, Long Street, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9707965/1334233910/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9707965/1334233910/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22218,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - London, New Homes",
+                "telephone": "020 8022 7133",
+                "base-contact-url": "/agents/contact/9707965/",
+                "contact-url": "/agents/contact/9707965/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-london-new-homes/",
+                "development?": false
+            },
+            "summary": "A generously-sized one-bedroom apartment benefitting from west-facing views over the High-Line inspired residents' sun deck at Long & Waterson.    Long & Waterson is an exclusive development nestled in the heart of Shoreditch. Luxurious amenities include 24-hour concierge, a private gym, sauna...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9707965",
+            "property-link": "/details/9707965/",
+            "cover-image": "https://media.onthemarket.com/properties/9707965/1334233910/image-0-480x320.jpg",
+            "price": "\u00a3690,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8870073/1328503781/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8870073/1328503781/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/8870073/",
+                "contact-url": "/agents/contact/8870073/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "This 1 bedroom apartment (656 sq ft) in the highly anticipated Long & Waterson completed development, is an excellent opportunity to be nestled within the key intersection of Hackney Road and Old Street in Shoreditch. Please enquire for Virtual Tours.",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "8870073",
+            "virtual-tours?": true,
+            "property-link": "/details/8870073/",
+            "cover-image": "https://media.onthemarket.com/properties/8870073/1328503781/image-0-480x320.jpg",
+            "price": "\u00a3705,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 21,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Rosewood Building, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9699749/1335488301/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9699749/1335488301/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/9699749/",
+                "contact-url": "/agents/contact/9699749/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "A light and bright one apartment situated in Rosewood Building, Shoreditch Exchange, E2. The development boasts 24 hour concierge, on site gym, cinema and resident\u2019s lounge.",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9699749",
+            "virtual-tours?": true,
+            "property-link": "/details/9699749/",
+            "cover-image": "https://media.onthemarket.com/properties/9699749/1335488301/image-0-480x320.jpg",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 20,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Rosewood Building, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9675313/1332566863/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9675313/1332566863/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/9675313/",
+                "contact-url": "/agents/contact/9675313/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "A beautifully presented two bedroom, two bathroom dual aspect apartment in Rosewood Building, Shoreditch Exchange, a development by Regal Homes.",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9675313",
+            "virtual-tours?": true,
+            "property-link": "/details/9675313/",
+            "cover-image": "https://media.onthemarket.com/properties/9675313/1332566863/image-0-480x320.jpg",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 23,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8579147/1326622823/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8579147/1326622823/image-0-480x320.webp"
+            },
+            "floorplans-count": 2,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/8579147/",
+                "contact-url": "/agents/contact/8579147/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "A spacious 1 bedroom apartment in the luxurious Long and Waterson, a luxury development by Iazki Group Investments, in the heart of Shoreditch.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "8579147",
+            "property-link": "/details/8579147/",
+            "cover-image": "https://media.onthemarket.com/properties/8579147/1326622823/image-0-480x320.jpg",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 16,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9638234/1326614887/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9638234/1326614887/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/9638234/",
+                "contact-url": "/agents/contact/9638234/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "Welcome to Long & Waterson, nestled in the heart of Shoreditch, Designed with a sense of luxury throughout, each apartment either draws on their heritage as a collection of artisan workshops or take their cues from their modern architectural surroundings. Warehouse conversion or newly built \u2013 L&W...",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9638234",
+            "virtual-tours?": true,
+            "property-link": "/details/9638234/",
+            "cover-image": "https://media.onthemarket.com/properties/9638234/1326614887/image-0-480x320.jpg",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 16,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "A-09-02 HKR, Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9638222/1336213921/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9638222/1336213921/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 37782,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37782/150609132133033/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - City & East, Residential Development",
+                "telephone": "020 8022 6382",
+                "base-contact-url": "/agents/contact/9638222/",
+                "contact-url": "/agents/contact/9638222/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-city-and-east-residential-development/",
+                "development?": false
+            },
+            "summary": "Beautiful collection of new homes available in the heart of Hackney with excellent transport links, E2  This elegant two bedroom apartment which is located on the second floor of HKR measures 812 square foot, has a North/West aspect and benefits from a private balcony.   Imagined by Hawkins Brown...",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "9638222",
+            "virtual-tours?": true,
+            "property-link": "/details/9638222/",
+            "cover-image": "https://media.onthemarket.com/properties/9638222/1336213921/image-0-480x320.jpg",
+            "price": "\u00a3950,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 20,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8062966/1326595488/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8062966/1326595488/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/8062966/",
+                "contact-url": "/agents/contact/8062966/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "Welcome to Long & Waterson, nestled in the heart of Shoreditch, Designed with a sense of luxury throughout, each apartment either draws on their heritage as a collection of artisan workshops or take their cues from their modern architectural surroundings. Warehouse conversion or newly built \u2013 L&W...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "8062966",
+            "property-link": "/details/8062966/",
+            "cover-image": "https://media.onthemarket.com/properties/8062966/1326595488/image-0-480x320.jpg",
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9150069/1325049781/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9150069/1325049781/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/9150069/",
+                "contact-url": "/agents/contact/9150069/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "INCENTIVES AVAILABLE.Stunning one bedroom apartment on the second floor of this brand new development in East London.Featuring just seven stylish apartments, Stonemakers Yard is the latest boutique development now available in Shoreditch. Offering beautiful features including grand sash windows,...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "9150069",
+            "virtual-tours?": true,
+            "property-link": "/details/9150069/",
+            "cover-image": "https://media.onthemarket.com/properties/9150069/1325049781/image-0-480x320.jpg",
+            "price": "\u00a3495,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Long & Waterson, Long Street, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7977665/1334244728/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7977665/1334244728/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22218,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - London, New Homes",
+                "telephone": "020 8022 7133",
+                "base-contact-url": "/agents/contact/7977665/",
+                "contact-url": "/agents/contact/7977665/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-london-new-homes/",
+                "development?": false
+            },
+            "summary": "A two-bedroom, two-bathroom apartment in Long & Waterson. The open-plan kitchen and reception room is generously-sized, perfect for entertaining, and the floor-to-ceiling windows provide ample natural light throughout the apartment.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "7977665",
+            "property-link": "/details/7977665/",
+            "cover-image": "https://media.onthemarket.com/properties/7977665/1334244728/image-0-480x320.jpg",
+            "price": "\u00a31,010,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8114355/1325127769/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8114355/1325127769/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/8114355/",
+                "contact-url": "/agents/contact/8114355/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "FULL STAMP DUTY PAID (If completed prior to March 2021)Stunning 3 bed penthouse with large private terrace within a brand new development set just moments from Columbia Road & Shoreditch.Featuring just seven stylish apartments, Stonemakers Yard is the latest boutique development now available in...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8114355",
+            "virtual-tours?": true,
+            "property-link": "/details/8114355/",
+            "cover-image": "https://media.onthemarket.com/properties/8114355/1325127769/image-0-480x320.jpg",
+            "price": "\u00a3950,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 6,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Cambridge Heath Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9570680/1325089190/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9570680/1325089190/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/9570680/",
+                "contact-url": "/agents/contact/9570680/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "Coopers Printworks is a selection of 11 warehouse style apartments with communal roof terrace in the very heart of Hackney, East London. Offering a perfect fusion of everything the district has to offer, ablend of old and new you\u2019ll never be short of things to do in this buzzing location.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "9570680",
+            "cover-image-landscape?": true,
+            "property-link": "/details/9570680/",
+            "cover-image": "https://media.onthemarket.com/properties/9570680/1325089190/image-0-480x320.jpg",
+            "price": "\u00a3675,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": "Offers in excess of",
+            "new-home-flag": true,
+            "display_address": "HKR Hoxton, Dawson Street, London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9132745/1320572882/image-0-480x320.png",
+                "webp": "https://media.onthemarket.com/properties/9132745/1320572882/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 44306,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4771/180306094927267/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Madley - Surrey Quays",
+                "telephone": "020 3641 7189",
+                "base-contact-url": "/agents/contact/9132745/",
+                "contact-url": "/agents/contact/9132745/?form-name=details-contact",
+                "details-url": "/agents/branch/madley-surrey-quays/",
+                "development?": false
+            },
+            "summary": "Madley are proud to present this superb two bedroom apartment located on the 5th floor of the Lantern Collection of HKR Hoxton. The property offers great views and a large outside space comprising of two terraces! The development is high specification by design.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9132745",
+            "property-link": "/details/9132745/",
+            "cover-image": "https://media.onthemarket.com/properties/9132745/1320572882/image-0-480x320.png",
+            "price": "\u00a3900,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": "Price on application",
+            "new-home-flag": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9488673/1322868563/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9488673/1322868563/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/9488673/",
+                "contact-url": "/agents/contact/9488673/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "This beautiful south facing first floor two bedroom apartment which benefits from all-day sun in the highly anticipated Long & Waterson completed development, is an excellent opportunity to be nestled within the key intersection of Hackney Road and Old Street in Shoreditch.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9488673",
+            "property-link": "/details/9488673/",
+            "cover-image": "https://media.onthemarket.com/properties/9488673/1322868563/image-0-480x320.jpg",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "B-02-05 HKR, Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9480960/1332415471/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9480960/1332415471/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37782,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37782/150609132133033/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - City & East, Residential Development",
+                "telephone": "020 8022 6382",
+                "base-contact-url": "/agents/contact/9480960/",
+                "contact-url": "/agents/contact/9480960/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-city-and-east-residential-development/",
+                "development?": false
+            },
+            "summary": "A collection of 1, 2 & 3 bedroom apartments located on Hackney Road, E2  This charming One bedroom apartment which is located on the second floor of HKR has an East/West aspect, 588 square foot of internal space with a further 48 square foot balcony.  Imagined by Hawkins Brown Architects, HKR...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "9480960",
+            "property-link": "/details/9480960/",
+            "cover-image": "https://media.onthemarket.com/properties/9480960/1332415471/image-0-480x320.jpg",
+            "price": "\u00a3659,999",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 14,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "A-01-03 HKR, Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5333948/1332415109/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5333948/1332415109/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37782,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37782/150609132133033/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - City & East, Residential Development",
+                "telephone": "020 8022 6382",
+                "base-contact-url": "/agents/contact/5333948/",
+                "contact-url": "/agents/contact/5333948/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-city-and-east-residential-development/",
+                "development?": false
+            },
+            "summary": "Modern Studio apartments just a few minutes walk away from Hoxton Station, E2  This elegant first floor Studio apartment benefits from 438 square foot of space and a West aspect.   Imagined by Hawkins Brown Architects, HKR brings 66 stylish new apartments to Hoxton with a beautifully landscaped...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "Studio for sale",
+            "id": "5333948",
+            "virtual-tours?": true,
+            "property-link": "/details/5333948/",
+            "cover-image": "https://media.onthemarket.com/properties/5333948/1332415109/image-0-480x320.jpg",
+            "price": "\u00a3499,999",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 46,
+            "price-qualifier": "Guide price",
+            "premium-text": "Premium display",
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/9454956/1335892641/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/9454956/1335892641/composite.webp"
+            },
+            "display_address": "Perseverance Works, 38 Kingsland Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9454956/1321770191/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9454956/1321770191/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37777,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - Shoreditch",
+                "telephone": "020 8022 6250",
+                "base-contact-url": "/agents/contact/9454956/",
+                "contact-url": "/agents/contact/9454956/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-shoreditch/",
+                "development?": false
+            },
+            "is-premium?": true,
+            "summary": "An exceptional penthouse apartment.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom penthouse for sale",
+            "id": "9454956",
+            "eb-cover-images": [
+                {
+                    "default": "https://media.onthemarket.com/properties/9454956/1321770191/image-1-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/9454956/1321770191/image-1-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/9454956/1321770191/image-1-480x320.webp"
+                },
+                {
+                    "default": "https://media.onthemarket.com/properties/9454956/1321770191/image-2-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/9454956/1321770191/image-2-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/9454956/1321770191/image-2-480x320.webp"
+                }
+            ],
+            "property-link": "/details/9454956/",
+            "cover-image": "https://media.onthemarket.com/properties/9454956/1321770191/image-0-480x320.jpg",
+            "price": "\u00a32,000,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 18,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Hackeny Road, Shoredicth, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9265907/1325948118/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9265907/1325948118/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 55219,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2213/210209130552826/logo-100x65.png",
+                    "height": 49,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Keller Williams - London Bridge",
+                "telephone": "020 3641 0362",
+                "base-contact-url": "/agents/contact/9265907/",
+                "contact-url": "/agents/contact/9265907/?form-name=details-contact",
+                "details-url": "/agents/branch/keller-williams-london-bridge/",
+                "development?": false
+            },
+            "summary": "*virtual viewings availabele* A stunning 2 bed penthouse in Shoreditch - Modern layout - stunning design - communal gardens - cinema",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom property for sale",
+            "id": "9265907",
+            "property-link": "/details/9265907/",
+            "cover-image": "https://media.onthemarket.com/properties/9265907/1325948118/image-0-480x320.jpg",
+            "price": "\u00a31,230,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Long & Waterson, Long Street, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9292252/1334233957/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9292252/1334233957/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22218,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - London, New Homes",
+                "telephone": "020 8022 7133",
+                "base-contact-url": "/agents/contact/9292252/",
+                "contact-url": "/agents/contact/9292252/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-london-new-homes/",
+                "development?": false
+            },
+            "summary": " A top-floor, dual-aspect, two-bedroom apartment offering unobstructed views towards Canary Wharf and a 285 sq ft east-facing private terrace.  This excellent investment opportunity features warehouse-style windows and beautifully detailed interiors with Poliform kitchens and Waterworks ironmongery.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9292252",
+            "virtual-tours?": true,
+            "property-link": "/details/9292252/",
+            "cover-image": "https://media.onthemarket.com/properties/9292252/1334233957/image-0-480x320.jpg",
+            "price": "\u00a31,055,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Long & Waterson, Long Street, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9040154/1334233233/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9040154/1334233233/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22218,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - London, New Homes",
+                "telephone": "020 8022 7133",
+                "base-contact-url": "/agents/contact/9040154/",
+                "contact-url": "/agents/contact/9040154/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-london-new-homes/",
+                "development?": false
+            },
+            "summary": "  This unique three-bedroom apartment allows for the creation of an optional fourth bedroom or study and offers a 224 sq ft south-facing terrace, benefitting from all-day sun. The open-plan kitchen and reception room is generously-sized, perfect for entertaining, and the large warehouse-style...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9040154",
+            "virtual-tours?": true,
+            "property-link": "/details/9040154/",
+            "cover-image": "https://media.onthemarket.com/properties/9040154/1334233233/image-0-480x320.jpg",
+            "price": "\u00a31,500,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Long Street London E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9256953/1333517077/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9256953/1333517077/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22221,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - City",
+                "telephone": "020 8022 7226",
+                "base-contact-url": "/agents/contact/9256953/",
+                "contact-url": "/agents/contact/9256953/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-city/",
+                "development?": false
+            },
+            "summary": "A generously sized one bedroom apartment on the 4th floor in the highly anticipated Long & Waterson completed development, is an excellent opportunity to be nestled within the key intersection of Hackney Road and Old Street in Shoreditch.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9256953",
+            "property-link": "/details/9256953/",
+            "cover-image": "https://media.onthemarket.com/properties/9256953/1333517077/image-0-480x320.jpg",
+            "price": "\u00a3690,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 16,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "B-02-01 HKR, Hackney Road, London, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/6220708/1332413292/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/6220708/1332413292/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37782,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37782/150609132133033/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - City & East, Residential Development",
+                "telephone": "020 8022 6382",
+                "base-contact-url": "/agents/contact/6220708/",
+                "contact-url": "/agents/contact/6220708/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-city-and-east-residential-development/",
+                "development?": false
+            },
+            "summary": "Bespoke Two bedroom apartment available on Hackney Road benefiting from excellent facilities, E2  This modern new home is located on the second floor of HKR on Hackney Road, is North/South facing and offers a view over the Courtyard & Hackney Road.   The spacious new homes provides 730 square...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "6220708",
+            "cover-image-landscape?": true,
+            "virtual-tours?": true,
+            "property-link": "/details/6220708/",
+            "cover-image": "https://media.onthemarket.com/properties/6220708/1332413292/image-0-480x320.jpg",
+            "price": "\u00a3769,999",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "HKR, Hackney Road, E2",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9191972/1331237411/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9191972/1331237411/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22218,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/547/170331113156299/logo-100x65.png",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "JLL - London, New Homes",
+                "telephone": "020 8022 7133",
+                "base-contact-url": "/agents/contact/9191972/",
+                "contact-url": "/agents/contact/9191972/?form-name=details-contact",
+                "details-url": "/agents/branch/jll-london-new-homes/",
+                "development?": false
+            },
+            "summary": "HKR brings 66 fantastic urban residences to Hoxton. Raised on Hackney Road, HKR is situated close to both the heart of Hoxton and Shoreditch, two of London\u2019s most trendy and popular locations. ",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "Studio for sale",
+            "id": "9191972",
+            "virtual-tours?": true,
+            "property-link": "/details/9191972/",
+            "cover-image": "https://media.onthemarket.com/properties/9191972/1331237411/image-0-480x320.jpg",
+            "price": "\u00a3499,999",
+            "floorplans?": true,
+            "for-sale?": true
+        }
+    ],
+    "many-contact-form": {
+        "contact-many-agents-url": "/agents/contact/",
+        "find-agents?": false,
+        "confirmation": false,
+        "hide-appraisal?": false,
+        "show-agents-count": true,
+        "refine-message": false,
+        "search-type": "for-sale",
+        "to-rent?": false,
+        "agents": [
+            {
+                "name": "Bridge - Shoreditch",
+                "id": 27238,
+                "development?": false
+            },
+            {
+                "name": "Elms Estates - Bethnal Green",
+                "id": 46860,
+                "development?": false
+            },
+            {
+                "name": "Felicity J. Lord - Clerkenwell",
+                "id": 374,
+                "development?": false
+            },
+            {
+                "name": "JLL - City",
+                "id": 22221,
+                "development?": false
+            },
+            {
+                "name": "JLL - London, New Homes",
+                "id": 22218,
+                "development?": false
+            },
+            {
+                "name": "Keller Williams - London Bridge",
+                "id": 55219,
+                "development?": false
+            },
+            {
+                "name": "Keller Williams Plus - Essex",
+                "id": 55105,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - City & East, Residential Development",
+                "id": 37782,
+                "development?": false
+            },
+            {
+                "name": "Madley - Surrey Quays",
+                "id": 44306,
+                "development?": false
+            },
+            {
+                "name": "MyLondonHome",
+                "id": 26009,
+                "development?": false
+            },
+            {
+                "name": "RE/MAX Central - Westminster",
+                "id": 37714,
+                "development?": false
+            },
+            {
+                "name": "Savills - Canary Wharf, Residential Development Sales",
+                "id": 37739,
+                "development?": false
+            },
+            {
+                "name": "Savills - Hackney Wick New Homes",
+                "id": 48663,
+                "development?": false
+            },
+            {
+                "name": "Savills - Shoreditch",
+                "id": 37777,
+                "development?": false
+            },
+            {
+                "name": "Stirling Ackroyd - New Homes",
+                "id": 49188,
+                "development?": false
+            },
+            {
+                "name": "Visum - Leicestershire",
+                "id": 54305,
+                "development?": false
+            }
+        ],
+        "current-url": "/new-homes/property/e2/?page=1&retirement=false",
+        "for-sale?": true
+    },
+    "view-controls": {
+        "view-types": [
+            {
+                "url": "/new-homes/property/e2/?page=1&retirement=false&view=grid",
+                "selected": false,
+                "mobile-to-show": false,
+                "value": "grid",
+                "label": "Grid"
+            },
+            {
+                "url": "/new-homes/property/e2/?retirement=false&view=map",
+                "selected": false,
+                "mobile-to-show": true,
+                "value": "map",
+                "label": "Map"
+            },
+            {
+                "url": "/new-homes/property/e2/?page=1&retirement=false",
+                "selected": true,
+                "mobile-to-show": true,
+                "value": "list",
+                "label": "List"
+            }
+        ],
+        "view-is-default": true,
+        "sorting": [
+            {
+                "url": "/new-homes/property/e2/?retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Highest price"
+            },
+            {
+                "url": "/new-homes/property/e2/?direction=asc&retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Lowest price"
+            },
+            {
+                "url": "/new-homes/property/e2/?retirement=false",
+                "selected": true,
+                "label": "Most recent"
+            }
+        ],
+        "page-size": [],
+        "current-view": "list"
+    },
+    "metric-name": null,
+    "ads": {
+        "results": [
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 1,
+                "unit-code": 1
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 2,
+                "unit-code": 2
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 3,
+                "unit-code": 3
+            }
+        ],
+        "third-party-ads?": true,
+        "third-party-params": {
+            "otm-new-home-flag": "true",
+            "otm-retirement": "false",
+            "otm-new-homes": "true",
+            "otm-location-id": "e2",
+            "otm-location-name": "E2",
+            "otm-under-offer": "false",
+            "otm-postal-district": "E2"
+        }
+    },
+    "saved-search-params": {
+        "retirement": false,
+        "new-home-flag": "T",
+        "exclusive-first": true,
+        "under-offer": false,
+        "new-homes": true,
+        "location-id": "e2",
+        "search-type": "for-sale"
+    },
+    "pagination-controls": {
+        "first-link": null,
+        "trailing-gap": false,
+        "total": "62",
+        "next": {
+            "next-link": "/new-homes/property/e2/?page=2&retirement=false"
+        },
+        "from": "25",
+        "page-links": [
+            {
+                "url": "/new-homes/property/e2/?retirement=false",
+                "page": 1,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e2/?page=1&retirement=false",
+                "page": 2,
+                "selected": true
+            },
+            {
+                "url": "/new-homes/property/e2/?page=2&retirement=false",
+                "page": 3,
+                "selected": false
+            }
+        ],
+        "prev": {
+            "prev-link": "/new-homes/property/e2/?retirement=false"
+        },
+        "last-link": null,
+        "leading-gap": false,
+        "to": "48"
+    },
+    "form-data": {
+        "commercial": {
+            "prices": {
+                "min-prices": [],
+                "max-prices": []
+            },
+            "all-prices": {
+                "pcm": [],
+                "pa": [],
+                "ppu": {
+                    "sqft": [],
+                    "sqm": [],
+                    "ac": [],
+                    "ha": []
+                }
+            },
+            "size-list": {
+                "sqft": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "sqm": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ac": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ha": {
+                    "min-size": [],
+                    "max-size": []
+                }
+            },
+            "size-unit": [],
+            "price-per-list": []
+        },
+        "let-agreed-url": "/new-homes/property/e2/?let-agreed=true&retirement=false",
+        "online-viewings-first-url": "/new-homes/property/e2/?online-viewings-first=true&retirement=false",
+        "character-property": null,
+        "radii": [
+            {
+                "val-raw": "",
+                "val-formatted": "+ 0 miles",
+                "selected?": true
+            },
+            {
+                "val-formatted": "+ \u00bc mile",
+                "val-raw": "0.25",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ \u00bd mile",
+                "val-raw": "0.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 1 mile",
+                "val-raw": "1.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 2 miles",
+                "val-raw": "2.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 3 miles",
+                "val-raw": "3.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 4 miles",
+                "val-raw": "4.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 5 miles",
+                "val-raw": "5.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 7\u00bd miles",
+                "val-raw": "7.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 10 miles",
+                "val-raw": "10.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 15 miles",
+                "val-raw": "15.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 20 miles",
+                "val-raw": "20.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 30 miles",
+                "val-raw": "30.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 40 miles",
+                "val-raw": "40.0",
+                "selected?": false
+            }
+        ],
+        "search-url": "/locations/search/",
+        "show-character-property-control": true,
+        "location-name": "E2",
+        "typeahead-values": "{\"input\":\"E2\",\"location-id\":\"e2\"}",
+        "show-under-offer-control": false,
+        "for-sale": {
+            "min-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ],
+            "max-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ]
+        },
+        "online-viewings-first": null,
+        "exclusive-first": true,
+        "min-bedrooms": [
+            {
+                "val-formatted": "Any",
+                "val-raw": null,
+                "selected?": true
+            },
+            {
+                "val-formatted": "Studio",
+                "val-raw": 0,
+                "selected?": false
+            },
+            {
+                "val-formatted": "1+",
+                "val-raw": 1,
+                "selected?": false
+            },
+            {
+                "val-formatted": "2+",
+                "val-raw": 2,
+                "selected?": false
+            },
+            {
+                "val-formatted": "3+",
+                "val-raw": 3,
+                "selected?": false
+            },
+            {
+                "val-formatted": "4+",
+                "val-raw": 4,
+                "selected?": false
+            },
+            {
+                "val-formatted": "5+",
+                "val-raw": 5,
+                "selected?": false
+            },
+            {
+                "val-formatted": "6+",
+                "val-raw": 6,
+                "selected?": false
+            },
+            {
+                "val-formatted": "7+",
+                "val-raw": 7,
+                "selected?": false
+            },
+            {
+                "val-formatted": "8+",
+                "val-raw": 8,
+                "selected?": false
+            },
+            {
+                "val-formatted": "9+",
+                "val-raw": 9,
+                "selected?": false
+            },
+            {
+                "val-formatted": "10+",
+                "val-raw": 10,
+                "selected?": false
+            }
+        ],
+        "under-offer": false,
+        "exclusive-first-url": "/new-homes/property/e2/?exclusive-first=false&retirement=false",
+        "let-agreed": null,
+        "clear-property-type-url": "/new-homes/property/e2/?retirement=false",
+        "show-let-agreed-control": false,
+        "to-rent": {
+            "pw": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "pcm": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "price-frequency-options": [
+                {
+                    "val-formatted": "Month (calendar)",
+                    "val-raw": "pcm",
+                    "selected?": false
+                },
+                {
+                    "val-formatted": "Week",
+                    "val-raw": "pw",
+                    "selected?": false
+                }
+            ],
+            "is-pcm?": false,
+            "is-pw?": false
+        },
+        "property-types": {
+            "popular": [
+                {
+                    "value": "houses",
+                    "text": "Houses",
+                    "checked?": false
+                },
+                {
+                    "value": "flats-apartments",
+                    "text": "Flats / apartments",
+                    "checked?": false
+                },
+                {
+                    "value": "bungalows",
+                    "text": "Bungalows",
+                    "checked?": false
+                },
+                {
+                    "value": "farms-land",
+                    "text": "Farms / land",
+                    "checked?": false
+                }
+            ],
+            "more": [],
+            "more?": false
+        },
+        "show-online-viewings-first-control": true,
+        "show-exclusive-first-control": true,
+        "under-offer-url": "/new-homes/property/e2/?retirement=false&under-offer=true",
+        "property?": true,
+        "current-search-type": {
+            "new-homes?": true
+        }
+    },
+    "brand": {
+        "id": 1,
+        "name": "otm"
+    },
+    "page-titles": {
+        "page-title": "New Homes E2 | New Developments for Sale | Page 2 | OnTheMarket",
+        "h1-title": "New homes for sale in E2",
+        "meta-title": "Find the latest new homes available for sale now in E2 from leading estate agents."
+    },
+    "url": "/new-homes/property/e2/?page=1&retirement=false",
+    "saved-search-permitted?": true,
+    "suggested-properties": [],
+    "facets": [
+        {
+            "name": "property-features[]",
+            "text": "Outside space",
+            "single-select": false,
+            "terms": [
+                {
+                    "id": "driveway",
+                    "selected": false,
+                    "global": false,
+                    "text": "Driveway"
+                },
+                {
+                    "id": "garden",
+                    "selected": false,
+                    "global": false,
+                    "text": "Garden"
+                },
+                {
+                    "id": "parking",
+                    "selected": false,
+                    "global": false,
+                    "text": "Parking"
+                }
+            ]
+        },
+        {
+            "name": "online-viewings",
+            "text": "Online viewings",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "retirement",
+            "text": "Retirement",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": false,
+                    "global": true,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": true,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "shared-ownership",
+            "text": "Shared ownership",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": false,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "recently-added",
+            "text": "Recently added",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Added any time"
+                },
+                {
+                    "id": "24-hours",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last 24 hours"
+                },
+                {
+                    "id": "3-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last three days"
+                },
+                {
+                    "id": "7-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last seven days"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": {
+        "locations": [
+            {
+                "url": "/new-homes/property/uk/",
+                "text": "UK",
+                "level": 1
+            },
+            {
+                "url": "/new-homes/property/london/",
+                "text": "London",
+                "level": 2
+            },
+            {
+                "url": "/new-homes/property/north-london/",
+                "text": "North London",
+                "level": 6
+            },
+            {
+                "url": "/new-homes/property/e2/",
+                "text": "E2",
+                "level": 7
+            }
+        ]
+    },
+    "show-suggested-message?": false
+}

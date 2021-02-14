@@ -1,0 +1,3055 @@
+{
+    "header-data": {
+        "data-layer": "{\"g-location-type\":\"postal-district\",\"retirement\":false,\"g-location-id\":\"2030002860\",\"property-prices\":[\"219,950\",\"850,000\",\"850,000\",\"1,350,000\",\"1,450,000\",\"1,550,000\",\"1,550,000\",\"1,950,000\",\"2,100,000\",\"2,100,000\",\"2,600,000\",\"4,200,000\",\"4,200,000\",\"4,600,000\",\"5,950,000\",\"6,060,000\",\"6,750,000\",\"7,440,000\",\"7,800,000\",\"9,950,000\",\"9,980,000\",\"11,500,000\",\"12,950,000\",\"29,000,000\"],\"no-of-properties\":239,\"new-home-flag\":\"T\",\"location-name\":\"W1\",\"typeahead\":true,\"g-hierarchy-level\":7,\"meta-robots\":\"not-provided\",\"page\":2,\"exclusive-first\":true,\"property-ids\":[\"9417722\",\"9426806\",\"9422393\",\"9413090\",\"9413208\",\"9422392\",\"9420067\",\"7836199\",\"9422394\",\"9420068\",\"8163391\",\"9422395\",\"9420066\",\"9412813\",\"9309068\",\"9487763\",\"8163950\",\"9487766\",\"9487769\",\"9504473\",\"9487764\",\"9504471\",\"9455083\",\"9267628\"],\"under-offer\":false,\"http-status\":\"200\",\"new-homes\":true,\"location-id\":\"w1\",\"search-type\":\"for-sale\",\"frame-size\":24,\"breadcrumbs\":[\"uk\",\"london\",\"central-london\"],\"direction\":\"desc\",\"view\":\"list\",\"sort-field\":\"update_date\"}",
+        "render-data-layer?": true
+    },
+    "properties": [
+        {
+            "images-count": 23,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "display_address": "Beaumont Mews, Marylebone, London, W1G",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9504473/1323258862/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9504473/1323258862/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22355,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - Marylebone",
+                "telephone": "020 8022 7415",
+                "base-contact-url": "/agents/contact/9504473/",
+                "contact-url": "/agents/contact/9504473/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-marylebone/",
+                "development?": false
+            },
+            "summary": "A contemporary four bedroom townhouse of impeccable specification.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "4 bedroom terraced house for sale",
+            "id": "9504473",
+            "property-link": "/details/9504473/",
+            "cover-image": "https://media.onthemarket.com/properties/9504473/1323258862/image-0-480x320.jpg",
+            "price": "\u00a39,950,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 27,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "display_address": "Beaumont Mews, Marylebone, London, W1G",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9504471/1335405041/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9504471/1335405041/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22355,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - Marylebone",
+                "telephone": "020 8022 7415",
+                "base-contact-url": "/agents/contact/9504471/",
+                "contact-url": "/agents/contact/9504471/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-marylebone/",
+                "development?": false
+            },
+            "summary": "A contemporary four bedroom townhouse of impeccable specification.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "4 bedroom terraced house for sale",
+            "id": "9504471",
+            "property-link": "/details/9504471/",
+            "cover-image": "https://media.onthemarket.com/properties/9504471/1335405041/image-0-480x320.jpg",
+            "price": "\u00a311,500,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Marylebone Square, Moxon Street",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9487769/1322812743/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9487769/1322812743/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 38570,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/38570/150609132741472/logo-100x65.jpg",
+                    "height": 50,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Manors - Baker Street",
+                "telephone": "020 8033 1275",
+                "base-contact-url": "/agents/contact/9487769/",
+                "contact-url": "/agents/contact/9487769/?form-name=details-contact",
+                "details-url": "/agents/branch/manors-baker-street/",
+                "development?": false
+            },
+            "summary": "A South-East facing three-bedroom penthouse apartment set in a brand new development in the heart of Marylebone. This particular three-bedroom penthouse property is East-South facing and totals 1685 Sq.Ft with an additional 1024 Sq.Ft balcony. (contd...)",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9487769",
+            "property-link": "/details/9487769/",
+            "cover-image": "https://media.onthemarket.com/properties/9487769/1322812743/image-0-480x320.jpg",
+            "price": "\u00a37,800,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Marylebone Square, Moxon Street",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9487766/1322812736/image-0-480x320.png",
+                "webp": "https://media.onthemarket.com/properties/9487766/1322812736/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 38570,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/38570/150609132741472/logo-100x65.jpg",
+                    "height": 50,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Manors - Baker Street",
+                "telephone": "020 8033 1275",
+                "base-contact-url": "/agents/contact/9487766/",
+                "contact-url": "/agents/contact/9487766/?form-name=details-contact",
+                "details-url": "/agents/branch/manors-baker-street/",
+                "development?": false
+            },
+            "summary": "Marylebone Square is a collection of 54 apartments located in the heart of Marylebone. Meticulously designed, the building has a state of the art glass roof over a central stone courtyard and indoor garden, providing one of Marylebone's finest new developments to live.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9487766",
+            "property-link": "/details/9487766/",
+            "cover-image": "https://media.onthemarket.com/properties/9487766/1322812736/image-0-480x320.png",
+            "price": "\u00a37,440,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Marylebone Square, Moxon Street",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9487764/1322812730/image-0-480x320.png",
+                "webp": "https://media.onthemarket.com/properties/9487764/1322812730/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 38570,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/38570/150609132741472/logo-100x65.jpg",
+                    "height": 50,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Manors - Baker Street",
+                "telephone": "020 8033 1275",
+                "base-contact-url": "/agents/contact/9487764/",
+                "contact-url": "/agents/contact/9487764/?form-name=details-contact",
+                "details-url": "/agents/branch/manors-baker-street/",
+                "development?": false
+            },
+            "summary": "Marylebone Square is a collection of 54 high-end apartments, carefully chosen boutiques and restaurants, and a versatile community hall. Modern design anchored with classic detail. (contd...)",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9487764",
+            "property-link": "/details/9487764/",
+            "cover-image": "https://media.onthemarket.com/properties/9487764/1322812730/image-0-480x320.png",
+            "price": "\u00a39,980,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Marylebone Square, Moxon Street",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9487763/1322812726/image-0-480x320.png",
+                "webp": "https://media.onthemarket.com/properties/9487763/1322812726/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 38570,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/38570/150609132741472/logo-100x65.jpg",
+                    "height": 50,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Manors - Baker Street",
+                "telephone": "020 8033 1275",
+                "base-contact-url": "/agents/contact/9487763/",
+                "contact-url": "/agents/contact/9487763/?form-name=details-contact",
+                "details-url": "/agents/branch/manors-baker-street/",
+                "development?": false
+            },
+            "summary": "Marylebone Square is a collection of 54 apartments located in the heart of Marylebone. Meticulously designed, the building has a state of the art glass roof over a central stone courtyard and indoor garden, providing one of Marylebone's finest new developments to live.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9487763",
+            "property-link": "/details/9487763/",
+            "cover-image": "https://media.onthemarket.com/properties/9487763/1322812726/image-0-480x320.png",
+            "price": "\u00a36,060,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "display_address": "The Regent's Crescent, 22 Park Crescent, London, W1B",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9455083/1334786268/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9455083/1334786268/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37767,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - London, Margaret Street, New Homes",
+                "telephone": "020 8022 6246",
+                "base-contact-url": "/agents/contact/9455083/",
+                "contact-url": "/agents/contact/9455083/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-london-margaret-street-new-homes/",
+                "development?": false
+            },
+            "summary": "Regents Crescents Triplex show flat extends over 1st and Mezzanine floors, this 4 Bedroom furnished flat boasts generous ceiling heights and Park Crescent garden views.",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "4 bedroom character property for sale",
+            "id": "9455083",
+            "property-link": "/details/9455083/",
+            "cover-image": "https://media.onthemarket.com/properties/9455083/1334786268/image-0-480x320.jpg",
+            "price": "\u00a312,950,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "The Watch House Berwick Street, Soho",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9426806/1320311862/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9426806/1320311862/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 47125,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/6899/180620103247859/logo-100x65.png",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Greater London Properties - Soho",
+                "telephone": "020 3641 5180",
+                "base-contact-url": "/agents/contact/9426806/",
+                "contact-url": "/agents/contact/9426806/?form-name=details-contact",
+                "details-url": "/agents/branch/greater-london-properties-soho/",
+                "development?": false
+            },
+            "summary": "Impressive studio apartment with stunning open plan living room, stylish brick feature walls, wooden flooring, excellent high ceilings, and large windows in new boutique scheme in the heart of Soho. The Watch House offers luxurious living in the geographic, creative and cultural centre of London.",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "Studio for sale",
+            "id": "9426806",
+            "virtual-tours?": true,
+            "property-link": "/details/9426806/",
+            "cover-image": "https://media.onthemarket.com/properties/9426806/1320311862/image-0-480x320.jpg",
+            "price": "\u00a3850,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "The Watch House, 106 Berwick Street, Soho, W1F",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9422395/1336011276/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9422395/1336011276/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37797,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, West End",
+                "telephone": "020 8022 6424",
+                "base-contact-url": "/agents/contact/9422395/",
+                "contact-url": "/agents/contact/9422395/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-residential-london-west-end/",
+                "development?": false
+            },
+            "summary": "3 double bedroom duplex Penthouse with one of the largest south facing terraces in Soho, located on the third and fourth floors of the brand new residential development - Watch House, Berwick Street, Soho, W1 Designed with every detail in mind, this south facing Penthouse provides exceptional...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9422395",
+            "property-link": "/details/9422395/",
+            "cover-image": "https://media.onthemarket.com/properties/9422395/1336011276/image-0-480x320.jpg",
+            "price": "\u00a34,200,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "The Watch House, 106 Berwick Street, Soho, W1F",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9422394/1336011274/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9422394/1336011274/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37797,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, West End",
+                "telephone": "020 8022 6424",
+                "base-contact-url": "/agents/contact/9422394/",
+                "contact-url": "/agents/contact/9422394/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-residential-london-west-end/",
+                "development?": false
+            },
+            "summary": "Luxury two bedroom apartment featuring exposed brick slip feature walls and a private balcony, located on the second floor of the new Watch House development on Berwick Street, Soho, W1 Located on the second floor, this unique apartment boasts open plan kitchen/living/dining area, main bedroom...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9422394",
+            "property-link": "/details/9422394/",
+            "cover-image": "https://media.onthemarket.com/properties/9422394/1336011274/image-0-480x320.jpg",
+            "price": "\u00a32,100,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "The Watch House, 106 Berwick Street, Soho, W1F",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9422393/1336011271/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9422393/1336011271/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37797,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, West End",
+                "telephone": "020 8022 6424",
+                "base-contact-url": "/agents/contact/9422393/",
+                "contact-url": "/agents/contact/9422393/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-residential-london-west-end/",
+                "development?": false
+            },
+            "summary": "West facing studio apartment with exposed brick slip feature wall located on the first floor of the brand-new residential development - Watch House on Berwick Street, Soho, W1 Located on the first floor, this luxury apartment boasts an open plan living, dining and kitchen area, double bedroom...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "Studio for sale",
+            "id": "9422393",
+            "property-link": "/details/9422393/",
+            "cover-image": "https://media.onthemarket.com/properties/9422393/1336011271/image-0-480x320.jpg",
+            "price": "\u00a3850,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "The Watch House, 106 Berwick Street, Soho, W1F",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9422392/1328405544/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9422392/1328405544/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37797,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, West End",
+                "telephone": "020 8022 6424",
+                "base-contact-url": "/agents/contact/9422392/",
+                "contact-url": "/agents/contact/9422392/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-residential-london-west-end/",
+                "development?": false
+            },
+            "summary": "Spacious one bedroom with additional second bedroom or study area, and private balcony on the first floor of The Watch House, Berwick Street, Soho, W1 Located on the first floor, this luxury apartment boasts an open plan living, dining and kitchen area, private balcony, double bedroom and...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9422392",
+            "virtual-tours?": true,
+            "property-link": "/details/9422392/",
+            "cover-image": "https://media.onthemarket.com/properties/9422392/1328405544/image-0-480x320.jpg",
+            "price": "\u00a31,550,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 32,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "The Watch House Berwick Street, Soho",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9420068/1326306755/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9420068/1326306755/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 47125,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/6899/180620103247859/logo-100x65.png",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Greater London Properties - Soho",
+                "telephone": "020 3641 5180",
+                "base-contact-url": "/agents/contact/9420068/",
+                "contact-url": "/agents/contact/9420068/?form-name=details-contact",
+                "details-url": "/agents/branch/greater-london-properties-soho/",
+                "development?": false
+            },
+            "summary": "Luxury 897 SQ.FT. two bedroom apartment with private balcony, stunning open plan living room, stylish brick feature walls, wooden flooring, excellent high ceilings, and large windows in new boutique scheme in the heart of Soho. The Watch House is located on Berwick Street, in the very centre of Soho",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9420068",
+            "virtual-tours?": true,
+            "property-link": "/details/9420068/",
+            "cover-image": "https://media.onthemarket.com/properties/9420068/1326306755/image-0-480x320.jpg",
+            "price": "\u00a32,100,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 21,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "The Watch House Berwick Street, Soho",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9420067/1326045023/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9420067/1326045023/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 47125,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/6899/180620103247859/logo-100x65.png",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Greater London Properties - Soho",
+                "telephone": "020 3641 5180",
+                "base-contact-url": "/agents/contact/9420067/",
+                "contact-url": "/agents/contact/9420067/?form-name=details-contact",
+                "details-url": "/agents/branch/greater-london-properties-soho/",
+                "development?": false
+            },
+            "summary": "An impressive one bed apartment with private balcony in a brand new boutique scheme in fashionable Soho. Curated by architects, interior designers and developer, The Watch House offers luxurious living in the geographic, creative and cultural centre of London.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9420067",
+            "virtual-tours?": true,
+            "property-link": "/details/9420067/",
+            "cover-image": "https://media.onthemarket.com/properties/9420067/1326045023/image-0-480x320.jpg",
+            "price": "\u00a31,550,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 25,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "The Watch House Penthouse, Berwick Street, Soho",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9420066/1333096416/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9420066/1333096416/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 47125,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/6899/180620103247859/logo-100x65.png",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Greater London Properties - Soho",
+                "telephone": "020 3641 5180",
+                "base-contact-url": "/agents/contact/9420066/",
+                "contact-url": "/agents/contact/9420066/?form-name=details-contact",
+                "details-url": "/agents/branch/greater-london-properties-soho/",
+                "development?": false
+            },
+            "summary": "Magnificent 1,574 SQ.FT. three bedroom penthouse with two private terraces in a highly-desired new boutique scheme in trendy Soho. The Watch House offers luxurious living in the geographic, creative and cultural centre of London.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "3 bedroom penthouse for sale",
+            "id": "9420066",
+            "virtual-tours?": true,
+            "property-link": "/details/9420066/",
+            "cover-image": "https://media.onthemarket.com/properties/9420066/1333096416/image-0-480x320.jpg",
+            "price": "\u00a34,200,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 15,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Park House Apartments, Bath Road, Slough",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9417722/1334199840/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9417722/1334199840/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 49306,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/8226/181012152518194/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 86,
+                    "resized?": true
+                },
+                "name": "Jackson O'Rourke Estate Agents - Berkshire",
+                "telephone": "01628 246817",
+                "base-contact-url": "/agents/contact/9417722/",
+                "contact-url": "/agents/contact/9417722/?form-name=details-contact",
+                "details-url": "/agents/branch/jackson-orourke-estate-agents-berkshire/",
+                "development?": false
+            },
+            "summary": "Introducing Park House, a brand new development consisting of luxury one bedroom apartments perfectly located within the heart of Slough Town Centre. Finished to a high standard, these contemporary new builds are the ideal purchase for investors or first time buyers, with Help to Buy scheme...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9417722",
+            "virtual-tours?": true,
+            "property-link": "/details/9417722/",
+            "cover-image": "https://media.onthemarket.com/properties/9417722/1334199840/image-0-480x320.jpg",
+            "price": "\u00a3219,950",
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 6, 38 Langham Street, Great Portland Street, Fitzrovia, London, W1W",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9413208/1334269986/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9413208/1334269986/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/9413208/",
+                "contact-url": "/agents/contact/9413208/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Generous 1 bedroom lateral apartment for sale in W1.  38 Langham Street is a collection of seventeen luxury apartments in the heart of Fitzrovia. Everything about the development has been carefully designed to complement the history of the building and it's neighbourhood.  All of the apartments...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "9413208",
+            "property-link": "/details/9413208/",
+            "cover-image": "https://media.onthemarket.com/properties/9413208/1334269986/image-0-480x320.jpg",
+            "price": "\u00a31,450,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 16, 38 Langham Street, Great Portland Street, Fitzrovia, London, W1W",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8163950/1334269898/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8163950/1334269898/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/8163950/",
+                "contact-url": "/agents/contact/8163950/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Three bedroom apartment for sale in a new boutique development.  38 Langham Street is a collection of seventeen luxury apartments in the heart of Fitzrovia. Everything about the development has been carefully designed to complement the history of the building and it's neighbourhood.  This new...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8163950",
+            "property-link": "/details/8163950/",
+            "cover-image": "https://media.onthemarket.com/properties/8163950/1334269898/image-0-480x320.jpg",
+            "price": "\u00a36,750,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 14, 38 Langham Street, Great Portland Street, Fitzrovia, London, W1W",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9413090/1334269790/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9413090/1334269790/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/9413090/",
+                "contact-url": "/agents/contact/9413090/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "One bedroom apartment for sale in W1\n\n38 Langham Street is a collection of seventeen luxury apartments in the heart of Fitzrovia. Everything about the development has been carefully designed to complement the history of the building and it's neighbourhood.\n\nAll of the apartments have bee...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "9413090",
+            "property-link": "/details/9413090/",
+            "cover-image": "https://media.onthemarket.com/properties/9413090/1334269790/image-0-480x320.jpg",
+            "price": "\u00a31,350,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 1, 38 Langham Street, Great Portland Street, Fitzrovia, London, W1W",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8163391/1334269762/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8163391/1334269762/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/8163391/",
+                "contact-url": "/agents/contact/8163391/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "For Sale - 2 Bedroom Duplex Apartment with Private Terrace in Central London W1.  38 Langham Street is a collection of seventeen luxury apartments in the heart of Fitzrovia. Everything about the development has been carefully designed to complement the history of the building and it's...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "8163391",
+            "property-link": "/details/8163391/",
+            "cover-image": "https://media.onthemarket.com/properties/8163391/1334269762/image-0-480x320.jpg",
+            "price": "\u00a32,600,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "display_address": "Apartment 6, Bolsover Street, Fitzrovia,, London, W1W",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7836199/1319988866/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7836199/1319988866/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/7836199/",
+                "contact-url": "/agents/contact/7836199/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Stunning brand new 2 bed duplex apartment in Fitzrovia  Set across the ground and lower ground floors this sensational apartment boasts an open plan living, dining and kitchen area, two bedrooms, two en-suite bathrooms and a separate WC. 1,133 sq ft  Exceptionally finished the apartment features...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7836199",
+            "property-link": "/details/7836199/",
+            "cover-image": "https://media.onthemarket.com/properties/7836199/1319988866/image-0-480x320.jpg",
+            "price": "\u00a31,950,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 7, 19 Bolsover Street, Fitzrovia, London, W1W.",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9412813/1319988770/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9412813/1319988770/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/9412813/",
+                "contact-url": "/agents/contact/9412813/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Beautiful 3 bedroom apartment now available\n\nSet on the first floor this luxury apartment boasts an open plan living, dining and kitchen area, three bedrooms, three en-suite bathrooms and separate WC. 1,900 sq ft\n\nExceptionally finished the apartment features beautifully designed sash windows a...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "9412813",
+            "property-link": "/details/9412813/",
+            "cover-image": "https://media.onthemarket.com/properties/9412813/1319988770/image-0-480x320.jpg",
+            "price": "\u00a34,600,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 14,
+            "price-qualifier": "Guide price",
+            "premium-text": "High specification",
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/9309068/1336868072/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/9309068/1336868072/composite.webp"
+            },
+            "display_address": "Oldbury Place, London, W1U",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9309068/1336122696/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9309068/1336122696/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 4831,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/4831/150609131509368/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - Marylebone",
+                "telephone": "020 8022 7410",
+                "base-contact-url": "/agents/contact/9309068/",
+                "contact-url": "/agents/contact/9309068/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-marylebone/",
+                "development?": false
+            },
+            "is-premium?": true,
+            "summary": "Five Bedroom House for Sale in Marylebone W1\n\nSituated on a quiet, cobbled mews street, this four-bedroom house has been and finished to excellent standards.\nSet out over five floors, the home comprises a principal bedroom with en-suite, three further bedrooms (two with en-suite), a fully-fitted...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "5 bedroom semi-detached house for sale",
+            "id": "9309068",
+            "eb-cover-images": [
+                {
+                    "default": "https://media.onthemarket.com/properties/9309068/1336122696/image-1-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/9309068/1336122696/image-1-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/9309068/1336122696/image-1-480x320.webp"
+                },
+                {
+                    "default": "https://media.onthemarket.com/properties/9309068/1336122696/image-2-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/9309068/1336122696/image-2-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/9309068/1336122696/image-2-480x320.webp"
+                }
+            ],
+            "property-link": "/details/9309068/",
+            "cover-image": "https://media.onthemarket.com/properties/9309068/1336122696/image-0-480x320.jpg",
+            "price": "\u00a35,950,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 21,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Culross Street, Mayfair, London, W1K",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9267628/1315854376/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9267628/1315854376/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 22356,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4/161109164034707/logo-100x65.png",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Savills - Mayfair",
+                "telephone": "020 8022 6977",
+                "base-contact-url": "/agents/contact/9267628/",
+                "contact-url": "/agents/contact/9267628/?form-name=details-contact",
+                "details-url": "/agents/branch/savills-mayfair/",
+                "development?": false
+            },
+            "summary": "A beautiful newly constructed Mayfair mansion of 8,060 sq ft, situated in an enviable location just off Park Lane.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "6 bedroom terraced house for sale",
+            "id": "9267628",
+            "property-link": "/details/9267628/",
+            "cover-image": "https://media.onthemarket.com/properties/9267628/1315854376/image-0-480x320.jpg",
+            "price": "\u00a329,000,000",
+            "videos?": true,
+            "floorplans?": true,
+            "for-sale?": true
+        }
+    ],
+    "many-contact-form": {
+        "contact-many-agents-url": "/agents/contact/",
+        "find-agents?": false,
+        "confirmation": false,
+        "hide-appraisal?": false,
+        "show-agents-count": true,
+        "refine-message": false,
+        "search-type": "for-sale",
+        "to-rent?": false,
+        "agents": [
+            {
+                "name": "Aeon & Trisl - Mayfair",
+                "id": 55134,
+                "development?": false
+            },
+            {
+                "name": "Aston Chase - London",
+                "id": 22154,
+                "development?": false
+            },
+            {
+                "name": "BARNES International - South Kensington",
+                "id": 52264,
+                "development?": false
+            },
+            {
+                "name": "Carter Jonas - Marylebone & Regents Park",
+                "id": 5012,
+                "development?": false
+            },
+            {
+                "name": "Carter Jonas - Mayfair & St James's",
+                "id": 5013,
+                "development?": false
+            },
+            {
+                "name": "CBRE Residential - London, West End",
+                "id": 37797,
+                "development?": false
+            },
+            {
+                "name": "Chestertons - Mayfair",
+                "id": 4971,
+                "development?": false
+            },
+            {
+                "name": "David Turner Property - Mayfair",
+                "id": 53554,
+                "development?": false
+            },
+            {
+                "name": "Douglas & Gordon - Gloucester Road",
+                "id": 347,
+                "development?": false
+            },
+            {
+                "name": "Druce & Co - Marylebone",
+                "id": 22194,
+                "development?": false
+            },
+            {
+                "name": "Greater London Properties - Soho",
+                "id": 47125,
+                "development?": false
+            },
+            {
+                "name": "Hanover - St Johns Wood",
+                "id": 47653,
+                "development?": false
+            },
+            {
+                "name": "Hudsons - Fitzrovia",
+                "id": 25855,
+                "development?": false
+            },
+            {
+                "name": "Ian Green Residential - St Johns Wood",
+                "id": 29314,
+                "development?": false
+            },
+            {
+                "name": "Jackson O'Rourke Estate Agents - Berkshire",
+                "id": 49306,
+                "development?": false
+            },
+            {
+                "name": "Jaffray Estates - Marylebone",
+                "id": 47175,
+                "development?": false
+            },
+            {
+                "name": "JLL - London, New Homes",
+                "id": 22218,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "id": 42119,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - London, Residential Development Prime Team",
+                "id": 37788,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - Marylebone",
+                "id": 4831,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - Mayfair",
+                "id": 4832,
+                "development?": false
+            },
+            {
+                "name": "LIFE Residential - South Bank",
+                "id": 50192,
+                "development?": false
+            },
+            {
+                "name": "Manors - Baker Street",
+                "id": 38570,
+                "development?": false
+            },
+            {
+                "name": "MyLondonHome",
+                "id": 26009,
+                "development?": false
+            },
+            {
+                "name": "Napier Watt - Mayfair",
+                "id": 25924,
+                "development?": false
+            },
+            {
+                "name": "Next Property - London",
+                "id": 39174,
+                "development?": false
+            },
+            {
+                "name": "RE/MAX Central - Westminster",
+                "id": 37714,
+                "development?": false
+            },
+            {
+                "name": "RE/MAX Diamond",
+                "id": 38461,
+                "development?": false
+            },
+            {
+                "name": "RE/MAX Property Group",
+                "id": 27790,
+                "development?": false
+            },
+            {
+                "name": "Robert Irving Burns - Fitzrovia",
+                "id": 27582,
+                "development?": false
+            },
+            {
+                "name": "Savills - London, Margaret Street, New Homes",
+                "id": 37767,
+                "development?": false
+            },
+            {
+                "name": "Savills - Marylebone",
+                "id": 22355,
+                "development?": false
+            },
+            {
+                "name": "Savills - Mayfair",
+                "id": 22356,
+                "development?": false
+            },
+            {
+                "name": "Sherwoods International Properties - Kensington",
+                "id": 42003,
+                "development?": false
+            },
+            {
+                "name": "Sotheby's International Realty - Central London",
+                "id": 47907,
+                "development?": false
+            },
+            {
+                "name": "Winston Crowns - Mayfair",
+                "id": 53589,
+                "development?": false
+            }
+        ],
+        "current-url": "/new-homes/property/w1/?page=2&retirement=false",
+        "for-sale?": true
+    },
+    "view-controls": {
+        "view-types": [
+            {
+                "url": "/new-homes/property/w1/?page=2&retirement=false&view=grid",
+                "selected": false,
+                "mobile-to-show": false,
+                "value": "grid",
+                "label": "Grid"
+            },
+            {
+                "url": "/new-homes/property/w1/?retirement=false&view=map",
+                "selected": false,
+                "mobile-to-show": true,
+                "value": "map",
+                "label": "Map"
+            },
+            {
+                "url": "/new-homes/property/w1/?page=2&retirement=false",
+                "selected": true,
+                "mobile-to-show": true,
+                "value": "list",
+                "label": "List"
+            }
+        ],
+        "view-is-default": true,
+        "sorting": [
+            {
+                "url": "/new-homes/property/w1/?retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Highest price"
+            },
+            {
+                "url": "/new-homes/property/w1/?direction=asc&retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Lowest price"
+            },
+            {
+                "url": "/new-homes/property/w1/?retirement=false",
+                "selected": true,
+                "label": "Most recent"
+            }
+        ],
+        "page-size": [],
+        "current-view": "list"
+    },
+    "metric-name": null,
+    "ads": {
+        "results": [
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 1,
+                "unit-code": 1
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 2,
+                "unit-code": 2
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 3,
+                "unit-code": 3
+            }
+        ],
+        "third-party-ads?": true,
+        "third-party-params": {
+            "otm-new-home-flag": "true",
+            "otm-retirement": "false",
+            "otm-new-homes": "true",
+            "otm-location-id": "w1",
+            "otm-location-name": "W1",
+            "otm-under-offer": "false",
+            "otm-postal-district": "W1"
+        }
+    },
+    "saved-search-params": {
+        "retirement": false,
+        "new-home-flag": "T",
+        "exclusive-first": true,
+        "under-offer": false,
+        "new-homes": true,
+        "location-id": "w1",
+        "search-type": "for-sale"
+    },
+    "pagination-controls": {
+        "first-link": null,
+        "trailing-gap": true,
+        "total": "239",
+        "next": {
+            "next-link": "/new-homes/property/w1/?page=3&retirement=false"
+        },
+        "from": "49",
+        "page-links": [
+            {
+                "url": "/new-homes/property/w1/?retirement=false",
+                "page": 1,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/w1/?page=1&retirement=false",
+                "page": 2,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/w1/?page=2&retirement=false",
+                "page": 3,
+                "selected": true
+            },
+            {
+                "url": "/new-homes/property/w1/?page=3&retirement=false",
+                "page": 4,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/w1/?page=4&retirement=false",
+                "page": 5,
+                "selected": false
+            }
+        ],
+        "prev": {
+            "prev-link": "/new-homes/property/w1/?page=1&retirement=false"
+        },
+        "last-link": {
+            "url": "/new-homes/property/w1/?page=9&retirement=false",
+            "page": 10
+        },
+        "leading-gap": false,
+        "to": "72"
+    },
+    "form-data": {
+        "commercial": {
+            "prices": {
+                "min-prices": [],
+                "max-prices": []
+            },
+            "all-prices": {
+                "pcm": [],
+                "pa": [],
+                "ppu": {
+                    "sqft": [],
+                    "sqm": [],
+                    "ac": [],
+                    "ha": []
+                }
+            },
+            "size-list": {
+                "sqft": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "sqm": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ac": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ha": {
+                    "min-size": [],
+                    "max-size": []
+                }
+            },
+            "size-unit": [],
+            "price-per-list": []
+        },
+        "let-agreed-url": "/new-homes/property/w1/?let-agreed=true&retirement=false",
+        "online-viewings-first-url": "/new-homes/property/w1/?online-viewings-first=true&retirement=false",
+        "character-property": null,
+        "radii": [
+            {
+                "val-raw": "",
+                "val-formatted": "+ 0 miles",
+                "selected?": true
+            },
+            {
+                "val-formatted": "+ \u00bc mile",
+                "val-raw": "0.25",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ \u00bd mile",
+                "val-raw": "0.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 1 mile",
+                "val-raw": "1.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 2 miles",
+                "val-raw": "2.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 3 miles",
+                "val-raw": "3.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 4 miles",
+                "val-raw": "4.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 5 miles",
+                "val-raw": "5.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 7\u00bd miles",
+                "val-raw": "7.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 10 miles",
+                "val-raw": "10.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 15 miles",
+                "val-raw": "15.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 20 miles",
+                "val-raw": "20.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 30 miles",
+                "val-raw": "30.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 40 miles",
+                "val-raw": "40.0",
+                "selected?": false
+            }
+        ],
+        "search-url": "/locations/search/",
+        "show-character-property-control": true,
+        "location-name": "W1",
+        "typeahead-values": "{\"input\":\"W1\",\"location-id\":\"w1\"}",
+        "show-under-offer-control": false,
+        "for-sale": {
+            "min-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ],
+            "max-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ]
+        },
+        "online-viewings-first": null,
+        "exclusive-first": true,
+        "min-bedrooms": [
+            {
+                "val-formatted": "Any",
+                "val-raw": null,
+                "selected?": true
+            },
+            {
+                "val-formatted": "Studio",
+                "val-raw": 0,
+                "selected?": false
+            },
+            {
+                "val-formatted": "1+",
+                "val-raw": 1,
+                "selected?": false
+            },
+            {
+                "val-formatted": "2+",
+                "val-raw": 2,
+                "selected?": false
+            },
+            {
+                "val-formatted": "3+",
+                "val-raw": 3,
+                "selected?": false
+            },
+            {
+                "val-formatted": "4+",
+                "val-raw": 4,
+                "selected?": false
+            },
+            {
+                "val-formatted": "5+",
+                "val-raw": 5,
+                "selected?": false
+            },
+            {
+                "val-formatted": "6+",
+                "val-raw": 6,
+                "selected?": false
+            },
+            {
+                "val-formatted": "7+",
+                "val-raw": 7,
+                "selected?": false
+            },
+            {
+                "val-formatted": "8+",
+                "val-raw": 8,
+                "selected?": false
+            },
+            {
+                "val-formatted": "9+",
+                "val-raw": 9,
+                "selected?": false
+            },
+            {
+                "val-formatted": "10+",
+                "val-raw": 10,
+                "selected?": false
+            }
+        ],
+        "under-offer": false,
+        "exclusive-first-url": "/new-homes/property/w1/?exclusive-first=false&retirement=false",
+        "let-agreed": null,
+        "clear-property-type-url": "/new-homes/property/w1/?retirement=false",
+        "show-let-agreed-control": false,
+        "to-rent": {
+            "pw": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "pcm": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "price-frequency-options": [
+                {
+                    "val-formatted": "Month (calendar)",
+                    "val-raw": "pcm",
+                    "selected?": false
+                },
+                {
+                    "val-formatted": "Week",
+                    "val-raw": "pw",
+                    "selected?": false
+                }
+            ],
+            "is-pcm?": false,
+            "is-pw?": false
+        },
+        "property-types": {
+            "popular": [
+                {
+                    "value": "houses",
+                    "text": "Houses",
+                    "checked?": false
+                },
+                {
+                    "value": "flats-apartments",
+                    "text": "Flats / apartments",
+                    "checked?": false
+                },
+                {
+                    "value": "bungalows",
+                    "text": "Bungalows",
+                    "checked?": false
+                },
+                {
+                    "value": "farms-land",
+                    "text": "Farms / land",
+                    "checked?": false
+                }
+            ],
+            "more": [],
+            "more?": false
+        },
+        "show-online-viewings-first-control": true,
+        "show-exclusive-first-control": true,
+        "under-offer-url": "/new-homes/property/w1/?retirement=false&under-offer=true",
+        "property?": true,
+        "current-search-type": {
+            "new-homes?": true
+        }
+    },
+    "brand": {
+        "id": 1,
+        "name": "otm"
+    },
+    "page-titles": {
+        "page-title": "New Homes W1 | New Developments for Sale | Page 3 | OnTheMarket",
+        "h1-title": "New homes for sale in W1",
+        "meta-title": "Find the latest new homes available for sale now in W1 from leading estate agents."
+    },
+    "url": "/new-homes/property/w1/?page=2&retirement=false",
+    "saved-search-permitted?": true,
+    "suggested-properties": [],
+    "facets": [
+        {
+            "name": "property-features[]",
+            "text": "Outside space",
+            "single-select": false,
+            "terms": [
+                {
+                    "id": "driveway",
+                    "selected": false,
+                    "global": false,
+                    "text": "Driveway"
+                },
+                {
+                    "id": "garden",
+                    "selected": false,
+                    "global": false,
+                    "text": "Garden"
+                },
+                {
+                    "id": "parking",
+                    "selected": false,
+                    "global": false,
+                    "text": "Parking"
+                }
+            ]
+        },
+        {
+            "name": "online-viewings",
+            "text": "Online viewings",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "retirement",
+            "text": "Retirement",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": false,
+                    "global": true,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": true,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "shared-ownership",
+            "text": "Shared ownership",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": false,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "recently-added",
+            "text": "Recently added",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Added any time"
+                },
+                {
+                    "id": "24-hours",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last 24 hours"
+                },
+                {
+                    "id": "3-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last three days"
+                },
+                {
+                    "id": "7-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last seven days"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": {
+        "locations": [
+            {
+                "url": "/new-homes/property/uk/",
+                "text": "UK",
+                "level": 1
+            },
+            {
+                "url": "/new-homes/property/london/",
+                "text": "London",
+                "level": 2
+            },
+            {
+                "url": "/new-homes/property/central-london/",
+                "text": "Central London",
+                "level": 6
+            },
+            {
+                "url": "/new-homes/property/w1/",
+                "text": "W1",
+                "level": 7
+            }
+        ]
+    },
+    "show-suggested-message?": false
+}

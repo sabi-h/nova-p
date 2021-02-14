@@ -1,0 +1,2907 @@
+{
+    "header-data": {
+        "data-layer": "{\"g-location-type\":\"postal-district\",\"retirement\":false,\"g-location-id\":\"2030000743\",\"property-prices\":[\"106,250\",\"280,500\",\"283,000\",\"285,500\",\"285,500\",\"290,500\",\"323,500\",\"323,500\",\"381,500\",\"384,000\",\"385,000\",\"388,500\",\"391,000\",\"392,000\",\"394,500\",\"407,500\",\"409,000\",\"412,500\",\"429,500\",\"449,500\",\"454,500\",\"454,500\",\"499,500\",\"520,000\"],\"no-of-properties\":90,\"new-home-flag\":\"T\",\"location-name\":\"E6\",\"typeahead\":true,\"g-hierarchy-level\":7,\"meta-robots\":\"not-provided\",\"page\":1,\"exclusive-first\":true,\"property-ids\":[\"8736555\",\"9985064\",\"9985249\",\"9985303\",\"9985265\",\"9985272\",\"9985285\",\"9985114\",\"9984979\",\"9985189\",\"9984997\",\"9985006\",\"9985218\",\"9985035\",\"9985232\",\"9985156\",\"9984967\",\"9985174\",\"9985046\",\"9985085\",\"9985107\",\"9984936\",\"9985142\",\"9985134\"],\"under-offer\":false,\"http-status\":\"200\",\"new-homes\":true,\"location-id\":\"e6\",\"search-type\":\"for-sale\",\"frame-size\":24,\"breadcrumbs\":[\"uk\",\"london\",\"east-london\"],\"direction\":\"desc\",\"view\":\"list\",\"sort-field\":\"update_date\"}",
+        "render-data-layer?": true
+    },
+    "properties": [
+        {
+            "reduced?": true,
+            "images-count": 16,
+            "price-qualifier": "Shared ownership",
+            "data-label-id": "reduced",
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/8736555/1337394928/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/8736555/1337394928/composite.webp"
+            },
+            "online-viewing?": true,
+            "display_address": "3 Bedroom Apartment at Greenway at Beckton Parkside, Newham Way, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8736555/1336099298/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8736555/1336099298/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 54618,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/10420/200617115741678/logo-100x65.png",
+                    "height": 29,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Peabody - Greenway at Beckton Parkside",
+                "telephone": "020 8128 9462",
+                "base-contact-url": "/agents/contact/8736555/",
+                "contact-url": "/agents/contact/8736555/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/peabody-greenway-at-beckton-parkside/",
+                "development?": true
+            },
+            "summary": "3 bed Shared Ownership duplexes in Newham with Concierge and Gym | Online Viewings Available - Register your Interest",
+            "property-labels": [
+                "Reduced",
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "is-spotlight?": true,
+            "id": "8736555",
+            "eb-cover-images": [
+                {
+                    "default": "https://media.onthemarket.com/properties/8736555/1336099298/image-1-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/8736555/1336099298/image-1-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/8736555/1336099298/image-1-480x320.webp"
+                },
+                {
+                    "default": "https://media.onthemarket.com/properties/8736555/1336099298/image-2-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/8736555/1336099298/image-2-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/8736555/1336099298/image-2-480x320.webp"
+                }
+            ],
+            "virtual-tours?": true,
+            "property-link": "/details/8736555/",
+            "cover-image": "https://media.onthemarket.com/properties/8736555/1336099298/image-0-480x320.jpg",
+            "price": "\u00a3106,250",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 304, Type BP48 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985303/1337324916/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985303/1337324916/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985303/",
+                "contact-url": "/agents/contact/9985303/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a stylish bathroom and a balcony. Access to the balcony is by way of the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985303",
+            "property-link": "/details/9985303/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985303/1337324916/image-0-480x320.jpg",
+            "price": "\u00a3285,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 306, Type BP47 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985285/1337324888/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985285/1337324888/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985285/",
+                "contact-url": "/agents/contact/9985285/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a contemporary bathroom and a balcony. Access to the balcony is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985285",
+            "property-link": "/details/9985285/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985285/1337324888/image-0-480x320.jpg",
+            "price": "\u00a3323,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 322, Type BP46 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985272/1337324823/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985272/1337324823/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985272/",
+                "contact-url": "/agents/contact/9985272/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a stylish bathroom, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday 10:00...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985272",
+            "property-link": "/details/9985272/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985272/1337324823/image-0-480x320.jpg",
+            "price": "\u00a3290,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 302, Type BP46 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985265/1337324809/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985265/1337324809/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985265/",
+                "contact-url": "/agents/contact/9985265/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a stylish bathroom, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday 10:00...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985265",
+            "property-link": "/details/9985265/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985265/1337324809/image-0-480x320.jpg",
+            "price": "\u00a3285,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 296, Type BP46 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985249/1337324784/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985249/1337324784/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985249/",
+                "contact-url": "/agents/contact/9985249/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a stylish bathroom, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday 10:00...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985249",
+            "property-link": "/details/9985249/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985249/1337324784/image-0-480x320.jpg",
+            "price": "\u00a3283,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 274, Type BP45 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985232/1337324763/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985232/1337324763/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985232/",
+                "contact-url": "/agents/contact/9985232/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a balcony. Access to the balcony is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985232",
+            "property-link": "/details/9985232/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985232/1337324763/image-0-480x320.jpg",
+            "price": "\u00a3394,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 267, Type BP45 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985218/1337324747/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985218/1337324747/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985218/",
+                "contact-url": "/agents/contact/9985218/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a balcony. Access to the balcony is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985218",
+            "property-link": "/details/9985218/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985218/1337324747/image-0-480x320.jpg",
+            "price": "\u00a3391,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 253, Type BP45 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985189/1337324693/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985189/1337324693/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985189/",
+                "contact-url": "/agents/contact/9985189/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a balcony. Access to the balcony is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985189",
+            "property-link": "/details/9985189/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985189/1337324693/image-0-480x320.jpg",
+            "price": "\u00a3384,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 281, Type BP44 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985174/1337324666/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985174/1337324666/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985174/",
+                "contact-url": "/agents/contact/9985174/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is via the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985174",
+            "property-link": "/details/9985174/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985174/1337324666/image-0-480x320.jpg",
+            "price": "\u00a3412,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 280, Type BP43 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985156/",
+                "contact-url": "/agents/contact/9985156/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985156",
+            "property-link": "/details/9985156/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3407,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 279, Type BP42 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985142/",
+                "contact-url": "/agents/contact/9985142/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 3-bedroom apartment features an open-plan kitchen, living and dining area, an en suite to bedroom 1, a modern family bathroom and a balcony. Access to the terrace is from the dining area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9985142",
+            "property-link": "/details/9985142/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3499,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 282, Type BP40 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985134/1337324535/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985134/1337324535/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985134/",
+                "contact-url": "/agents/contact/9985134/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has three bedrooms - one of which benefits from an en suite - a contemporary family bathroom, an open-plan kitchen, living and dining area, and a terrace. The terrace can be accessed from both the living area and from bedroom 1. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9985134",
+            "property-link": "/details/9985134/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985134/1337324535/image-0-480x320.jpg",
+            "price": "\u00a3520,000",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 317, Type BP38 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985114/",
+                "contact-url": "/agents/contact/9985114/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has one bedroom, an open-plan kitchen, living and dining area, a stylish bathroom and a balcony. Access to the balcony is via the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday 10:00...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985114",
+            "property-link": "/details/9985114/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3323,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 259, Type BP37 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985107/1337324501/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985107/1337324501/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985107/",
+                "contact-url": "/agents/contact/9985107/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has three bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a balcony. Access to the balcony is by way of the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9985107",
+            "property-link": "/details/9985107/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985107/1337324501/image-0-480x320.jpg",
+            "price": "\u00a3454,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 252, Type BP37 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985085/1337324475/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985085/1337324475/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985085/",
+                "contact-url": "/agents/contact/9985085/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has three bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a balcony. Access to the balcony is by way of the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9985085",
+            "property-link": "/details/9985085/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985085/1337324475/image-0-480x320.jpg",
+            "price": "\u00a3449,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 305, Type BP36 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985064/",
+                "contact-url": "/agents/contact/9985064/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 1-bedroom home features an open-plan kitchen, living and dining area, a contemporary bathroom and a balcony. Access to the balcony is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 - 17:00 Friday 10:00 - 17:00 Saturday...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "9985064",
+            "property-link": "/details/9985064/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3280,500",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 263, Type BP35 at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9985046/1337324271/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9985046/1337324271/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985046/",
+                "contact-url": "/agents/contact/9985046/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 3-bedroom apartment features an open-plan kitchen, living and dining area, an en suite to bedroom 1, a contemporary family bathroom and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "9985046",
+            "property-link": "/details/9985046/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9985046/1337324271/image-0-480x320.jpg",
+            "price": "\u00a3429,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 265, Type BP34 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985035/",
+                "contact-url": "/agents/contact/9985035/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985035",
+            "property-link": "/details/9985035/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3392,000",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 258, Type BP34 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9985006/",
+                "contact-url": "/agents/contact/9985006/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9985006",
+            "property-link": "/details/9985006/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3388,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 251, Type BP34 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9984997/",
+                "contact-url": "/agents/contact/9984997/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9984997",
+            "property-link": "/details/9984997/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3385,000",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 243, Type BP34 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9984979/",
+                "contact-url": "/agents/contact/9984979/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9984979",
+            "property-link": "/details/9984979/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3381,500",
+            "for-sale?": true
+        },
+        {
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 128, Type BP34 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/default/default-property.png"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9984967/",
+                "contact-url": "/agents/contact/9984967/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This apartment has two bedrooms - one of which benefits from an en suite shower room - a stylish family bathroom, an open-plan kitchen, living and dining area, and a terrace. Access to the terrace is from the living area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9984967",
+            "property-link": "/details/9984967/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/default/default-property.png",
+            "price": "\u00a3409,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 1,
+            "price-qualifier": null,
+            "data-label-id": "recent",
+            "new-home-flag": true,
+            "display_address": "Plot 249, Type BP33 WCH at Beckton Parkside, Viking Gardens, Beckton E6",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9984936/1337324012/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9984936/1337324012/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 56008,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/9968/210113122228420/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Bellway Homes - Beckton Parkside",
+                "telephone": "020 3641 3983",
+                "base-contact-url": "/agents/contact/9984936/",
+                "contact-url": "/agents/contact/9984936/?form-name=details-contact",
+                "details-url": "/new-homes/developers/development/beckton-parkside-56008/",
+                "development?": true
+            },
+            "summary": "This 2-bedroom apartment benefits from an open-plan kitchen, living and dining area, an en suite to bedroom 1, stylish family bathroom and a terrace. Access to the terrace is from the dining area. Opening hours Monday 10:00 - 17:00 Tuesday 10:00 - 17:00 Wednesday 10:00 - 17:00 Thursday 10:00 -...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Recently added",
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9984936",
+            "property-link": "/details/9984936/",
+            "recently-added?": true,
+            "cover-image": "https://media.onthemarket.com/properties/9984936/1337324012/image-0-480x320.jpg",
+            "price": "\u00a3454,500",
+            "for-sale?": true
+        }
+    ],
+    "many-contact-form": {
+        "contact-many-agents-url": "/agents/contact/",
+        "find-agents?": false,
+        "confirmation": false,
+        "hide-appraisal?": false,
+        "show-agents-count": true,
+        "refine-message": false,
+        "search-type": "for-sale",
+        "to-rent?": false,
+        "agents": [
+            {
+                "name": "Barratt London - New Market Place",
+                "id": 51597,
+                "development?": true
+            },
+            {
+                "name": "Barratt London - Upton Gardens",
+                "id": 51550,
+                "development?": true
+            },
+            {
+                "name": "Bellway Homes - Beckton Parkside",
+                "id": 56008,
+                "development?": true
+            },
+            {
+                "name": "Chanin Estates - Isle of Dogs",
+                "id": 47980,
+                "development?": false
+            },
+            {
+                "name": "haart Estate Agents - East Ham",
+                "id": 5341,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - City & East, Residential Development",
+                "id": 37782,
+                "development?": false
+            },
+            {
+                "name": "L&Q - The Forge",
+                "id": 55122,
+                "development?": true
+            },
+            {
+                "name": "Mckenzie Homes - London",
+                "id": 52132,
+                "development?": false
+            },
+            {
+                "name": "Peabody - Greenway at Beckton Parkside",
+                "id": 54618,
+                "development?": true
+            }
+        ],
+        "current-url": "/new-homes/property/e6/?page=1&retirement=false",
+        "for-sale?": true
+    },
+    "view-controls": {
+        "view-types": [
+            {
+                "url": "/new-homes/property/e6/?page=1&retirement=false&view=grid",
+                "selected": false,
+                "mobile-to-show": false,
+                "value": "grid",
+                "label": "Grid"
+            },
+            {
+                "url": "/new-homes/property/e6/?retirement=false&view=map",
+                "selected": false,
+                "mobile-to-show": true,
+                "value": "map",
+                "label": "Map"
+            },
+            {
+                "url": "/new-homes/property/e6/?page=1&retirement=false",
+                "selected": true,
+                "mobile-to-show": true,
+                "value": "list",
+                "label": "List"
+            }
+        ],
+        "view-is-default": true,
+        "sorting": [
+            {
+                "url": "/new-homes/property/e6/?retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Highest price"
+            },
+            {
+                "url": "/new-homes/property/e6/?direction=asc&retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Lowest price"
+            },
+            {
+                "url": "/new-homes/property/e6/?retirement=false",
+                "selected": true,
+                "label": "Most recent"
+            }
+        ],
+        "page-size": [],
+        "current-view": "list"
+    },
+    "metric-name": null,
+    "ads": {
+        "results": [
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 1,
+                "unit-code": 1
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 2,
+                "unit-code": 2
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 3,
+                "unit-code": 3
+            }
+        ],
+        "third-party-ads?": true,
+        "third-party-params": {
+            "otm-new-home-flag": "true",
+            "otm-retirement": "false",
+            "otm-new-homes": "true",
+            "otm-location-id": "e6",
+            "otm-location-name": "E6",
+            "otm-under-offer": "false",
+            "otm-postal-district": "E6"
+        }
+    },
+    "saved-search-params": {
+        "retirement": false,
+        "new-home-flag": "T",
+        "exclusive-first": true,
+        "under-offer": false,
+        "new-homes": true,
+        "location-id": "e6",
+        "search-type": "for-sale"
+    },
+    "pagination-controls": {
+        "first-link": null,
+        "trailing-gap": false,
+        "total": "90",
+        "next": {
+            "next-link": "/new-homes/property/e6/?page=2&retirement=false"
+        },
+        "from": "25",
+        "page-links": [
+            {
+                "url": "/new-homes/property/e6/?retirement=false",
+                "page": 1,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e6/?page=1&retirement=false",
+                "page": 2,
+                "selected": true
+            },
+            {
+                "url": "/new-homes/property/e6/?page=2&retirement=false",
+                "page": 3,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e6/?page=3&retirement=false",
+                "page": 4,
+                "selected": false
+            }
+        ],
+        "prev": {
+            "prev-link": "/new-homes/property/e6/?retirement=false"
+        },
+        "last-link": null,
+        "leading-gap": false,
+        "to": "48"
+    },
+    "form-data": {
+        "commercial": {
+            "prices": {
+                "min-prices": [],
+                "max-prices": []
+            },
+            "all-prices": {
+                "pcm": [],
+                "pa": [],
+                "ppu": {
+                    "sqft": [],
+                    "sqm": [],
+                    "ac": [],
+                    "ha": []
+                }
+            },
+            "size-list": {
+                "sqft": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "sqm": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ac": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ha": {
+                    "min-size": [],
+                    "max-size": []
+                }
+            },
+            "size-unit": [],
+            "price-per-list": []
+        },
+        "let-agreed-url": "/new-homes/property/e6/?let-agreed=true&retirement=false",
+        "online-viewings-first-url": "/new-homes/property/e6/?online-viewings-first=true&retirement=false",
+        "character-property": null,
+        "radii": [
+            {
+                "val-raw": "",
+                "val-formatted": "+ 0 miles",
+                "selected?": true
+            },
+            {
+                "val-formatted": "+ \u00bc mile",
+                "val-raw": "0.25",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ \u00bd mile",
+                "val-raw": "0.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 1 mile",
+                "val-raw": "1.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 2 miles",
+                "val-raw": "2.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 3 miles",
+                "val-raw": "3.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 4 miles",
+                "val-raw": "4.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 5 miles",
+                "val-raw": "5.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 7\u00bd miles",
+                "val-raw": "7.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 10 miles",
+                "val-raw": "10.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 15 miles",
+                "val-raw": "15.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 20 miles",
+                "val-raw": "20.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 30 miles",
+                "val-raw": "30.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 40 miles",
+                "val-raw": "40.0",
+                "selected?": false
+            }
+        ],
+        "search-url": "/locations/search/",
+        "show-character-property-control": true,
+        "location-name": "E6",
+        "typeahead-values": "{\"input\":\"E6\",\"location-id\":\"e6\"}",
+        "show-under-offer-control": false,
+        "for-sale": {
+            "min-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ],
+            "max-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ]
+        },
+        "online-viewings-first": null,
+        "exclusive-first": true,
+        "min-bedrooms": [
+            {
+                "val-formatted": "Any",
+                "val-raw": null,
+                "selected?": true
+            },
+            {
+                "val-formatted": "Studio",
+                "val-raw": 0,
+                "selected?": false
+            },
+            {
+                "val-formatted": "1+",
+                "val-raw": 1,
+                "selected?": false
+            },
+            {
+                "val-formatted": "2+",
+                "val-raw": 2,
+                "selected?": false
+            },
+            {
+                "val-formatted": "3+",
+                "val-raw": 3,
+                "selected?": false
+            },
+            {
+                "val-formatted": "4+",
+                "val-raw": 4,
+                "selected?": false
+            },
+            {
+                "val-formatted": "5+",
+                "val-raw": 5,
+                "selected?": false
+            },
+            {
+                "val-formatted": "6+",
+                "val-raw": 6,
+                "selected?": false
+            },
+            {
+                "val-formatted": "7+",
+                "val-raw": 7,
+                "selected?": false
+            },
+            {
+                "val-formatted": "8+",
+                "val-raw": 8,
+                "selected?": false
+            },
+            {
+                "val-formatted": "9+",
+                "val-raw": 9,
+                "selected?": false
+            },
+            {
+                "val-formatted": "10+",
+                "val-raw": 10,
+                "selected?": false
+            }
+        ],
+        "under-offer": false,
+        "exclusive-first-url": "/new-homes/property/e6/?exclusive-first=false&retirement=false",
+        "let-agreed": null,
+        "clear-property-type-url": "/new-homes/property/e6/?retirement=false",
+        "show-let-agreed-control": false,
+        "to-rent": {
+            "pw": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "pcm": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "price-frequency-options": [
+                {
+                    "val-formatted": "Month (calendar)",
+                    "val-raw": "pcm",
+                    "selected?": false
+                },
+                {
+                    "val-formatted": "Week",
+                    "val-raw": "pw",
+                    "selected?": false
+                }
+            ],
+            "is-pcm?": false,
+            "is-pw?": false
+        },
+        "property-types": {
+            "popular": [
+                {
+                    "value": "houses",
+                    "text": "Houses",
+                    "checked?": false
+                },
+                {
+                    "value": "flats-apartments",
+                    "text": "Flats / apartments",
+                    "checked?": false
+                },
+                {
+                    "value": "bungalows",
+                    "text": "Bungalows",
+                    "checked?": false
+                },
+                {
+                    "value": "farms-land",
+                    "text": "Farms / land",
+                    "checked?": false
+                }
+            ],
+            "more": [],
+            "more?": false
+        },
+        "show-online-viewings-first-control": true,
+        "show-exclusive-first-control": true,
+        "under-offer-url": "/new-homes/property/e6/?retirement=false&under-offer=true",
+        "property?": true,
+        "current-search-type": {
+            "new-homes?": true
+        }
+    },
+    "brand": {
+        "id": 1,
+        "name": "otm"
+    },
+    "page-titles": {
+        "page-title": "New Homes E6 | New Developments for Sale | Page 2 | OnTheMarket",
+        "h1-title": "New homes for sale in E6",
+        "meta-title": "Find the latest new homes available for sale now in E6 from leading estate agents."
+    },
+    "url": "/new-homes/property/e6/?page=1&retirement=false",
+    "saved-search-permitted?": true,
+    "suggested-properties": [],
+    "facets": [
+        {
+            "name": "property-features[]",
+            "text": "Outside space",
+            "single-select": false,
+            "terms": [
+                {
+                    "id": "driveway",
+                    "selected": false,
+                    "global": false,
+                    "text": "Driveway"
+                },
+                {
+                    "id": "garden",
+                    "selected": false,
+                    "global": false,
+                    "text": "Garden"
+                },
+                {
+                    "id": "parking",
+                    "selected": false,
+                    "global": false,
+                    "text": "Parking"
+                }
+            ]
+        },
+        {
+            "name": "online-viewings",
+            "text": "Online viewings",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "retirement",
+            "text": "Retirement",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": false,
+                    "global": true,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": true,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "shared-ownership",
+            "text": "Shared ownership",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": false,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "recently-added",
+            "text": "Recently added",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Added any time"
+                },
+                {
+                    "id": "24-hours",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last 24 hours"
+                },
+                {
+                    "id": "3-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last three days"
+                },
+                {
+                    "id": "7-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last seven days"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": {
+        "locations": [
+            {
+                "url": "/new-homes/property/uk/",
+                "text": "UK",
+                "level": 1
+            },
+            {
+                "url": "/new-homes/property/london/",
+                "text": "London",
+                "level": 2
+            },
+            {
+                "url": "/new-homes/property/east-london/",
+                "text": "East London",
+                "level": 6
+            },
+            {
+                "url": "/new-homes/property/e6/",
+                "text": "E6",
+                "level": 7
+            }
+        ]
+    },
+    "show-suggested-message?": false
+}

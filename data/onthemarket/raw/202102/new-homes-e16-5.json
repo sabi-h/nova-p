@@ -1,0 +1,2807 @@
+{
+    "header-data": {
+        "data-layer": "{\"g-location-type\":\"postal-district\",\"retirement\":false,\"g-location-id\":\"2030000734\",\"property-prices\":[\"350,000\",\"455,000\",\"460,000\",\"465,000\",\"500,000\",\"550,000\",\"600,000\",\"600,000\",\"630,000\",\"630,000\",\"650,000\",\"675,000\",\"710,000\",\"715,000\",\"760,000\",\"800,000\",\"820,000\",\"1,035,000\",\"1,900,000\"],\"no-of-properties\":137,\"new-home-flag\":\"T\",\"location-name\":\"E16\",\"typeahead\":true,\"g-hierarchy-level\":7,\"meta-robots\":\"not-provided\",\"page\":5,\"exclusive-first\":true,\"property-ids\":[\"5082124\",\"5431507\",\"5019028\",\"7926802\",\"8321446\",\"4588415\",\"5431498\",\"5370713\",\"7119570\",\"6697687\",\"7556433\",\"6569950\",\"7119571\",\"5385696\",\"6697774\",\"5448916\",\"8053078\",\"7485854\",\"8218006\"],\"under-offer\":false,\"http-status\":\"200\",\"new-homes\":true,\"location-id\":\"e16\",\"search-type\":\"for-sale\",\"frame-size\":24,\"breadcrumbs\":[\"uk\",\"london\",\"east-london\"],\"direction\":\"desc\",\"view\":\"list\",\"sort-field\":\"update_date\"}",
+        "render-data-layer?": true
+    },
+    "properties": [
+        {
+            "images-count": 21,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Marco Polo, Royal Wharf, Royal Docks, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8321446/1332312315/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8321446/1332312315/image-0-480x320.webp"
+            },
+            "floorplans-count": 2,
+            "agent": {
+                "id": 26009,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/26009/190704130428048/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 73,
+                    "resized?": true
+                },
+                "name": "MyLondonHome",
+                "telephone": "020 8033 1702",
+                "base-contact-url": "/agents/contact/8321446/",
+                "contact-url": "/agents/contact/8321446/?form-name=details-contact",
+                "details-url": "/agents/branch/mylondonhome/",
+                "development?": false
+            },
+            "summary": "Investment Opportunity | Pre-let for \u00a31400 pcm | 6th Floor | Large 560 Sq.Ft. 1 bed | Private Balcony | Park and River View | Day Porter  | Gymnasium | Swimming Pool | Spa | Situated in the popular Royal Wharf | High Quality Finish | A spacious, one double bedroom, fifth floor apartment set in...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "8321446",
+            "property-link": "/details/8321446/",
+            "cover-image": "https://media.onthemarket.com/properties/8321446/1332312315/image-0-480x320.jpg",
+            "price": "\u00a3500,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 14,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Dawsonne House, London City Island, Canning Town, E14",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8218006/1324467813/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8218006/1324467813/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37798,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, Canary Wharf",
+                "telephone": "020 8022 6426",
+                "base-contact-url": "/agents/contact/8218006/",
+                "contact-url": "/agents/contact/8218006/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-london-canary-wharf/",
+                "development?": false
+            },
+            "summary": "A generously sized 3 bedroom house with two private terraces across five floors in Dawsonne House , part of Ballymore\u2019s London City Island development in Canning Town, E14 Located in London's new island metropolis, the ultra-connected destination of culture and contemporary living, is this 3...",
+            "property-labels": [
+                "New build",
+                "Study"
+            ],
+            "property-title": "3 bedroom townhouse for sale",
+            "id": "8218006",
+            "property-link": "/details/8218006/",
+            "cover-image": "https://media.onthemarket.com/properties/8218006/1324467813/image-0-480x320.jpg",
+            "price": "\u00a31,900,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 14,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Starboard Way, Royal Wharf, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8053078/1336139084/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8053078/1336139084/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 26009,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/26009/190704130428048/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 73,
+                    "resized?": true
+                },
+                "name": "MyLondonHome",
+                "telephone": "020 8033 1702",
+                "base-contact-url": "/agents/contact/8053078/",
+                "contact-url": "/agents/contact/8053078/?form-name=details-contact",
+                "details-url": "/agents/branch/mylondonhome/",
+                "development?": false
+            },
+            "summary": "Best Value Townhouse at Royal Wharf  | 4 bed Townhouse | Approx 1770 SqFt internal area plus courtyard and roof terrace | 3 storeys | Secure Parking | Excellent Resident Facilities and Amenities | Just \u00a3463 per SqFt !! | Riverside development | Open Green Spaces |A generous three bed plus master...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom end of terrace house for sale",
+            "id": "8053078",
+            "property-link": "/details/8053078/",
+            "cover-image": "https://media.onthemarket.com/properties/8053078/1336139084/image-0-480x320.jpg",
+            "price": "\u00a3820,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Hoola, Royal Victoria Docks, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7926802/1287698967/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7926802/1287698967/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 27549,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/1602/150611124408254/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Gordon & Co - Tower Bridge",
+                "telephone": "020 8022 7279",
+                "base-contact-url": "/agents/contact/7926802/",
+                "contact-url": "/agents/contact/7926802/?form-name=details-contact",
+                "details-url": "/agents/branch/gordon-and-co-tower-bridge/",
+                "development?": false
+            },
+            "summary": "Gordon & Co. are proud to present this stunning and spacious one bedroom apartment on the 1st floor of the iconic Hoola development, E16. ",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "7926802",
+            "property-link": "/details/7926802/",
+            "cover-image": "https://media.onthemarket.com/properties/7926802/1287698967/image-0-480x320.jpg",
+            "price": "\u00a3465,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 19,
+            "price-qualifier": "Offers over",
+            "new-home-flag": true,
+            "display_address": "Liner House, 16 Admiralty Avenue, Royal Wharf, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7556433/1337277561/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7556433/1337277561/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 26009,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/26009/190704130428048/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 73,
+                    "resized?": true
+                },
+                "name": "MyLondonHome",
+                "telephone": "020 8033 1702",
+                "base-contact-url": "/agents/contact/7556433/",
+                "contact-url": "/agents/contact/7556433/?form-name=details-contact",
+                "details-url": "/agents/branch/mylondonhome/",
+                "development?": false
+            },
+            "summary": "Premium Waterside Apartment | Direct river view | Staggering 1103 Sq Ft! |  Huge Living Room perfect for entertaining | Leasehold 999 years from 2014 | 24 Hr Concierge & Security | Swimming Pool | Gym | Spa | Pontoon Dock DLR just 4 mins away | Amazing access to Bank and Canary Wharf | Ballymore...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "7556433",
+            "property-link": "/details/7556433/",
+            "cover-image": "https://media.onthemarket.com/properties/7556433/1337277561/image-0-480x320.jpg",
+            "price": "\u00a3650,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Royal Docks West, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7485854/1325049681/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7485854/1325049681/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/7485854/",
+                "contact-url": "/agents/contact/7485854/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "Royal Docks West is just steps from the water\u2019sedge. A place of leisure, with its many boutiques,caf\u00e9s, cocktail bars and restaurants, with flavoursfrom around the world, from Lebanese to Indian,British, Thai or Chinese. Many places to unwind atRoyal Victoria Dock sit at the water\u2019s edge, suchas...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "7485854",
+            "property-link": "/details/7485854/",
+            "cover-image": "https://media.onthemarket.com/properties/7485854/1325049681/image-0-480x320.jpg",
+            "price": "\u00a31,035,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Terry Spinks Place, London",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7119570/1334567917/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7119570/1334567917/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 4989,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/20/150612092121722/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Chestertons - New Homes",
+                "telephone": "020 7768 0085",
+                "base-contact-url": "/agents/contact/7119570/",
+                "contact-url": "/agents/contact/7119570/?form-name=details-contact",
+                "details-url": "/agents/branch/chestertons-new-homes/",
+                "development?": false
+            },
+            "summary": "This luxurious collection of one, two and three bedroom apartments offer open-plan living space with impressive interiors specification, set within a vibrant area.Leasehold",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7119570",
+            "property-link": "/details/7119570/",
+            "cover-image": "https://media.onthemarket.com/properties/7119570/1334567917/image-0-480x320.jpg",
+            "price": "\u00a3630,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 17,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Masthead House, Admiralty House, 5 Royal Crest Avenue, Royal Wharf",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7119571/1334567962/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7119571/1334567962/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 4989,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/20/150612092121722/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 65,
+                    "resized?": true
+                },
+                "name": "Chestertons - New Homes",
+                "telephone": "020 7768 0085",
+                "base-contact-url": "/agents/contact/7119571/",
+                "contact-url": "/agents/contact/7119571/?form-name=details-contact",
+                "details-url": "/agents/branch/chestertons-new-homes/",
+                "development?": false
+            },
+            "summary": "This fantastic 2 bedroom, 2 bathroom apartment on the 6th floor boasts a private balcony, and impressive views. The Royal Wharf development is ideally located moments from the Silver Town DLR for convenient access to Canary Wharf and The City.Leasehold",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7119571",
+            "property-link": "/details/7119571/",
+            "cover-image": "https://media.onthemarket.com/properties/7119571/1334567962/image-0-480x320.jpg",
+            "price": "\u00a3710,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 30,
+            "price-qualifier": "Offers over",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "John Cabot House, Royal Wharf, Royal Docks, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5082124/1337277598/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5082124/1337277598/image-0-480x320.webp"
+            },
+            "floorplans-count": 2,
+            "agent": {
+                "id": 26009,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/26009/190704130428048/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 73,
+                    "resized?": true
+                },
+                "name": "MyLondonHome",
+                "telephone": "020 8033 1702",
+                "base-contact-url": "/agents/contact/5082124/",
+                "contact-url": "/agents/contact/5082124/?form-name=details-contact",
+                "details-url": "/agents/branch/mylondonhome/",
+                "development?": false
+            },
+            "summary": "Large Studio | 490 sq. ft. | Extra 103 sq. ft. of external space | FURNITURE PACK INCLUDED | West Facing | Leasehold 999 years from 2014 | 24 Hr Concierge | Security | Swimming Pool| Gym| Spa | Good Transport | Pontoon Dock DLR | Amazing access to Bank and Canary Wharf | Chain FreeThis Brand new...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "Studio for sale",
+            "id": "5082124",
+            "virtual-tours?": true,
+            "property-link": "/details/5082124/",
+            "cover-image": "https://media.onthemarket.com/properties/5082124/1337277598/image-0-480x320.jpg",
+            "price": "\u00a3350,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 18,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Royal Docks West, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/6697774/1325049685/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/6697774/1325049685/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/6697774/",
+                "contact-url": "/agents/contact/6697774/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "Set over the 17th floor of this highly sought after development by Mount Anvil, this 3 bed apartment measures approx 970sqft with a private balcony.Much has changed since the Royal Victoria Dock was first opened in 1855. Once a bustling hub of industry, a place of innovation and great ambition,...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "6697774",
+            "property-link": "/details/6697774/",
+            "cover-image": "https://media.onthemarket.com/properties/6697774/1325049685/image-0-480x320.jpg",
+            "price": "\u00a3760,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Royal Docks West, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/6697687/1325049684/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/6697687/1325049684/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 49188,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/49188/190605152246129/logo-100x65.png",
+                    "height": 65,
+                    "width": 46,
+                    "resized?": true
+                },
+                "name": "Stirling Ackroyd - New Homes",
+                "telephone": "020 8033 5549",
+                "base-contact-url": "/agents/contact/6697687/",
+                "contact-url": "/agents/contact/6697687/?form-name=details-contact",
+                "details-url": "/agents/branch/stirling-ackroyd-new-homes/",
+                "development?": false
+            },
+            "summary": "Situated within the highly sought after Royal Docks West development, this stunning 2 bed 2 bath apartment measures approx 760sqft and benefits from 2 terraces with an additional 455sqft of outside space.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "6697687",
+            "property-link": "/details/6697687/",
+            "cover-image": "https://media.onthemarket.com/properties/6697687/1325049684/image-0-480x320.jpg",
+            "price": "\u00a3630,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Albion House, London City Island, Canning Town, E14",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5448916/1324467568/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5448916/1324467568/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 37798,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/2161/160421100530154/logo-100x65.png",
+                    "height": 38,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "CBRE Residential - London, Canary Wharf",
+                "telephone": "020 8022 6426",
+                "base-contact-url": "/agents/contact/5448916/",
+                "contact-url": "/agents/contact/5448916/?form-name=details-contact",
+                "details-url": "/agents/branch/cbre-london-canary-wharf/",
+                "development?": false
+            },
+            "summary": "Luxury 2 bedroom duplex apartment with private terrace in Albion House, London City Island E14. Live Virtual Tour available. Please enquire for more information.This two bedroom apartment is set across the ground and first floors and offers 1,018 sq ft of luxury accommodation.  Boasting high...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "5448916",
+            "property-link": "/details/5448916/",
+            "cover-image": "https://media.onthemarket.com/properties/5448916/1324467568/image-0-480x320.jpg",
+            "price": "\u00a3800,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Gateway Tower, Western Gateway, Royal Docks",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/6569950/875873332/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/6569950/875873332/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 25699,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/566/190130163402941/logo-100x65.png",
+                    "height": 55,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Kinleigh Folkard & Hayward - Land and New Homes South East",
+                "telephone": "020 8022 6969",
+                "base-contact-url": "/agents/contact/6569950/",
+                "contact-url": "/agents/contact/6569950/?form-name=details-contact",
+                "details-url": "/agents/branch/kinleigh-folkard-and-hayward-land-and-new-homes-south-east/",
+                "development?": false
+            },
+            "summary": "Royal Victoria Residence E16. Superb 3 bed, 3 bath suite with feature large curved living area, private sun lounge and parking. Ready to move into now.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "6569950",
+            "property-link": "/details/6569950/",
+            "cover-image": "https://media.onthemarket.com/properties/6569950/875873332/image-0-480x320.jpg",
+            "price": "\u00a3675,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Ballymore, Brand New, Royal Wharf, London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5431507/1325431523/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5431507/1325431523/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 47980,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/7487/180727154036422/logo-100x65.png",
+                    "height": 60,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Chanin Estates - Isle of Dogs",
+                "telephone": "020 8115 0051",
+                "base-contact-url": "/agents/contact/5431507/",
+                "contact-url": "/agents/contact/5431507/?form-name=details-contact",
+                "details-url": "/agents/branch/chanin-estates-isle-of-dogs/",
+                "development?": false
+            },
+            "summary": "LUXURIOUS and BRAND NEW, Royal Wharf is a lifestyle. New to the market is this contemporary, double bedroom apartment located in the new up and coming Royal Wharf development. Situated on the fourth floor, this gorgeous apartment is the epitome of contemporary living with a private balcony and...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "1 bedroom apartment for sale",
+            "id": "5431507",
+            "property-link": "/details/5431507/",
+            "cover-image": "https://media.onthemarket.com/properties/5431507/1325431523/image-0-480x320.jpg",
+            "price": "\u00a3455,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": "Offers in excess of",
+            "new-home-flag": true,
+            "display_address": "Fairwater House, Royal Wharf , London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5431498/926330102/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5431498/926330102/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 47980,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/7487/180727154036422/logo-100x65.png",
+                    "height": 60,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Chanin Estates - Isle of Dogs",
+                "telephone": "020 8115 0051",
+                "base-contact-url": "/agents/contact/5431498/",
+                "contact-url": "/agents/contact/5431498/?form-name=details-contact",
+                "details-url": "/agents/branch/chanin-estates-isle-of-dogs/",
+                "development?": false
+            },
+            "summary": "BRAND NEW . New to the market is this luxurious, two double bedroom apartment located in the new up and coming Royal Wharf development. Situated on the top floor, this gorgeous apartment is the epitome of contemporary living with a private balcony and river views. SOLD NOW WITH NO CHAIN.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "5431498",
+            "property-link": "/details/5431498/",
+            "cover-image": "https://media.onthemarket.com/properties/5431498/926330102/image-0-480x320.jpg",
+            "price": "\u00a3600,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Fairwater House, Royal Wharf, London",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5385696/1320366431/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5385696/1320366431/image-0-480x320.webp"
+            },
+            "agent": {
+                "id": 47980,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/7487/180727154036422/logo-100x65.png",
+                    "height": 60,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Chanin Estates - Isle of Dogs",
+                "telephone": "020 8115 0051",
+                "base-contact-url": "/agents/contact/5385696/",
+                "contact-url": "/agents/contact/5385696/?form-name=details-contact",
+                "details-url": "/agents/branch/chanin-estates-isle-of-dogs/",
+                "development?": false
+            },
+            "summary": "LUXURIOUS and BRAND NEW, Royal Wharf is a development not to miss. New to the market is this contemporary, three double bedroom apartment located in the new up and coming Royal Wharf development. Situated on the second floor, this gorgeous apartment is the epitome of contemporary living with a...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "5385696",
+            "property-link": "/details/5385696/",
+            "cover-image": "https://media.onthemarket.com/properties/5385696/1320366431/image-0-480x320.jpg",
+            "price": "\u00a3715,000",
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": "Offers in excess of",
+            "new-home-flag": true,
+            "display_address": "Fairwater House, Royal Wharf , London, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5370713/1308550788/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5370713/1308550788/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 47980,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/7487/180727154036422/logo-100x65.png",
+                    "height": 60,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Chanin Estates - Isle of Dogs",
+                "telephone": "020 8115 0051",
+                "base-contact-url": "/agents/contact/5370713/",
+                "contact-url": "/agents/contact/5370713/?form-name=details-contact",
+                "details-url": "/agents/branch/chanin-estates-isle-of-dogs/",
+                "development?": false
+            },
+            "summary": "New to the market is this BRAND NEW, STUNNING, two double bedroom apartment located in the new up and coming Royal Wharf development. Situated on the top floor, this gorgeous apartment is the epitome of luxury living with a private balcony and river views. SOLD NOW WITH NO CHAIN.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "5370713",
+            "property-link": "/details/5370713/",
+            "cover-image": "https://media.onthemarket.com/properties/5370713/1308550788/image-0-480x320.jpg",
+            "price": "\u00a3600,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 4,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Discovery Tower, E16",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5019028/813059059/image-0-480x320.jpg"
+            },
+            "agent": {
+                "id": 2102,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/2102/170220165852742/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "Felicity J. Lord - Canary Wharf",
+                "telephone": "020 8022 7052",
+                "base-contact-url": "/agents/contact/5019028/",
+                "contact-url": "/agents/contact/5019028/?form-name=details-contact",
+                "details-url": "/agents/branch/felicity-j-lord-canary-wharf/",
+                "development?": false
+            },
+            "summary": "Walking Distance From Canning Town Station - Guide Price From \u00a3460,000 To \u00a3680,000 Located just moments from Canning Town Station, this 17 storey residential tower consisting of 160 one, two and three bed apartments, offers some of the most enviable views across London as well as a communal gym...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "1 bedroom flat for sale",
+            "id": "5019028",
+            "property-link": "/details/5019028/",
+            "cover-image": "https://media.onthemarket.com/properties/5019028/813059059/image-0-480x320.jpg",
+            "price": "\u00a3460,000",
+            "videos?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 16,
+            "price-qualifier": "Offers in excess of",
+            "new-home-flag": true,
+            "display_address": "Royal Arsenal Riverside, Duke Of Wellington Avenue, Woolwich SE18",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/4588415/1295687418/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/4588415/1295687418/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 44401,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/4840/180313124011747/logo-100x65.png",
+                    "height": 58,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Orient Estates - Hendon",
+                "telephone": "020 8115 2658",
+                "base-contact-url": "/agents/contact/4588415/",
+                "contact-url": "/agents/contact/4588415/?form-name=details-contact",
+                "details-url": "/agents/branch/orient-estates-hendon/",
+                "development?": false
+            },
+            "summary": "A stunning 2 bed flat on a 999 year lease with river views on a  brand new development on the banks of the River Thames well located for Canary Wharf, The City, West End, London City Airport and more beyond.",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "4588415",
+            "property-link": "/details/4588415/",
+            "cover-image": "https://media.onthemarket.com/properties/4588415/1295687418/image-0-480x320.jpg",
+            "price": "\u00a3550,000",
+            "floorplans?": true,
+            "for-sale?": true
+        }
+    ],
+    "many-contact-form": {
+        "contact-many-agents-url": "/agents/contact/",
+        "find-agents?": false,
+        "confirmation": false,
+        "hide-appraisal?": false,
+        "show-agents-count": true,
+        "refine-message": false,
+        "search-type": "for-sale",
+        "to-rent?": false,
+        "agents": [
+            {
+                "name": "Bayonne Estates - London",
+                "id": 52347,
+                "development?": false
+            },
+            {
+                "name": "CBRE Residential - London, Canary Wharf",
+                "id": 37798,
+                "development?": false
+            },
+            {
+                "name": "Chanin Estates - Isle of Dogs",
+                "id": 47980,
+                "development?": false
+            },
+            {
+                "name": "Chase Evans - Docklands",
+                "id": 45155,
+                "development?": false
+            },
+            {
+                "name": "Chestertons - New Homes",
+                "id": 4989,
+                "development?": false
+            },
+            {
+                "name": "Dockleys London Property - London",
+                "id": 48486,
+                "development?": false
+            },
+            {
+                "name": "Edward Chase - Ilford",
+                "id": 51004,
+                "development?": false
+            },
+            {
+                "name": "Felicity J. Lord - Canary Wharf",
+                "id": 2102,
+                "development?": false
+            },
+            {
+                "name": "Fraser & Co - New Homes",
+                "id": 49335,
+                "development?": false
+            },
+            {
+                "name": "Gordon & Co - Tower Bridge",
+                "id": 27549,
+                "development?": false
+            },
+            {
+                "name": "Hammonds - Mile End",
+                "id": 45018,
+                "development?": false
+            },
+            {
+                "name": "Idasons - London",
+                "id": 49972,
+                "development?": false
+            },
+            {
+                "name": "JLL - London, New Homes",
+                "id": 22218,
+                "development?": false
+            },
+            {
+                "name": "Johns & Co - New Providence Wharf",
+                "id": 27515,
+                "development?": false
+            },
+            {
+                "name": "Johns & Co - Royal Wharf",
+                "id": 56032,
+                "development?": false
+            },
+            {
+                "name": "Kinleigh Folkard & Hayward - Land and New Homes South East",
+                "id": 25699,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - City & East, Residential Development",
+                "id": 37782,
+                "development?": false
+            },
+            {
+                "name": "L&Q - Brunel Street Works",
+                "id": 55810,
+                "development?": true
+            },
+            {
+                "name": "LIFE Residential - North London",
+                "id": 50196,
+                "development?": false
+            },
+            {
+                "name": "LIFE Residential - Royal Wharf",
+                "id": 50199,
+                "development?": false
+            },
+            {
+                "name": "Linden Homes - Brunel Street Works",
+                "id": 53195,
+                "development?": true
+            },
+            {
+                "name": "Mr Rent - London",
+                "id": 54705,
+                "development?": false
+            },
+            {
+                "name": "MyLondonHome",
+                "id": 26009,
+                "development?": false
+            },
+            {
+                "name": "Orient Estates - Hendon",
+                "id": 44401,
+                "development?": false
+            },
+            {
+                "name": "Peabody - Pontoon Reach",
+                "id": 54623,
+                "development?": true
+            },
+            {
+                "name": "Prime London, Central and Riverside - London",
+                "id": 44266,
+                "development?": false
+            },
+            {
+                "name": "Regent Letting & Property Management - Waterloo",
+                "id": 48092,
+                "development?": false
+            },
+            {
+                "name": "Savills - Canary Wharf, Residential Development Sales",
+                "id": 37739,
+                "development?": false
+            },
+            {
+                "name": "Southern Housing - The Refinery",
+                "id": 57127,
+                "development?": true
+            },
+            {
+                "name": "Stirling Ackroyd - New Homes",
+                "id": 49188,
+                "development?": false
+            },
+            {
+                "name": "Trevlyn Properties - Maidstone",
+                "id": 54127,
+                "development?": false
+            },
+            {
+                "name": "Victor Michael - Canning Town",
+                "id": 36879,
+                "development?": false
+            },
+            {
+                "name": "Winkworth - Bow",
+                "id": 27580,
+                "development?": false
+            }
+        ],
+        "current-url": "/new-homes/property/e16/?page=5&retirement=false",
+        "for-sale?": true
+    },
+    "view-controls": {
+        "view-types": [
+            {
+                "url": "/new-homes/property/e16/?page=5&retirement=false&view=grid",
+                "selected": false,
+                "mobile-to-show": false,
+                "value": "grid",
+                "label": "Grid"
+            },
+            {
+                "url": "/new-homes/property/e16/?retirement=false&view=map",
+                "selected": false,
+                "mobile-to-show": true,
+                "value": "map",
+                "label": "Map"
+            },
+            {
+                "url": "/new-homes/property/e16/?page=5&retirement=false",
+                "selected": true,
+                "mobile-to-show": true,
+                "value": "list",
+                "label": "List"
+            }
+        ],
+        "view-is-default": true,
+        "sorting": [
+            {
+                "url": "/new-homes/property/e16/?retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Highest price"
+            },
+            {
+                "url": "/new-homes/property/e16/?direction=asc&retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Lowest price"
+            },
+            {
+                "url": "/new-homes/property/e16/?retirement=false",
+                "selected": true,
+                "label": "Most recent"
+            }
+        ],
+        "page-size": [],
+        "current-view": "list"
+    },
+    "metric-name": null,
+    "ads": {
+        "results": [
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 1,
+                "unit-code": 1
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 2,
+                "unit-code": 2
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 3,
+                "unit-code": 3
+            }
+        ],
+        "third-party-ads?": true,
+        "third-party-params": {
+            "otm-new-home-flag": "true",
+            "otm-retirement": "false",
+            "otm-new-homes": "true",
+            "otm-location-id": "e16",
+            "otm-location-name": "E16",
+            "otm-under-offer": "false",
+            "otm-postal-district": "E16"
+        }
+    },
+    "saved-search-params": {
+        "retirement": false,
+        "new-home-flag": "T",
+        "exclusive-first": true,
+        "under-offer": false,
+        "new-homes": true,
+        "location-id": "e16",
+        "search-type": "for-sale"
+    },
+    "pagination-controls": {
+        "first-link": {
+            "url": "/new-homes/property/e16/?retirement=false",
+            "page": 1
+        },
+        "trailing-gap": false,
+        "total": "137",
+        "next": null,
+        "from": "121",
+        "page-links": [
+            {
+                "url": "/new-homes/property/e16/?page=1&retirement=false",
+                "page": 2,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e16/?page=2&retirement=false",
+                "page": 3,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e16/?page=3&retirement=false",
+                "page": 4,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e16/?page=4&retirement=false",
+                "page": 5,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/e16/?page=5&retirement=false",
+                "page": 6,
+                "selected": true
+            }
+        ],
+        "prev": {
+            "prev-link": "/new-homes/property/e16/?page=4&retirement=false"
+        },
+        "last-link": null,
+        "leading-gap": false,
+        "to": "137"
+    },
+    "form-data": {
+        "commercial": {
+            "prices": {
+                "min-prices": [],
+                "max-prices": []
+            },
+            "all-prices": {
+                "pcm": [],
+                "pa": [],
+                "ppu": {
+                    "sqft": [],
+                    "sqm": [],
+                    "ac": [],
+                    "ha": []
+                }
+            },
+            "size-list": {
+                "sqft": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "sqm": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ac": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ha": {
+                    "min-size": [],
+                    "max-size": []
+                }
+            },
+            "size-unit": [],
+            "price-per-list": []
+        },
+        "let-agreed-url": "/new-homes/property/e16/?let-agreed=true&retirement=false",
+        "online-viewings-first-url": "/new-homes/property/e16/?online-viewings-first=true&retirement=false",
+        "character-property": null,
+        "radii": [
+            {
+                "val-raw": "",
+                "val-formatted": "+ 0 miles",
+                "selected?": true
+            },
+            {
+                "val-formatted": "+ \u00bc mile",
+                "val-raw": "0.25",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ \u00bd mile",
+                "val-raw": "0.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 1 mile",
+                "val-raw": "1.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 2 miles",
+                "val-raw": "2.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 3 miles",
+                "val-raw": "3.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 4 miles",
+                "val-raw": "4.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 5 miles",
+                "val-raw": "5.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 7\u00bd miles",
+                "val-raw": "7.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 10 miles",
+                "val-raw": "10.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 15 miles",
+                "val-raw": "15.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 20 miles",
+                "val-raw": "20.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 30 miles",
+                "val-raw": "30.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 40 miles",
+                "val-raw": "40.0",
+                "selected?": false
+            }
+        ],
+        "search-url": "/locations/search/",
+        "show-character-property-control": true,
+        "location-name": "E16",
+        "typeahead-values": "{\"input\":\"E16\",\"location-id\":\"e16\"}",
+        "show-under-offer-control": false,
+        "for-sale": {
+            "min-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ],
+            "max-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ]
+        },
+        "online-viewings-first": null,
+        "exclusive-first": true,
+        "min-bedrooms": [
+            {
+                "val-formatted": "Any",
+                "val-raw": null,
+                "selected?": true
+            },
+            {
+                "val-formatted": "Studio",
+                "val-raw": 0,
+                "selected?": false
+            },
+            {
+                "val-formatted": "1+",
+                "val-raw": 1,
+                "selected?": false
+            },
+            {
+                "val-formatted": "2+",
+                "val-raw": 2,
+                "selected?": false
+            },
+            {
+                "val-formatted": "3+",
+                "val-raw": 3,
+                "selected?": false
+            },
+            {
+                "val-formatted": "4+",
+                "val-raw": 4,
+                "selected?": false
+            },
+            {
+                "val-formatted": "5+",
+                "val-raw": 5,
+                "selected?": false
+            },
+            {
+                "val-formatted": "6+",
+                "val-raw": 6,
+                "selected?": false
+            },
+            {
+                "val-formatted": "7+",
+                "val-raw": 7,
+                "selected?": false
+            },
+            {
+                "val-formatted": "8+",
+                "val-raw": 8,
+                "selected?": false
+            },
+            {
+                "val-formatted": "9+",
+                "val-raw": 9,
+                "selected?": false
+            },
+            {
+                "val-formatted": "10+",
+                "val-raw": 10,
+                "selected?": false
+            }
+        ],
+        "under-offer": false,
+        "exclusive-first-url": "/new-homes/property/e16/?exclusive-first=false&retirement=false",
+        "let-agreed": null,
+        "clear-property-type-url": "/new-homes/property/e16/?retirement=false",
+        "show-let-agreed-control": false,
+        "to-rent": {
+            "pw": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "pcm": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "price-frequency-options": [
+                {
+                    "val-formatted": "Month (calendar)",
+                    "val-raw": "pcm",
+                    "selected?": false
+                },
+                {
+                    "val-formatted": "Week",
+                    "val-raw": "pw",
+                    "selected?": false
+                }
+            ],
+            "is-pcm?": false,
+            "is-pw?": false
+        },
+        "property-types": {
+            "popular": [
+                {
+                    "value": "houses",
+                    "text": "Houses",
+                    "checked?": false
+                },
+                {
+                    "value": "flats-apartments",
+                    "text": "Flats / apartments",
+                    "checked?": false
+                },
+                {
+                    "value": "bungalows",
+                    "text": "Bungalows",
+                    "checked?": false
+                },
+                {
+                    "value": "farms-land",
+                    "text": "Farms / land",
+                    "checked?": false
+                }
+            ],
+            "more": [],
+            "more?": false
+        },
+        "show-online-viewings-first-control": true,
+        "show-exclusive-first-control": true,
+        "under-offer-url": "/new-homes/property/e16/?retirement=false&under-offer=true",
+        "property?": true,
+        "current-search-type": {
+            "new-homes?": true
+        }
+    },
+    "brand": {
+        "id": 1,
+        "name": "otm"
+    },
+    "page-titles": {
+        "page-title": "New Homes E16 | New Developments for Sale | Page 6 | OnTheMarket",
+        "h1-title": "New homes for sale in E16",
+        "meta-title": "Find the latest new homes available for sale now in E16 from leading estate agents."
+    },
+    "url": "/new-homes/property/e16/?page=5&retirement=false",
+    "saved-search-permitted?": true,
+    "suggested-properties": [],
+    "facets": [
+        {
+            "name": "property-features[]",
+            "text": "Outside space",
+            "single-select": false,
+            "terms": [
+                {
+                    "id": "driveway",
+                    "selected": false,
+                    "global": false,
+                    "text": "Driveway"
+                },
+                {
+                    "id": "garden",
+                    "selected": false,
+                    "global": false,
+                    "text": "Garden"
+                },
+                {
+                    "id": "parking",
+                    "selected": false,
+                    "global": false,
+                    "text": "Parking"
+                }
+            ]
+        },
+        {
+            "name": "online-viewings",
+            "text": "Online viewings",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "retirement",
+            "text": "Retirement",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": false,
+                    "global": true,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": true,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "shared-ownership",
+            "text": "Shared ownership",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": false,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "recently-added",
+            "text": "Recently added",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Added any time"
+                },
+                {
+                    "id": "24-hours",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last 24 hours"
+                },
+                {
+                    "id": "3-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last three days"
+                },
+                {
+                    "id": "7-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last seven days"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": {
+        "locations": [
+            {
+                "url": "/new-homes/property/uk/",
+                "text": "UK",
+                "level": 1
+            },
+            {
+                "url": "/new-homes/property/london/",
+                "text": "London",
+                "level": 2
+            },
+            {
+                "url": "/new-homes/property/east-london/",
+                "text": "East London",
+                "level": 6
+            },
+            {
+                "url": "/new-homes/property/e16/",
+                "text": "E16",
+                "level": 7
+            }
+        ]
+    },
+    "show-suggested-message?": false
+}

@@ -1,22 +1,33 @@
 import base64
+from datetime import datetime
+import json
+import os
 import time
 
 import pandas as pd
 import requests
 
-from utils import url_to_filename, filename_to_url, url_to_fp, fp_to_url
+from utils import request_data_to_filename
 
+yyyymm = datetime.now().strftime('%Y%m')
 
 """
-Get list of all stations in london, loop through them.
+- Loop through each station in london
+- while there are properties of page < 100
+- send request and store response in json format
+
 """
 
 def london_stations():
 	return pd.read_csv('../data/misc/london-stations.csv')
 
 
-BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type=new-homes&location-id={location}&retirement=false&page={page}'
-BASE_FP = '../data/onthemarket/raw/{}.json'
+def london_outward_codes():
+	return pd.read_csv('../data/misc/london-outward-codes.csv')['outward_code'].str.lower().to_list()
+
+
+BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
+BASE_FP = '../data/onthemarket/raw/{yyyymm}/{filename}.json'
 HEADERS = {
 	'authority': 'www.onthemarket.com',
 	'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
@@ -31,41 +42,57 @@ HEADERS = {
 	'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8'
 }
 
-
 def main():
-	locations = london_stations()
+	outward_codes = london_outward_codes()
 
-	for location in locations:
-		
-		properties = True
-		page = 1
-		fp = BASE_FP.format()
+	print('='*100, 'Starting Scraper...', '='*100, sep='\n', end='\n\n')
 
-		while properties:
+	for location in outward_codes:
+
+		print(f'location: {location}')
+
+		for page in range(1, 100):
+			print(f'page: {page}')
+
 			request_data = {
-				'location': location,
-				'page': page
+				'search_type': 'new-homes',
+				'location_id': location,
+				'page': page,
 			}
 
 			url = BASE_URL.format(**request_data)
+			print(f'url: {url}')
+
+			filename = request_data_to_filename(request_data)
+			fp = BASE_FP.format(yyyymm=yyyymm, filename=filename)
+
+			dirname = os.path.dirname(fp)
+			if not os.path.exists(dirname):
+				os.makedirs(dirname)
+
+			if os.path.exists(fp):
+				print(f'fp exists: {fp}')
+				continue
+
+			print(f'fp: {fp}', '\n')
 
 			try:
-				response = requests.request('GET', BASE_URL, headers=HEADERS, data={})
+				response = requests.request('GET', url, headers=HEADERS, data={})
+				print(f'response: {response}')
 				json_data = response.json()
-				
-				with open(fp, 'w') as f:
-					pass
-					
-				if len(response['properties']) == 0:
-					properties = False
 
-				properties = False
 			except Exception as e:
-				pass
+				print('ERROR:', e)
 
-			page += 1
+			if json_data['properties']:
+				print('properties exist, writing to file...')
+				with open(fp, 'w') as f:
+					json.dump(json_data, f, indent=4)
+			else:
+				break
 
 			time.sleep(1)
+			print('\n\n')
 
 
 def test_request():
@@ -94,12 +121,11 @@ def test_request():
 
 
 if __name__ == '__main__':
-	# test_request()
+
 	main()
-	# data = london_stations()['Station code'].unique()
-	# print(data)
 	
 
+	pass
 
 
 

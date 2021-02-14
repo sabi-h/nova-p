@@ -8,14 +8,22 @@ pip install -e .
 
 #### Data Sources
 
-**1. onthemarket.com**
+**onthemarket.com**
 
 `https://www.onthemarket.com/`
 
 
-**2. Price Paid data by gov.uk**
+**Price Paid data by gov.uk**
 
 `https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads`
+
+
+**London Postal Disticts**
+`https://en.wikipedia.org/wiki/London_postal_district`
+
+
+#### Testing
+`pytest -v`
 
 
 #### London stations gsheet
