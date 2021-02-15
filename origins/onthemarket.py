@@ -7,9 +7,16 @@ import time
 import pandas as pd
 import requests
 
-from utils import request_data_to_filename
+from utils import (
+	get_filename,
+	get_filepath,
+	get_outward_codes,
+	get_url,
+)
+
 
 yyyymm = datetime.now().strftime('%Y%m')
+
 
 """
 - Loop through each station in london
@@ -18,16 +25,12 @@ yyyymm = datetime.now().strftime('%Y%m')
 
 """
 
-def london_stations():
-	return pd.read_csv('../data/misc/london-stations.csv')
-
-
-def london_outward_codes():
-	return pd.read_csv('../data/misc/london-outward-codes.csv')['outward_code'].str.lower().to_list()
-
-
 BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
-BASE_FP = '../data/onthemarket/raw/{yyyymm}/{filename}.json'
+DIR_PATH = f'../data/onthemarket/raw/{yyyymm}'
+if not os.path.exists(DIR_PATH):
+	os.makedirs(DIR_PATH)
+
+
 HEADERS = {
 	'authority': 'www.onthemarket.com',
 	'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
@@ -42,57 +45,47 @@ HEADERS = {
 	'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8'
 }
 
-def main():
-	outward_codes = london_outward_codes()
+def _save_response(json_data, fp):
+	"""
+	Saves response from request to filepath.
+	"""
+	with open(fp, 'w') as f:
+		json.dump(json_data, f, indent=4)
 
+
+def download_data():
 	print('='*100, 'Starting Scraper...', '='*100, sep='\n', end='\n\n')
+	
+	outward_codes = get_outward_codes()
 
 	for location in outward_codes:
+		print('='*20, f'location: {location}', '='*20)
 
-		print(f'location: {location}')
+		for page in range(1, 42):
 
-		for page in range(1, 100):
-			print(f'page: {page}')
-
-			request_data = {
-				'search_type': 'new-homes',
-				'location_id': location,
-				'page': page,
-			}
-
-			url = BASE_URL.format(**request_data)
-			print(f'url: {url}')
-
-			filename = request_data_to_filename(request_data)
-			fp = BASE_FP.format(yyyymm=yyyymm, filename=filename)
-
-			dirname = os.path.dirname(fp)
-			if not os.path.exists(dirname):
-				os.makedirs(dirname)
-
+			url = get_url(BASE_URL, 'new-homes', location, page)
+			filename = get_filename('new-homes', location, page)
+			print(url, filename, sep='\n')
+			
+			fp = get_filepath(DIR_PATH, filename)
 			if os.path.exists(fp):
-				print(f'fp exists: {fp}')
+				print(f'fp exists: {fp}', '\n\n')
 				continue
 
-			print(f'fp: {fp}', '\n')
+			response = requests.request('GET', url, headers=HEADERS, data={})
 
-			try:
-				response = requests.request('GET', url, headers=HEADERS, data={})
-				print(f'response: {response}')
+			if response.status_code == 200:
 				json_data = response.json()
+				if json_data['properties']:
+					_save_response(json_data, fp)
+				else:
+					print('No properties found...')
+					break
 
-			except Exception as e:
-				print('ERROR:', e)
-
-			if json_data['properties']:
-				print('properties exist, writing to file...')
-				with open(fp, 'w') as f:
-					json.dump(json_data, f, indent=4)
-			else:
-				break
-
+			print('Success...', '\n\n')
 			time.sleep(1)
-			print('\n\n')
+
+		print('\n', '*'*50, '\n\n')
 
 
 def test_request():
@@ -121,10 +114,8 @@ def test_request():
 
 
 if __name__ == '__main__':
-
-	main()
+	download_data()
 	
-
 	pass
 
 
