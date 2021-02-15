@@ -6,23 +6,17 @@ cd creation-origins
 pip install -e .
 ```
 
-#### Data Sources
+#### Data Sources
 
-**onthemarket.com**
-
-`https://www.onthemarket.com/`
-
-
-**Price Paid data by gov.uk**
-
-`https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads`
+- [OnTheMarket](https://www.onthemarket.com/)
+- [Price Paid data by gov.uk](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads)
 
 
-**London Postal Disticts**
-`https://en.wikipedia.org/wiki/London_postal_district`
+#### Helper datasets
+- [London Postal Disticts](https://en.wikipedia.org/wiki/London_postal_district)
 
 
-#### Testing
+#### Testing
 `pytest -v`
 
 
