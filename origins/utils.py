@@ -1,5 +1,6 @@
 import base64
 import os
+from pathlib import Path
 
 import pandas as pd
 
@@ -8,7 +9,9 @@ def get_outward_codes():
 	"""
 	Returns list of london outward codes
 	"""
-	return pd.read_csv('../data/misc/london-outward-codes.csv')['outward_code'].str.lower().to_list()
+	utils_fp = Path(os.path.realpath(__file__))
+	data_fp = utils_fp.parent.parent.joinpath('data/misc/london-outward-codes.csv')
+	return pd.read_csv(data_fp)['outward_code'].str.lower().to_list()
 
 
 def url_to_filename(url: str) -> str:
@@ -27,7 +30,7 @@ def get_filepath(dir_path: str, filename: str) -> str:
 	return os.path.join(dir_path, filename)
 
 
-def get_url(base_url, search_type, location, page):
+def get_url(base_url: str, search_type: str, location: str, page: int) -> str:
 	request_data = {
 		'search_type': search_type,
 		'location_id': location,
@@ -40,20 +43,8 @@ def get_url(base_url, search_type, location, page):
 
 if __name__ == '__main__':
 
-	# Tests
-	url = "https://www.onthemarket.com/async/search/properties/?search-type=for-sale&location-id=london&page=1"
-	fp = url_to_filename(url)
-	url_next = filename_to_url(fp)
-	result = (url == url_next)
+	print(get_outward_codes())
 
-	print(f'url == url_next: {result}')
+	pass
 
-	request_data = {
-		'search_type': 'new-homes',
-		'location_id': 'e10',
-		'page': '1',
-	}
-	
-	fname = get_filename(request_data)
-	result = (fname == 'new-homes-e10-1')
-	print(f"fname == 'new-homes-e10-1': {result}")
+
