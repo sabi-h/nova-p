@@ -23,6 +23,7 @@ yyyymm = datetime.now().strftime('%Y%m')
 - while there are properties of page < 100
 - send request and store response in json format
 
+
 """
 
 BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
