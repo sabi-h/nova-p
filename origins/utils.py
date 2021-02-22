@@ -40,6 +40,26 @@ def get_url(base_url: str, search_type: str, location: str, page: int) -> str:
 	return url
 
 
+def process_df_columns(df, columns):
+    """
+    - Adds missing columns
+    - removes extra columns
+    - orders columns
+
+    """
+    df_columns = df.columns
+
+    # add the missing columns with null values
+    for column in columns:
+        if column not in df_columns:
+            df[column] = None
+
+    # Select and Order columns
+    df = df[columns]
+
+    return df
+
+
 def flatten_json(y):
     """
     Naively flattens a json.

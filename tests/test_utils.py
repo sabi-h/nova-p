@@ -35,4 +35,7 @@ def test_get_filepath():
 
 def test_get_url():
 	url = get_url('https://base/', 'new-home', 'e10', 1)
-	assert isinstance(url, str) 
+	assert isinstance(url, str)
+
+if __name__ == '__main__':
+	print('yay')
