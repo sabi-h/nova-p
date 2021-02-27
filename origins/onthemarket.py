@@ -24,7 +24,19 @@ from origins.schemas import (
 	onthemarket as onthemarket_schema
 )
 
-logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s:')
+
+file_handler = logging.FileHandler('../logs/onthemarket.log')
+file_handler.setFormatter(formatter)
+
+stream_handler = logging.StreamHandler()
+stream_handler.setFormatter(formatter)
+
+logger.addHandler(file_handler)
+logger.addHandler(stream_handler)
 
 yyyymm = datetime.now().strftime('%Y%m')
 
@@ -71,22 +83,21 @@ def _save_response(json_data, fp):
 
 
 def download():
-	print('='*100, 'Starting Scraper...', '='*100, sep='\n', end='\n\n')
-	
+	logger.info('Starting Scraper...')
 	outward_codes = get_outward_codes()
 
 	for location in outward_codes:
-		print('='*20, f'location: {location}', '='*20)
+		logger.info(f'==location: {location}==')
 
 		for page in range(1, 42):
 
 			url = get_url(BASE_URL, 'new-homes', location, page)
 			filename = get_filename('new-homes', location, page)
-			print(url, filename, sep='\n')
+			logger.info(f'url={url} - filename={filename}')
 			
 			fp = get_filepath(DIR_PATH_RAW, filename)
 			if os.path.exists(fp):
-				print(f'fp exists: {fp}', '\n\n')
+				logger.info(f'fp exists: {fp}')
 				continue
 
 			response = requests.request('GET', url, headers=HEADER_URL, data={})
@@ -97,12 +108,8 @@ def download():
 				if json_data['properties']:
 					_save_response(json_data, fp)
 				else:
-					print('No properties found...')
+					logger.info('No properties found...')
 					break
-
-			print('Success...', '\n\n')
-
-		print('\n', '*'*50, '\n\n')
 
 
 def _get_files(dir_path: str) -> Generator[str, None, None]:
@@ -175,12 +182,10 @@ def process():
 	files = _get_files(DIR_PATH_RAW)
 
 	for fp_json in files:
-		print(fp_json)
+		logger.info(fp_json)
 
 		data = _read_file(fp_json)
-
 		data_json = _data_to_json(data)
-
 		data_flattened = _flatten_json(data_json)
 
 		csv_fp = os.path.join(DIR_PATH_PROCESSED, os.path.basename(fp_json).rsplit('.', 1)[0] + '.csv')
@@ -233,20 +238,16 @@ def aggregate():
 	files = _get_files(DIR_PATH_PROCESSED)
 
 	for fp_csv in files:
-		print(fp_csv)
+		logger.info(fp_csv)
 
 		df = _fp_to_df(fp_csv)
-		
 		df = process_df_columns(df, HEADER_CSV)
-
 		result_df = _concat_dfs(result_df, df)
-	
 	
 	csv_fp = os.path.join(DIR_PATH_AGGREGATED, f'{yyyymm}.csv')
 
 	_df_to_csv(result_df, csv_fp)
-
-	print('Success...file written to:', csv_fp)
+	logger.info(f'Success...file written to={csv_fp}')
 
 
 if __name__ == '__main__':
@@ -258,6 +259,8 @@ if __name__ == '__main__':
 	files = _get_files(DIR_PATH_RAW)
 	fp_json = next(files)
 	print(f'fp_json: {fp_json}')
+	logger.info(f'fp_json: {fp_json}')
+
 
 	data = _read_file(fp_json)
 	assert isinstance(data, str)
@@ -278,11 +281,8 @@ if __name__ == '__main__':
 	# ===========================================================
 	# download()
 	# process()
-	# aggregate()
+	aggregate()
 
-	
-
-	# pprint(agent, indent=4)
 
 
 
