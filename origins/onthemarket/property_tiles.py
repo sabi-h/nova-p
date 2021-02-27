@@ -46,9 +46,9 @@ yyyymm = datetime.now().strftime('%Y%m')
 
 BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
 
-DIR_PATH_RAW = f'../../data/onthemarket/property_tiles/raw/{yyyymm}'
-DIR_PATH_PROCESSED = f'../../data/onthemarket/property_tiles/processed/{yyyymm}'
-DIR_PATH_AGGREGATED = f'../../data/onthemarket/property_tiles/aggregated/'
+DIR_PATH_RAW = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/raw/{yyyymm}')
+DIR_PATH_PROCESSED = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/processed/{yyyymm}')
+DIR_PATH_AGGREGATED = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/aggregated/')
 
 # Create directories if they do not exist
 for _dir in [DIR_PATH_RAW, DIR_PATH_PROCESSED, DIR_PATH_AGGREGATED]:
