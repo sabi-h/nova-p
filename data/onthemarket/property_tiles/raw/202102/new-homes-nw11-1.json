@@ -1,0 +1,2956 @@
+{
+    "header-data": {
+        "data-layer": "{\"g-location-type\":\"postal-district\",\"retirement\":false,\"g-location-id\":\"2030001801\",\"property-prices\":[\"995,000\",\"995,000\",\"995,000\",\"1,100,000\",\"1,100,000\",\"1,100,000\",\"1,100,000\",\"1,100,000\",\"1,125,000\",\"1,200,000\",\"1,225,000\",\"1,250,000\",\"1,250,000\",\"1,250,000\",\"1,295,000\",\"1,350,000\",\"1,495,000\",\"1,500,000\",\"1,500,000\",\"1,600,000\",\"1,600,000\",\"3,950,000\",\"4,150,000\",\"4,250,000\"],\"no-of-properties\":56,\"new-home-flag\":\"T\",\"location-name\":\"NW11\",\"typeahead\":true,\"g-hierarchy-level\":7,\"meta-robots\":\"not-provided\",\"page\":1,\"exclusive-first\":true,\"property-ids\":[\"4486671\",\"4486671\",\"7890166\",\"9668988\",\"7105561\",\"7741648\",\"8165510\",\"7890296\",\"8165512\",\"7041251\",\"8165517\",\"9589075\",\"8165521\",\"7976436\",\"9234705\",\"5170583\",\"9234787\",\"7946286\",\"7890297\",\"9589081\",\"7890295\",\"9314586\",\"9314591\",\"6239314\"],\"ranking-type\":\"update_date\",\"under-offer\":false,\"non-standard-property-count\":1,\"http-status\":\"200\",\"new-homes\":true,\"location-id\":\"nw11\",\"search-type\":\"for-sale\",\"frame-size\":24,\"breadcrumbs\":[\"uk\",\"london\",\"north-london\"],\"direction\":\"desc\",\"view\":\"list\",\"sort-field\":\"update_date\"}",
+        "render-data-layer?": true
+    },
+    "properties": [
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/4486671/1339224308/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/4486671/1339224308/composite.webp"
+            },
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37788,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37788/150609132036029/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Prime Team",
+                "telephone": "020 8022 6440",
+                "base-contact-url": "/agents/contact/4486671/",
+                "contact-url": "/agents/contact/4486671/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-prime-team/",
+                "development?": false
+            },
+            "summary": "Large 2 bedroom apartment for sale\n\nA spacious 2 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tastefull...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "is-spotlight?": true,
+            "id": "4486671",
+            "eb-cover-images": [
+                {
+                    "default": "https://media.onthemarket.com/properties/4486671/1231162658/image-1-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/4486671/1231162658/image-1-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/4486671/1231162658/image-1-480x320.webp"
+                },
+                {
+                    "default": "https://media.onthemarket.com/properties/4486671/1231162658/image-2-480x320.jpg",
+                    "url": "https://media.onthemarket.com/properties/4486671/1231162658/image-2-480x320.jpg",
+                    "portrait?": false,
+                    "webp": "https://media.onthemarket.com/properties/4486671/1231162658/image-2-480x320.webp"
+                }
+            ],
+            "property-link": "/details/4486671/",
+            "cover-image": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.jpg",
+            "price": "\u00a3995,000",
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "The Lexington, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9668988/1336164816/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9668988/1336164816/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 3387,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/389/150611110859670/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 74,
+                    "resized?": true
+                },
+                "name": "Glentree Estates",
+                "telephone": "020 8022 6656",
+                "base-contact-url": "/agents/contact/9668988/",
+                "contact-url": "/agents/contact/9668988/?form-name=details-contact",
+                "details-url": "/agents/branch/glentree-estates/",
+                "development?": false
+            },
+            "summary": "A superbly presented and extremely spacious 1st floor, 2 bedroom apartment which is offered for sale in excellent condition throughout. This unique apartment has an exceptional 600 sq ft of private terrace overlooking the communal gardens with a south facing aspect and has 1 underground car...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "9668988",
+            "property-link": "/details/9668988/",
+            "cover-image": "https://media.onthemarket.com/properties/9668988/1336164816/image-0-480x320.jpg",
+            "price": "\u00a31,100,000",
+            "data-link-position": 1,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 16,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Apartment 5, Four 5 Two, Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9589081/1334704981/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9589081/1334704981/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/9589081/",
+                "contact-url": "/agents/contact/9589081/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Large 3 bedroom apartment for sale\n\nA spacious 3 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tastefull...",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "9589081",
+            "property-link": "/details/9589081/",
+            "cover-image": "https://media.onthemarket.com/properties/9589081/1334704981/image-0-480x320.jpg",
+            "price": "\u00a31,600,000",
+            "videos?": true,
+            "data-link-position": 2,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 8,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "online-viewing?": true,
+            "display_address": "Apartment 10, Four 5 Two, Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9589075/1334704992/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9589075/1334704992/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 42119,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/5/180618174152145/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "telephone": "020 3641 9494",
+                "base-contact-url": "/agents/contact/9589075/",
+                "contact-url": "/agents/contact/9589075/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-broker-team/",
+                "development?": false
+            },
+            "summary": "Large 2 bedroom apartment for sale\n\nA spacious 2 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tastefull...",
+            "property-labels": [
+                "Online viewing",
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "9589075",
+            "property-link": "/details/9589075/",
+            "cover-image": "https://media.onthemarket.com/properties/9589075/1334704992/image-0-480x320.jpg",
+            "price": "\u00a31,250,000",
+            "videos?": true,
+            "data-link-position": 3,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "West Heath Road, Hampstead, NW3",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9314591/1332610602/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9314591/1332610602/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 847,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/847/150601131338189/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "TK International - Hampstead",
+                "telephone": "020 8022 6995",
+                "base-contact-url": "/agents/contact/9314591/",
+                "contact-url": "/agents/contact/9314591/?form-name=details-contact",
+                "details-url": "/agents/branch/tk-international-hampstead/",
+                "development?": false
+            },
+            "summary": "HOUSE ONEDiscretely located within a private gated domain located close to the delightful open spaces of Golders Hill Park and Hampstead Heath, we are delighted to offer a development of four beautiful striking contemporary terraced townhouses designed by the internationally renowned team at...",
+            "property-labels": [
+                "New build",
+                "Study"
+            ],
+            "property-title": "4 bedroom house for sale",
+            "id": "9314591",
+            "property-link": "/details/9314591/",
+            "cover-image": "https://media.onthemarket.com/properties/9314591/1332610602/image-0-480x320.jpg",
+            "price": "\u00a34,150,000",
+            "data-link-position": 4,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 9,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "West Heath Road, Hampstead, NW3",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9314586/1338221272/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9314586/1338221272/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 847,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/847/150601131338189/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 98,
+                    "resized?": true
+                },
+                "name": "TK International - Hampstead",
+                "telephone": "020 8022 6995",
+                "base-contact-url": "/agents/contact/9314586/",
+                "contact-url": "/agents/contact/9314586/?form-name=details-contact",
+                "details-url": "/agents/branch/tk-international-hampstead/",
+                "development?": false
+            },
+            "summary": "HOUSE TWODiscretely located within a private gated domain located close to the delightful open spaces of Golders Hill Park and Hampstead Heath, we are delighted to offer a development of four beautiful striking contemporary terraced townhouses designed by the internationally renowned team at...",
+            "property-labels": [
+                "New build",
+                "Study"
+            ],
+            "property-title": "4 bedroom house for sale",
+            "id": "9314586",
+            "property-link": "/details/9314586/",
+            "cover-image": "https://media.onthemarket.com/properties/9314586/1338221272/image-0-480x320.jpg",
+            "price": "\u00a33,950,000",
+            "data-link-position": 5,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 27,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Bute Mews, Hampstead Garden Suburb",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9234787/1315157519/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9234787/1315157519/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 25942,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/390/180803080723316/logo-100x65.jpg",
+                    "height": 53,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "telephone": "020 8022 6657",
+                "base-contact-url": "/agents/contact/9234787/",
+                "contact-url": "/agents/contact/9234787/?form-name=details-contact",
+                "details-url": "/agents/branch/godfrey-and-barr-hampstead-garden/",
+                "development?": false
+            },
+            "summary": "A rare opportunity to acquire a brand newly built house in the heart of Hampstead Garden Suburb!  \u00a0Bute Mews development comprises six 3 bed/ 2 bath houses each with a south facing terrace and garden overlooking Northway Park open space as well as a charming residents communal garden with seating...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom semi-detached house for sale",
+            "id": "9234787",
+            "property-link": "/details/9234787/",
+            "cover-image": "https://media.onthemarket.com/properties/9234787/1315157519/image-0-480x320.jpg",
+            "price": "\u00a31,495,000",
+            "data-link-position": 6,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 24,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Bute Mews, Hampstead Garden Suburb",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/9234705/1315152592/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/9234705/1315152592/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 25942,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/390/180803080723316/logo-100x65.jpg",
+                    "height": 53,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "telephone": "020 8022 6657",
+                "base-contact-url": "/agents/contact/9234705/",
+                "contact-url": "/agents/contact/9234705/?form-name=details-contact",
+                "details-url": "/agents/branch/godfrey-and-barr-hampstead-garden/",
+                "development?": false
+            },
+            "summary": "A rare opportunity to acquire a brand newly built house in the heart of Hampstead Garden Suburb!Bute Mews development comprises six fabulous 3 bed/ 2 bath houses each with a south facing terrace and garden overlooking Northway Park open space as well as a charming residents communal garden with...",
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom semi-detached house for sale",
+            "id": "9234705",
+            "property-link": "/details/9234705/",
+            "cover-image": "https://media.onthemarket.com/properties/9234705/1315152592/image-0-480x320.jpg",
+            "price": "\u00a31,295,000",
+            "data-link-position": 7,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 12,
+            "price-qualifier": "Guide price",
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/7105561/1339222979/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/7105561/1339222979/composite.webp"
+            },
+            "display_address": "Four5Two Finchley Road, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7105561/1327861026/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7105561/1327861026/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 3387,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/389/150611110859670/logo-100x65.jpg",
+                    "height": 65,
+                    "width": 74,
+                    "resized?": true
+                },
+                "name": "Glentree Estates",
+                "telephone": "020 8022 6656",
+                "base-contact-url": "/agents/contact/7105561/",
+                "contact-url": "/agents/contact/7105561/?form-name=details-contact",
+                "details-url": "/agents/branch/glentree-estates/",
+                "development?": false
+            },
+            "summary": "A two bedroom, two bathroom, first floor apartment in this deluxe new development of 13 apartments.With a contemporary design and a high spec finish Four5Two has been created for deluxe living on the borders of Hampstead and walking distance to Hampstead Heath. Backing on to Elm Park the...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "7105561",
+            "property-link": "/details/7105561/",
+            "cover-image": "https://media.onthemarket.com/properties/7105561/1327861026/image-0-480x320.jpg",
+            "price": "\u00a31,100,000",
+            "data-link-position": 8,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 30,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Golders Green Road, Golders Green",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7741648/1295188326/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7741648/1295188326/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 25942,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/390/180803080723316/logo-100x65.jpg",
+                    "height": 53,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "telephone": "020 8022 6657",
+                "base-contact-url": "/agents/contact/7741648/",
+                "contact-url": "/agents/contact/7741648/?form-name=details-contact",
+                "details-url": "/agents/branch/godfrey-and-barr-hampstead-garden/",
+                "development?": false
+            },
+            "summary": "A stunning 1392 sq ft, 3 double bedroom, 3 bathroom (2 en-suite), 1st floor apartment set within this exclusive, newly built luxury development constructed by the award winning Bridgewood plc. Designed and finished to a high specification & exceptional standard; features include a fabulous 29 ft...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom apartment for sale",
+            "id": "7741648",
+            "property-link": "/details/7741648/",
+            "cover-image": "https://media.onthemarket.com/properties/7741648/1295188326/image-0-480x320.jpg",
+            "price": "\u00a31,100,000",
+            "data-link-position": 9,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 7,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Havanna Drive, Temple Fortune",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/6239314/1295188320/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/6239314/1295188320/image-0-480x320.webp"
+            },
+            "floorplans-count": 4,
+            "agent": {
+                "id": 25942,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/390/180803080723316/logo-100x65.jpg",
+                    "height": 53,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "telephone": "020 8022 6657",
+                "base-contact-url": "/agents/contact/6239314/",
+                "contact-url": "/agents/contact/6239314/?form-name=details-contact",
+                "details-url": "/agents/branch/godfrey-and-barr-hampstead-garden/",
+                "development?": false
+            },
+            "summary": "A fantastic 4017sq ft, 6 bedroom, 5 bathroom, double fronted detached family home in this exclusive secure gated development built by Berkeley Homes, with use of 24 hour hotel style concierge and driveway for 2 cars. Situated within close proximity to Brent Cross Shopping Centre and underground...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build",
+                "Study"
+            ],
+            "property-title": "6 bedroom detached house for sale",
+            "id": "6239314",
+            "property-link": "/details/6239314/",
+            "cover-image": "https://media.onthemarket.com/properties/6239314/1295188320/image-0-480x320.jpg",
+            "price": "\u00a34,250,000",
+            "data-link-position": 10,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/5170583/1339225815/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/5170583/1339225815/composite.webp"
+            },
+            "display_address": "Hampstead Reach, Hampstead Garden Suburb / Golders Hill",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/5170583/1295188314/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/5170583/1295188314/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 25942,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/390/180803080723316/logo-100x65.jpg",
+                    "height": 53,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "telephone": "020 8022 6657",
+                "base-contact-url": "/agents/contact/5170583/",
+                "contact-url": "/agents/contact/5170583/?form-name=details-contact",
+                "details-url": "/agents/branch/godfrey-and-barr-hampstead-garden/",
+                "development?": false
+            },
+            "summary": "A stunning brand new 2 bathroom ground floor apartment (1006 sq ft) in a prime location on the exclusive Hampstead Reach development.  Features include a lovely private terrace with direct access from the kitchen/reception room overlooking the gorgeous courtyard and gardens, underfloor heating,...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "5170583",
+            "property-link": "/details/5170583/",
+            "cover-image": "https://media.onthemarket.com/properties/5170583/1295188314/image-0-480x320.jpg",
+            "price": "\u00a31,350,000",
+            "data-link-position": 11,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Golders Green Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8165521/1297123041/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8165521/1297123041/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27550,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Temple Fortune",
+                "telephone": "020 8022 7063",
+                "base-contact-url": "/agents/contact/8165521/",
+                "contact-url": "/agents/contact/8165521/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-temple-fortune/",
+                "development?": false
+            },
+            "summary": "A stylish three bedroom second floor flat with three balconies and secure gated parking situated in this new development in Golders Green. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8165521",
+            "property-link": "/details/8165521/",
+            "cover-image": "https://media.onthemarket.com/properties/8165521/1297123041/image-0-480x320.jpg",
+            "price": "\u00a31,250,000",
+            "data-link-position": 12,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Golders Green Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8165517/1297123009/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8165517/1297123009/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27550,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Temple Fortune",
+                "telephone": "020 8022 7063",
+                "base-contact-url": "/agents/contact/8165517/",
+                "contact-url": "/agents/contact/8165517/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-temple-fortune/",
+                "development?": false
+            },
+            "summary": "A stylish three bedroom first floor flat with three balconies and secure gated parking situated in this new development in Golders Green. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8165517",
+            "property-link": "/details/8165517/",
+            "cover-image": "https://media.onthemarket.com/properties/8165517/1297123009/image-0-480x320.jpg",
+            "price": "\u00a31,225,000",
+            "data-link-position": 13,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Golders Green Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8165512/1297122983/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8165512/1297122983/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27550,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Temple Fortune",
+                "telephone": "020 8022 7063",
+                "base-contact-url": "/agents/contact/8165512/",
+                "contact-url": "/agents/contact/8165512/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-temple-fortune/",
+                "development?": false
+            },
+            "summary": "A superb three bedroom second floor flat with three balconies and secure gated parking situated in this new development in Golders Green. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8165512",
+            "property-link": "/details/8165512/",
+            "cover-image": "https://media.onthemarket.com/properties/8165512/1297122983/image-0-480x320.jpg",
+            "price": "\u00a31,125,000",
+            "data-link-position": 14,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 10,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Golders Green Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/8165510/1297122976/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/8165510/1297122976/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27550,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Temple Fortune",
+                "telephone": "020 8022 7063",
+                "base-contact-url": "/agents/contact/8165510/",
+                "contact-url": "/agents/contact/8165510/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-temple-fortune/",
+                "development?": false
+            },
+            "summary": "A superb three bedroom first floor flat with three balconies and secure gated parking situated in this new development in Golders Green. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "8165510",
+            "property-link": "/details/8165510/",
+            "cover-image": "https://media.onthemarket.com/properties/8165510/1297122976/image-0-480x320.jpg",
+            "price": "\u00a31,100,000",
+            "data-link-position": 15,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "composite-eb-cover-image": {
+                "default": "https://media.onthemarket.com/properties/4486671/1339224308/composite.jpg",
+                "webp": "https://media.onthemarket.com/properties/4486671/1339224308/composite.webp"
+            },
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37788,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37788/150609132036029/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Prime Team",
+                "telephone": "020 8022 6440",
+                "base-contact-url": "/agents/contact/4486671/",
+                "contact-url": "/agents/contact/4486671/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-prime-team/",
+                "development?": false
+            },
+            "summary": "Large 2 bedroom apartment for sale\n\nA spacious 2 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tastefull...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "4486671",
+            "property-link": "/details/4486671/",
+            "cover-image": "https://media.onthemarket.com/properties/4486671/1231162658/image-0-480x320.jpg",
+            "price": "\u00a3995,000",
+            "data-link-position": 16,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Apartment 7, Four 5 Two, Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7041251/1334707361/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7041251/1334707361/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37788,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37788/150609132036029/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - London, Residential Development Prime Team",
+                "telephone": "020 8022 6440",
+                "base-contact-url": "/agents/contact/7041251/",
+                "contact-url": "/agents/contact/7041251/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-london-residential-development-prime-team/",
+                "development?": false
+            },
+            "summary": "Large 2 bedroom apartment for sale\n\nA very spacious 2 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tast...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7041251",
+            "cover-image-landscape?": true,
+            "property-link": "/details/7041251/",
+            "cover-image": "https://media.onthemarket.com/properties/7041251/1334707361/image-0-480x320.jpg",
+            "price": "\u00a31,200,000",
+            "data-link-position": 17,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "81 Chandos Way, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7976436/1317813066/image-0-480x320.png",
+                "webp": "https://media.onthemarket.com/properties/7976436/1317813066/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 37717,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/37717/171207115555495/logo-100x65.jpg",
+                    "height": 31,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "RE/MAX Vision",
+                "telephone": "020 8022 6325",
+                "base-contact-url": "/agents/contact/7976436/",
+                "contact-url": "/agents/contact/7976436/?form-name=details-contact",
+                "details-url": "/agents/branch/remax-vision/",
+                "development?": false
+            },
+            "summary": "Brand new two bedroom, two bathroom apartment located on the second floor of this new development. The property comprises of spacious living room and open plan fitted kitchen, two double bedrooms with fitted wardrobes, main bathroom and en-suite. Residents benefit from concierge service, secured",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom apartment for sale",
+            "id": "7976436",
+            "property-link": "/details/7976436/",
+            "cover-image": "https://media.onthemarket.com/properties/7976436/1317813066/image-0-480x320.png",
+            "price": "\u00a31,250,000",
+            "data-link-position": 18,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7946286/1217260426/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7946286/1217260426/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 4817,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/branches/4817/150609133018154/logo-100x65.jpg",
+                    "height": 43,
+                    "width": 100,
+                    "resized?": true
+                },
+                "name": "Knight Frank - Hampstead",
+                "telephone": "020 8022 7297",
+                "base-contact-url": "/agents/contact/7946286/",
+                "contact-url": "/agents/contact/7946286/?form-name=details-contact",
+                "details-url": "/agents/branch/knight-frank-hampstead/",
+                "development?": false
+            },
+            "summary": "Large 3 bedroom apartment for sale\n\nA spacious 3 bedroom open plan apartment featuring contemporary design and quality finish throughout. These apartments all have high ceilings and large terraces with park views.  \n\nBespoke fitted kitchens with integrated Siemens appliances. Tastefull...",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "7946286",
+            "property-link": "/details/7946286/",
+            "cover-image": "https://media.onthemarket.com/properties/7946286/1217260426/image-0-480x320.jpg",
+            "price": "\u00a31,500,000",
+            "data-link-position": 19,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 11,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7890297/1297123177/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7890297/1297123177/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27557,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Hampstead",
+                "telephone": "020 8022 7302",
+                "base-contact-url": "/agents/contact/7890297/",
+                "contact-url": "/agents/contact/7890297/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-hampstead/",
+                "development?": false
+            },
+            "summary": "Flat 2 - AVAILABLE FOR IMMEDIATE OCCUPATIONAn exquisite three bedroom first floor apartment (1590sqft / 148 sqm) with private terrace (49 sqft) and allocated off street parking forming part of a brand new development, Four5Two. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "7890297",
+            "property-link": "/details/7890297/",
+            "cover-image": "https://media.onthemarket.com/properties/7890297/1297123177/image-0-480x320.jpg",
+            "price": "\u00a31,500,000",
+            "data-link-position": 20,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7890296/1297123087/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7890296/1297123087/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27557,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Hampstead",
+                "telephone": "020 8022 7302",
+                "base-contact-url": "/agents/contact/7890296/",
+                "contact-url": "/agents/contact/7890296/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-hampstead/",
+                "development?": false
+            },
+            "summary": "Flat 3 - RESERVEDA stunning two double bedroom first floor apartment (1215sqft / 113 sqm) with private terrace (57 sqft) and allocated off street parking forming part of a brand new development, Four5Two. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7890296",
+            "property-link": "/details/7890296/",
+            "cover-image": "https://media.onthemarket.com/properties/7890296/1297123087/image-0-480x320.jpg",
+            "price": "\u00a31,100,000",
+            "data-link-position": 21,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7890295/1297123068/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7890295/1297123068/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27557,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Hampstead",
+                "telephone": "020 8022 7302",
+                "base-contact-url": "/agents/contact/7890295/",
+                "contact-url": "/agents/contact/7890295/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-hampstead/",
+                "development?": false
+            },
+            "summary": "Flat 11 - AVAILABLE FOR IMMEDIATE OCCUPATIONAn outstanding three bedroom first floor apartment (1718sqft / 160 sqm) with private terrace (50 sqft) and allocated off street parking forming part of a brand new development, Four5Two. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "3 bedroom flat for sale",
+            "id": "7890295",
+            "property-link": "/details/7890295/",
+            "cover-image": "https://media.onthemarket.com/properties/7890295/1297123068/image-0-480x320.jpg",
+            "price": "\u00a31,600,000",
+            "data-link-position": 22,
+            "floorplans?": true,
+            "for-sale?": true
+        },
+        {
+            "images-count": 13,
+            "price-qualifier": null,
+            "new-home-flag": true,
+            "display_address": "Finchley Road, London, NW11",
+            "cover-images": {
+                "default": "https://media.onthemarket.com/properties/7890166/1297123139/image-0-480x320.jpg",
+                "webp": "https://media.onthemarket.com/properties/7890166/1297123139/image-0-480x320.webp"
+            },
+            "floorplans-count": 1,
+            "agent": {
+                "id": 27557,
+                "display-logo": {
+                    "url": "https://media.onthemarket.com/agents/companies/393/210106165907388/logo-100x65.jpeg",
+                    "height": 65,
+                    "width": 72,
+                    "resized?": true
+                },
+                "name": "Goldschmidt & Howland - Hampstead",
+                "telephone": "020 8022 7302",
+                "base-contact-url": "/agents/contact/7890166/",
+                "contact-url": "/agents/contact/7890166/?form-name=details-contact",
+                "details-url": "/agents/branch/goldschmidt-and-howland-hampstead/",
+                "development?": false
+            },
+            "summary": "Flat 8 - SOLDA superb two double bedroom first floor apartment (1110sqft / 102 sqm) with private terrace (65 sqft) and allocated off street parking forming part of a brand new development, Four5Two. (contd...)",
+            "lazy-load-image?": true,
+            "property-labels": [
+                "New build"
+            ],
+            "property-title": "2 bedroom flat for sale",
+            "id": "7890166",
+            "property-link": "/details/7890166/",
+            "cover-image": "https://media.onthemarket.com/properties/7890166/1297123139/image-0-480x320.jpg",
+            "price": "\u00a3995,000",
+            "data-link-position": 23,
+            "floorplans?": true,
+            "for-sale?": true
+        }
+    ],
+    "many-contact-form": {
+        "contact-many-agents-url": "/agents/contact/",
+        "find-agents?": false,
+        "confirmation": false,
+        "hide-appraisal?": false,
+        "show-agents-count": true,
+        "refine-message": false,
+        "search-type": "for-sale",
+        "to-rent?": false,
+        "agents": [
+            {
+                "name": "Glentree Estates",
+                "id": 3387,
+                "development?": false
+            },
+            {
+                "name": "Godfrey & Barr - Hampstead Garden",
+                "id": 25942,
+                "development?": false
+            },
+            {
+                "name": "Goldschmidt & Howland - Hampstead",
+                "id": 27557,
+                "development?": false
+            },
+            {
+                "name": "Goldschmidt & Howland - Temple Fortune",
+                "id": 27550,
+                "development?": false
+            },
+            {
+                "name": "Jeremy Leaf & Co - Residential Development",
+                "id": 57359,
+                "development?": false
+            },
+            {
+                "name": "JT Homes - Hendon",
+                "id": 51177,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - Hampstead",
+                "id": 4817,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - London, Residential Development Broker Team",
+                "id": 42119,
+                "development?": false
+            },
+            {
+                "name": "Knight Frank - London, Residential Development Prime Team",
+                "id": 37788,
+                "development?": false
+            },
+            {
+                "name": "Paramount - West Hampstead",
+                "id": 22297,
+                "development?": false
+            },
+            {
+                "name": "RE/MAX Vision",
+                "id": 37717,
+                "development?": false
+            },
+            {
+                "name": "Savills - Hampstead",
+                "id": 22342,
+                "development?": false
+            },
+            {
+                "name": "TK International - Hampstead",
+                "id": 847,
+                "development?": false
+            }
+        ],
+        "current-url": "/new-homes/property/nw11/?page=1&retirement=false",
+        "for-sale?": true
+    },
+    "view-controls": {
+        "view-types": [
+            {
+                "url": "/new-homes/property/nw11/?page=1&retirement=false&view=grid",
+                "selected": false,
+                "mobile-to-show": false,
+                "value": "grid",
+                "label": "Grid"
+            },
+            {
+                "url": "/new-homes/property/nw11/?retirement=false&view=map",
+                "selected": false,
+                "mobile-to-show": true,
+                "value": "map",
+                "label": "Map"
+            },
+            {
+                "url": "/new-homes/property/nw11/?page=1&retirement=false",
+                "selected": true,
+                "mobile-to-show": true,
+                "value": "list",
+                "label": "List"
+            }
+        ],
+        "view-is-default": true,
+        "sorting": [
+            {
+                "url": "/new-homes/property/nw11/?retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Highest price"
+            },
+            {
+                "url": "/new-homes/property/nw11/?direction=asc&retirement=false&sort-field=price",
+                "selected": false,
+                "label": "Lowest price"
+            },
+            {
+                "url": "/new-homes/property/nw11/?retirement=false",
+                "selected": true,
+                "label": "Most recent"
+            }
+        ],
+        "page-size": [],
+        "current-view": "list"
+    },
+    "metric-name": null,
+    "ads": {
+        "results": [
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 1,
+                "unit-code": 1
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 2,
+                "unit-code": 2
+            },
+            {
+                "type": "third-party",
+                "section": "properties",
+                "slot": 3,
+                "unit-code": 3
+            }
+        ],
+        "third-party-ads?": true,
+        "third-party-params": {
+            "otm-new-home-flag": "true",
+            "otm-retirement": "false",
+            "otm-new-homes": "true",
+            "otm-location-id": "nw11",
+            "otm-location-name": "NW11",
+            "otm-under-offer": "false",
+            "otm-postal-district": "NW11"
+        }
+    },
+    "saved-search-params": {
+        "retirement": false,
+        "new-home-flag": "T",
+        "exclusive-first": true,
+        "under-offer": false,
+        "new-homes": true,
+        "location-id": "nw11",
+        "search-type": "for-sale"
+    },
+    "pagination-controls": {
+        "first-link": null,
+        "trailing-gap": false,
+        "total": "56",
+        "next": {
+            "next-link": "/new-homes/property/nw11/?page=2&retirement=false"
+        },
+        "from": "25",
+        "page-links": [
+            {
+                "url": "/new-homes/property/nw11/?retirement=false",
+                "page": 1,
+                "selected": false
+            },
+            {
+                "url": "/new-homes/property/nw11/?page=1&retirement=false",
+                "page": 2,
+                "selected": true
+            },
+            {
+                "url": "/new-homes/property/nw11/?page=2&retirement=false",
+                "page": 3,
+                "selected": false
+            }
+        ],
+        "prev": {
+            "prev-link": "/new-homes/property/nw11/?retirement=false"
+        },
+        "last-link": null,
+        "leading-gap": false,
+        "to": "48"
+    },
+    "form-data": {
+        "commercial": {
+            "prices": {
+                "min-prices": [],
+                "max-prices": []
+            },
+            "all-prices": {
+                "pcm": [],
+                "pa": [],
+                "ppu": {
+                    "sqft": [],
+                    "sqm": [],
+                    "ac": [],
+                    "ha": []
+                }
+            },
+            "size-list": {
+                "sqft": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "sqm": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ac": {
+                    "min-size": [],
+                    "max-size": []
+                },
+                "ha": {
+                    "min-size": [],
+                    "max-size": []
+                }
+            },
+            "size-unit": [],
+            "price-per-list": []
+        },
+        "let-agreed-url": "/new-homes/property/nw11/?let-agreed=true&retirement=false",
+        "online-viewings-first-url": "/new-homes/property/nw11/?online-viewings-first=true&retirement=false",
+        "character-property": null,
+        "radii": [
+            {
+                "val-raw": "",
+                "val-formatted": "+ 0 miles",
+                "selected?": true
+            },
+            {
+                "val-formatted": "+ \u00bc mile",
+                "val-raw": "0.25",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ \u00bd mile",
+                "val-raw": "0.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 1 mile",
+                "val-raw": "1.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 2 miles",
+                "val-raw": "2.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 3 miles",
+                "val-raw": "3.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 4 miles",
+                "val-raw": "4.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 5 miles",
+                "val-raw": "5.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 7\u00bd miles",
+                "val-raw": "7.5",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 10 miles",
+                "val-raw": "10.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 15 miles",
+                "val-raw": "15.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 20 miles",
+                "val-raw": "20.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 30 miles",
+                "val-raw": "30.0",
+                "selected?": false
+            },
+            {
+                "val-formatted": "+ 40 miles",
+                "val-raw": "40.0",
+                "selected?": false
+            }
+        ],
+        "search-url": "/locations/search/",
+        "show-character-property-control": true,
+        "location-name": "NW11",
+        "typeahead-values": "{\"input\":\"NW11\",\"location-id\":\"nw11\"}",
+        "show-under-offer-control": true,
+        "for-sale": {
+            "min-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ],
+            "max-prices": [
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "first?": true
+                },
+                {
+                    "val-formatted": "\u00a310,000 ",
+                    "val-raw": 10000
+                },
+                {
+                    "val-formatted": "\u00a320,000 ",
+                    "val-raw": 20000
+                },
+                {
+                    "val-formatted": "\u00a330,000 ",
+                    "val-raw": 30000
+                },
+                {
+                    "val-formatted": "\u00a340,000 ",
+                    "val-raw": 40000
+                },
+                {
+                    "val-formatted": "\u00a350,000 ",
+                    "val-raw": 50000
+                },
+                {
+                    "val-formatted": "\u00a360,000 ",
+                    "val-raw": 60000
+                },
+                {
+                    "val-formatted": "\u00a370,000 ",
+                    "val-raw": 70000
+                },
+                {
+                    "val-formatted": "\u00a380,000 ",
+                    "val-raw": 80000
+                },
+                {
+                    "val-formatted": "\u00a390,000 ",
+                    "val-raw": 90000
+                },
+                {
+                    "val-formatted": "\u00a3100,000 ",
+                    "val-raw": 100000
+                },
+                {
+                    "val-formatted": "\u00a3110,000 ",
+                    "val-raw": 110000
+                },
+                {
+                    "val-formatted": "\u00a3120,000 ",
+                    "val-raw": 120000
+                },
+                {
+                    "val-formatted": "\u00a3130,000 ",
+                    "val-raw": 130000
+                },
+                {
+                    "val-formatted": "\u00a3140,000 ",
+                    "val-raw": 140000
+                },
+                {
+                    "val-formatted": "\u00a3150,000 ",
+                    "val-raw": 150000
+                },
+                {
+                    "val-formatted": "\u00a3160,000 ",
+                    "val-raw": 160000
+                },
+                {
+                    "val-formatted": "\u00a3170,000 ",
+                    "val-raw": 170000
+                },
+                {
+                    "val-formatted": "\u00a3180,000 ",
+                    "val-raw": 180000
+                },
+                {
+                    "val-formatted": "\u00a3190,000 ",
+                    "val-raw": 190000
+                },
+                {
+                    "val-formatted": "\u00a3200,000 ",
+                    "val-raw": 200000
+                },
+                {
+                    "val-formatted": "\u00a3210,000 ",
+                    "val-raw": 210000
+                },
+                {
+                    "val-formatted": "\u00a3220,000 ",
+                    "val-raw": 220000
+                },
+                {
+                    "val-formatted": "\u00a3230,000 ",
+                    "val-raw": 230000
+                },
+                {
+                    "val-formatted": "\u00a3240,000 ",
+                    "val-raw": 240000
+                },
+                {
+                    "val-formatted": "\u00a3250,000 ",
+                    "val-raw": 250000
+                },
+                {
+                    "val-formatted": "\u00a3275,000 ",
+                    "val-raw": 275000
+                },
+                {
+                    "val-formatted": "\u00a3300,000 ",
+                    "val-raw": 300000
+                },
+                {
+                    "val-formatted": "\u00a3325,000 ",
+                    "val-raw": 325000
+                },
+                {
+                    "val-formatted": "\u00a3350,000 ",
+                    "val-raw": 350000
+                },
+                {
+                    "val-formatted": "\u00a3375,000 ",
+                    "val-raw": 375000
+                },
+                {
+                    "val-formatted": "\u00a3400,000 ",
+                    "val-raw": 400000
+                },
+                {
+                    "val-formatted": "\u00a3425,000 ",
+                    "val-raw": 425000
+                },
+                {
+                    "val-formatted": "\u00a3450,000 ",
+                    "val-raw": 450000
+                },
+                {
+                    "val-formatted": "\u00a3475,000 ",
+                    "val-raw": 475000
+                },
+                {
+                    "val-formatted": "\u00a3500,000 ",
+                    "val-raw": 500000
+                },
+                {
+                    "val-formatted": "\u00a3550,000 ",
+                    "val-raw": 550000
+                },
+                {
+                    "val-formatted": "\u00a3600,000 ",
+                    "val-raw": 600000
+                },
+                {
+                    "val-formatted": "\u00a3650,000 ",
+                    "val-raw": 650000
+                },
+                {
+                    "val-formatted": "\u00a3700,000 ",
+                    "val-raw": 700000
+                },
+                {
+                    "val-formatted": "\u00a3750,000 ",
+                    "val-raw": 750000
+                },
+                {
+                    "val-formatted": "\u00a3800,000 ",
+                    "val-raw": 800000
+                },
+                {
+                    "val-formatted": "\u00a3850,000 ",
+                    "val-raw": 850000
+                },
+                {
+                    "val-formatted": "\u00a3900,000 ",
+                    "val-raw": 900000
+                },
+                {
+                    "val-formatted": "\u00a3950,000 ",
+                    "val-raw": 950000
+                },
+                {
+                    "val-formatted": "\u00a31,000,000 ",
+                    "val-raw": 1000000
+                },
+                {
+                    "val-formatted": "\u00a31,100,000 ",
+                    "val-raw": 1100000
+                },
+                {
+                    "val-formatted": "\u00a31,200,000 ",
+                    "val-raw": 1200000
+                },
+                {
+                    "val-formatted": "\u00a31,300,000 ",
+                    "val-raw": 1300000
+                },
+                {
+                    "val-formatted": "\u00a31,400,000 ",
+                    "val-raw": 1400000
+                },
+                {
+                    "val-formatted": "\u00a31,500,000 ",
+                    "val-raw": 1500000
+                },
+                {
+                    "val-formatted": "\u00a31,600,000 ",
+                    "val-raw": 1600000
+                },
+                {
+                    "val-formatted": "\u00a31,700,000 ",
+                    "val-raw": 1700000
+                },
+                {
+                    "val-formatted": "\u00a31,800,000 ",
+                    "val-raw": 1800000
+                },
+                {
+                    "val-formatted": "\u00a31,900,000 ",
+                    "val-raw": 1900000
+                },
+                {
+                    "val-formatted": "\u00a32,000,000 ",
+                    "val-raw": 2000000
+                },
+                {
+                    "val-formatted": "\u00a32,100,000 ",
+                    "val-raw": 2100000
+                },
+                {
+                    "val-formatted": "\u00a32,200,000 ",
+                    "val-raw": 2200000
+                },
+                {
+                    "val-formatted": "\u00a32,300,000 ",
+                    "val-raw": 2300000
+                },
+                {
+                    "val-formatted": "\u00a32,400,000 ",
+                    "val-raw": 2400000
+                },
+                {
+                    "val-formatted": "\u00a32,500,000 ",
+                    "val-raw": 2500000
+                },
+                {
+                    "val-formatted": "\u00a32,750,000 ",
+                    "val-raw": 2750000
+                },
+                {
+                    "val-formatted": "\u00a33,000,000 ",
+                    "val-raw": 3000000
+                },
+                {
+                    "val-formatted": "\u00a33,250,000 ",
+                    "val-raw": 3250000
+                },
+                {
+                    "val-formatted": "\u00a33,500,000 ",
+                    "val-raw": 3500000
+                },
+                {
+                    "val-formatted": "\u00a33,750,000 ",
+                    "val-raw": 3750000
+                },
+                {
+                    "val-formatted": "\u00a34,000,000 ",
+                    "val-raw": 4000000
+                },
+                {
+                    "val-formatted": "\u00a34,250,000 ",
+                    "val-raw": 4250000
+                },
+                {
+                    "val-formatted": "\u00a34,500,000 ",
+                    "val-raw": 4500000
+                },
+                {
+                    "val-formatted": "\u00a34,750,000 ",
+                    "val-raw": 4750000
+                },
+                {
+                    "val-formatted": "\u00a35,000,000 ",
+                    "val-raw": 5000000
+                },
+                {
+                    "val-formatted": "\u00a35,500,000 ",
+                    "val-raw": 5500000
+                },
+                {
+                    "val-formatted": "\u00a36,000,000 ",
+                    "val-raw": 6000000
+                },
+                {
+                    "val-formatted": "\u00a36,500,000 ",
+                    "val-raw": 6500000
+                },
+                {
+                    "val-formatted": "\u00a37,000,000 ",
+                    "val-raw": 7000000
+                },
+                {
+                    "val-formatted": "\u00a37,500,000 ",
+                    "val-raw": 7500000
+                },
+                {
+                    "val-formatted": "\u00a38,000,000 ",
+                    "val-raw": 8000000
+                },
+                {
+                    "val-formatted": "\u00a38,500,000 ",
+                    "val-raw": 8500000
+                },
+                {
+                    "val-formatted": "\u00a39,000,000 ",
+                    "val-raw": 9000000
+                },
+                {
+                    "val-formatted": "\u00a39,500,000 ",
+                    "val-raw": 9500000
+                },
+                {
+                    "val-formatted": "\u00a310,000,000 ",
+                    "val-raw": 10000000
+                },
+                {
+                    "val-formatted": "\u00a312,500,000 ",
+                    "val-raw": 12500000
+                },
+                {
+                    "val-formatted": "\u00a315,000,000 ",
+                    "val-raw": 15000000
+                },
+                {
+                    "val-formatted": "Any",
+                    "val-raw": null,
+                    "last?": true
+                }
+            ]
+        },
+        "online-viewings-first": null,
+        "exclusive-first": true,
+        "min-bedrooms": [
+            {
+                "val-formatted": "Any",
+                "val-raw": null,
+                "selected?": true
+            },
+            {
+                "val-formatted": "Studio",
+                "val-raw": 0,
+                "selected?": false
+            },
+            {
+                "val-formatted": "1+",
+                "val-raw": 1,
+                "selected?": false
+            },
+            {
+                "val-formatted": "2+",
+                "val-raw": 2,
+                "selected?": false
+            },
+            {
+                "val-formatted": "3+",
+                "val-raw": 3,
+                "selected?": false
+            },
+            {
+                "val-formatted": "4+",
+                "val-raw": 4,
+                "selected?": false
+            },
+            {
+                "val-formatted": "5+",
+                "val-raw": 5,
+                "selected?": false
+            },
+            {
+                "val-formatted": "6+",
+                "val-raw": 6,
+                "selected?": false
+            },
+            {
+                "val-formatted": "7+",
+                "val-raw": 7,
+                "selected?": false
+            },
+            {
+                "val-formatted": "8+",
+                "val-raw": 8,
+                "selected?": false
+            },
+            {
+                "val-formatted": "9+",
+                "val-raw": 9,
+                "selected?": false
+            },
+            {
+                "val-formatted": "10+",
+                "val-raw": 10,
+                "selected?": false
+            }
+        ],
+        "under-offer": false,
+        "exclusive-first-url": "/new-homes/property/nw11/?exclusive-first=false&retirement=false",
+        "let-agreed": null,
+        "clear-property-type-url": "/new-homes/property/nw11/?retirement=false",
+        "show-let-agreed-control": false,
+        "to-rent": {
+            "pw": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a325  pw",
+                        "val-raw": 25
+                    },
+                    {
+                        "val-formatted": "\u00a350  pw",
+                        "val-raw": 50
+                    },
+                    {
+                        "val-formatted": "\u00a375  pw",
+                        "val-raw": 75
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pw",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3125  pw",
+                        "val-raw": 125
+                    },
+                    {
+                        "val-formatted": "\u00a3150  pw",
+                        "val-raw": 150
+                    },
+                    {
+                        "val-formatted": "\u00a3175  pw",
+                        "val-raw": 175
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pw",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3225  pw",
+                        "val-raw": 225
+                    },
+                    {
+                        "val-formatted": "\u00a3250  pw",
+                        "val-raw": 250
+                    },
+                    {
+                        "val-formatted": "\u00a3275  pw",
+                        "val-raw": 275
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pw",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3325  pw",
+                        "val-raw": 325
+                    },
+                    {
+                        "val-formatted": "\u00a3350  pw",
+                        "val-raw": 350
+                    },
+                    {
+                        "val-formatted": "\u00a3375  pw",
+                        "val-raw": 375
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pw",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3425  pw",
+                        "val-raw": 425
+                    },
+                    {
+                        "val-formatted": "\u00a3450  pw",
+                        "val-raw": 450
+                    },
+                    {
+                        "val-formatted": "\u00a3475  pw",
+                        "val-raw": 475
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pw",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3550  pw",
+                        "val-raw": 550
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pw",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3650  pw",
+                        "val-raw": 650
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pw",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3750  pw",
+                        "val-raw": 750
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pw",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3850  pw",
+                        "val-raw": 850
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pw",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a3950  pw",
+                        "val-raw": 950
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pw",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pw",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pw",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pw",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pw",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pw",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pw",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pw",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pw",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pw",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pw",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pw",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "pcm": {
+                "min-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ],
+                "max-prices": [
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "first?": true
+                    },
+                    {
+                        "val-formatted": "\u00a3100  pcm",
+                        "val-raw": 100
+                    },
+                    {
+                        "val-formatted": "\u00a3200  pcm",
+                        "val-raw": 200
+                    },
+                    {
+                        "val-formatted": "\u00a3300  pcm",
+                        "val-raw": 300
+                    },
+                    {
+                        "val-formatted": "\u00a3400  pcm",
+                        "val-raw": 400
+                    },
+                    {
+                        "val-formatted": "\u00a3500  pcm",
+                        "val-raw": 500
+                    },
+                    {
+                        "val-formatted": "\u00a3600  pcm",
+                        "val-raw": 600
+                    },
+                    {
+                        "val-formatted": "\u00a3700  pcm",
+                        "val-raw": 700
+                    },
+                    {
+                        "val-formatted": "\u00a3800  pcm",
+                        "val-raw": 800
+                    },
+                    {
+                        "val-formatted": "\u00a3900  pcm",
+                        "val-raw": 900
+                    },
+                    {
+                        "val-formatted": "\u00a31,000  pcm",
+                        "val-raw": 1000
+                    },
+                    {
+                        "val-formatted": "\u00a31,250  pcm",
+                        "val-raw": 1250
+                    },
+                    {
+                        "val-formatted": "\u00a31,500  pcm",
+                        "val-raw": 1500
+                    },
+                    {
+                        "val-formatted": "\u00a31,750  pcm",
+                        "val-raw": 1750
+                    },
+                    {
+                        "val-formatted": "\u00a32,000  pcm",
+                        "val-raw": 2000
+                    },
+                    {
+                        "val-formatted": "\u00a32,250  pcm",
+                        "val-raw": 2250
+                    },
+                    {
+                        "val-formatted": "\u00a32,500  pcm",
+                        "val-raw": 2500
+                    },
+                    {
+                        "val-formatted": "\u00a32,750  pcm",
+                        "val-raw": 2750
+                    },
+                    {
+                        "val-formatted": "\u00a33,000  pcm",
+                        "val-raw": 3000
+                    },
+                    {
+                        "val-formatted": "\u00a33,250  pcm",
+                        "val-raw": 3250
+                    },
+                    {
+                        "val-formatted": "\u00a33,500  pcm",
+                        "val-raw": 3500
+                    },
+                    {
+                        "val-formatted": "\u00a33,750  pcm",
+                        "val-raw": 3750
+                    },
+                    {
+                        "val-formatted": "\u00a34,000  pcm",
+                        "val-raw": 4000
+                    },
+                    {
+                        "val-formatted": "\u00a34,250  pcm",
+                        "val-raw": 4250
+                    },
+                    {
+                        "val-formatted": "\u00a34,500  pcm",
+                        "val-raw": 4500
+                    },
+                    {
+                        "val-formatted": "\u00a34,750  pcm",
+                        "val-raw": 4750
+                    },
+                    {
+                        "val-formatted": "\u00a35,000  pcm",
+                        "val-raw": 5000
+                    },
+                    {
+                        "val-formatted": "\u00a35,500  pcm",
+                        "val-raw": 5500
+                    },
+                    {
+                        "val-formatted": "\u00a36,000  pcm",
+                        "val-raw": 6000
+                    },
+                    {
+                        "val-formatted": "\u00a36,500  pcm",
+                        "val-raw": 6500
+                    },
+                    {
+                        "val-formatted": "\u00a37,000  pcm",
+                        "val-raw": 7000
+                    },
+                    {
+                        "val-formatted": "\u00a37,500  pcm",
+                        "val-raw": 7500
+                    },
+                    {
+                        "val-formatted": "\u00a38,000  pcm",
+                        "val-raw": 8000
+                    },
+                    {
+                        "val-formatted": "\u00a38,500  pcm",
+                        "val-raw": 8500
+                    },
+                    {
+                        "val-formatted": "\u00a39,000  pcm",
+                        "val-raw": 9000
+                    },
+                    {
+                        "val-formatted": "\u00a39,500  pcm",
+                        "val-raw": 9500
+                    },
+                    {
+                        "val-formatted": "\u00a310,000  pcm",
+                        "val-raw": 10000
+                    },
+                    {
+                        "val-formatted": "\u00a312,500  pcm",
+                        "val-raw": 12500
+                    },
+                    {
+                        "val-formatted": "\u00a315,000  pcm",
+                        "val-raw": 15000
+                    },
+                    {
+                        "val-formatted": "\u00a317,500  pcm",
+                        "val-raw": 17500
+                    },
+                    {
+                        "val-formatted": "\u00a325,000  pcm",
+                        "val-raw": 25000
+                    },
+                    {
+                        "val-formatted": "Any",
+                        "val-raw": null,
+                        "last?": true
+                    }
+                ]
+            },
+            "price-frequency-options": [
+                {
+                    "val-formatted": "Month (calendar)",
+                    "val-raw": "pcm",
+                    "selected?": false
+                },
+                {
+                    "val-formatted": "Week",
+                    "val-raw": "pw",
+                    "selected?": false
+                }
+            ],
+            "is-pcm?": false,
+            "is-pw?": false
+        },
+        "property-types": {
+            "popular": [
+                {
+                    "value": "houses",
+                    "text": "Houses",
+                    "checked?": false
+                },
+                {
+                    "value": "flats-apartments",
+                    "text": "Flats / apartments",
+                    "checked?": false
+                },
+                {
+                    "value": "bungalows",
+                    "text": "Bungalows",
+                    "checked?": false
+                },
+                {
+                    "value": "farms-land",
+                    "text": "Farms / land",
+                    "checked?": false
+                }
+            ],
+            "more": [],
+            "more?": false
+        },
+        "show-online-viewings-first-control": true,
+        "show-exclusive-first-control": true,
+        "under-offer-url": "/new-homes/property/nw11/?retirement=false&under-offer=true",
+        "property?": true,
+        "current-search-type": {
+            "new-homes?": true
+        }
+    },
+    "brand": {
+        "id": 1,
+        "name": "otm"
+    },
+    "page-titles": {
+        "page-title": "New Homes NW11 | New Developments for Sale | Page 2 | OnTheMarket",
+        "h1-title": "New homes for sale in NW11",
+        "meta-title": "Find the latest new homes available for sale now in NW11 from leading estate agents."
+    },
+    "url": "/new-homes/property/nw11/?page=1&retirement=false",
+    "saved-search-permitted?": true,
+    "suggested-properties": [],
+    "facets": [
+        {
+            "name": "property-features[]",
+            "text": "Outside space",
+            "single-select": false,
+            "terms": [
+                {
+                    "id": "driveway",
+                    "selected": false,
+                    "global": false,
+                    "text": "Driveway"
+                },
+                {
+                    "id": "garden",
+                    "selected": false,
+                    "global": false,
+                    "text": "Garden"
+                },
+                {
+                    "id": "parking",
+                    "selected": false,
+                    "global": false,
+                    "text": "Parking"
+                }
+            ]
+        },
+        {
+            "name": "online-viewings",
+            "text": "Online viewings",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "retirement",
+            "text": "Retirement",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": false,
+                    "global": true,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": true,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "shared-ownership",
+            "text": "Shared ownership",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Any"
+                },
+                {
+                    "id": "false",
+                    "selected": false,
+                    "global": false,
+                    "text": "Exclude"
+                },
+                {
+                    "id": "true",
+                    "selected": false,
+                    "global": false,
+                    "text": "Show only"
+                }
+            ]
+        },
+        {
+            "name": "recently-added",
+            "text": "Recently added",
+            "single-select": true,
+            "terms": [
+                {
+                    "id": "",
+                    "selected": true,
+                    "global": false,
+                    "text": "Added any time"
+                },
+                {
+                    "id": "24-hours",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last 24 hours"
+                },
+                {
+                    "id": "3-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last three days"
+                },
+                {
+                    "id": "7-days",
+                    "selected": false,
+                    "global": false,
+                    "text": "Last seven days"
+                }
+            ]
+        }
+    ],
+    "breadcrumbs": {
+        "locations": [
+            {
+                "url": "/new-homes/property/uk/",
+                "text": "UK",
+                "level": 1
+            },
+            {
+                "url": "/new-homes/property/london/",
+                "text": "London",
+                "level": 2
+            },
+            {
+                "url": "/new-homes/property/north-london/",
+                "text": "North London",
+                "level": 6
+            },
+            {
+                "url": "/new-homes/property/nw11/",
+                "text": "NW11",
+                "level": 7
+            }
+        ]
+    },
+    "show-suggested-message?": false
+}
