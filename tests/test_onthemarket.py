@@ -1,17 +1,18 @@
-from origins.onthemarket import (
+
+from origins.onthemarket.property_tiles import (
 	_save_response,
-	_get_files,
-	_read_file,
-	_data_to_json,
-	_process_property,
-	_flatten_json,
-	_save_as_csv,
-	_fp_to_df,
-	_df_to_csv,
-	_concat_dfs,
-	download,
-	process,
-	aggregate,
+	# _get_files,
+	# _read_file,
+	# _data_to_json,
+	# _process_property,
+	# _flatten_json,
+	# _save_as_csv,
+	# _fp_to_df,
+	# _df_to_csv,
+	# _concat_dfs,
+	# download,
+	# process,
+	# aggregate,
 )
 
 # def test_TO_REWRITE():
@@ -36,64 +37,64 @@ from origins.onthemarket import (
 
 
 def test__save_response():
-	assert True
+	assert False
 
 
-def test__get_files():
-	files = _get_files('../data/onthemarket/raw/202102')
-	for fp_json in files:
-		assert '../data/onthemarket/raw/202102' in fp_json
+# def test__get_files():
+# 	files = _get_files('../data/onthemarket/raw/202102')
+# 	for fp_json in files:
+# 		assert '../data/onthemarket/raw/202102' in fp_json
 
 
-def test__read_file():
-	assert True
+# def test__read_file():
+# 	assert True
 
 
-def test__data_to_json():
-	data = json.dumps({"hello": "world"})
-	assert isinstance(_data_to_json(data), dict)
+# def test__data_to_json():
+# 	data = json.dumps({"hello": "world"})
+# 	assert isinstance(_data_to_json(data), dict)
 
 
-def test__process_property():
-	from origins.schemas import onthemarket as onthemarket_schema
+# def test__process_property():
+# 	from origins.schemas import onthemarket as onthemarket_schema
 
-	fields = [x['name'] for x in onthemarket_schema]
-	mock_property_row = {x:'' for x in fields}
-	processed_data = _process_property(mock_property_row)
+# 	fields = [x['name'] for x in onthemarket_schema]
+# 	mock_property_row = {x:'' for x in fields}
+# 	processed_data = _process_property(mock_property_row)
 	
-	assert list(processed_data.keys()) == list(fields)
+# 	assert list(processed_data.keys()) == list(fields)
 
 
-def test__flatten_json():
-	assert False
+# def test__flatten_json():
+# 	assert False
 
 
-def test__save_as_csv():
-	assert False
+# def test__save_as_csv():
+# 	assert False
 
 
-def test__fp_to_df():
-	assert False
+# def test__fp_to_df():
+# 	assert False
 
 
-def test__df_to_csv():
-	assert False
+# def test__df_to_csv():
+# 	assert False
 
 
-def test__concat_dfs():
-	assert False
+# def test__concat_dfs():
+# 	assert False
 
 
-def test_download():
-	assert False
+# def test_download():
+# 	assert False
 
 
-def test_process():
-	assert False
+# def test_process():
+# 	assert False
 
 
-def test_aggregate():
-	assert False
+# def test_aggregate():
+# 	assert False
 
 
 

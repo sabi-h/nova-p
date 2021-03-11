@@ -1,6 +1,8 @@
 import base64
+import glob
 import os
 from pathlib import Path
+from typing import Generator
 
 import pandas as pd
 
@@ -22,12 +24,24 @@ def filename_to_url(fp: str) -> str:
 	return base64.b64decode(fp.encode(encoding='utf-8')).decode(encoding='utf-8')
 
 
-def get_filename(search_type: str, location: str, page: int) -> str:
-	return '-'.join((search_type, location, str(page))) + '.json'
-
-
 def get_filepath(dir_path: str, filename: str) -> str:
 	return os.path.join(dir_path, filename)
+
+
+def get_files(dir_path: str) -> Generator[str, None, None]:
+    """
+    Returns a generator where each item is a filepath
+    """
+    for root, dirs, files in os.walk(dir_path):
+        for file in files:
+            yield os.path.join(root, file)
+
+
+def get_last_file(dir_path: str, prefix='', suffix='') -> str:
+    """
+    Returns the last file in directory by name
+    """
+    return max(glob.iglob(f'{dir_path}/{prefix}*{suffix}'), key=os.path.basename)
 
 
 def get_url(base_url: str, search_type: str, location: str, page: int) -> str:

@@ -14,6 +14,7 @@
 - [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [Data Engineering Learning Path](https://awesomedataengineering.com/)
 	- [Database Design](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+- [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 
 
 #### Which cloud service provider to pick? GCP VS AWS

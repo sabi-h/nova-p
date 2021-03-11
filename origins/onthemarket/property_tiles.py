@@ -14,11 +14,12 @@ import requests
 
 from definitions import ROOT_DIR
 from origins.utils import (
-	get_filename,
 	get_filepath,
 	get_outward_codes,
 	get_url,
 	process_df_columns,
+	get_files,
+	get_last_file
 )
 from origins.onthemarket.schema import schema
 
@@ -31,7 +32,7 @@ logger.setLevel(logging.INFO)
 
 formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s:')
 
-file_handler = logging.FileHandler('../../logs/onthemarket.log')
+file_handler = logging.FileHandler(os.path.join(ROOT_DIR, 'logs/onthemarket_property_tiles.log'))
 file_handler.setFormatter(formatter)
 
 stream_handler = logging.StreamHandler()
@@ -78,6 +79,10 @@ def _save_response(json_data, fp):
 		json.dump(json_data, f, indent=4)
 
 
+def _get_filename(search_type: str, location: str, page: int) -> str:
+	return '-'.join((search_type, location, str(page))) + '.json'
+
+
 def download():
 	logger.info('Starting Scraper...')
 	outward_codes = get_outward_codes()
@@ -88,8 +93,8 @@ def download():
 		for page in range(1, 42):
 
 			url = get_url(BASE_URL, 'new-homes', location, page)
-			filename = get_filename('new-homes', location, page)
-			logger.info(f'url={url} - filename={filename}')
+			filename = _get_filename('new-homes', location, page)
+			logger.info(f'url={url} -> filename={filename}')
 			
 			fp = get_filepath(DIR_PATH_RAW, filename)
 			if os.path.exists(fp):
@@ -104,17 +109,7 @@ def download():
 				if json_data['properties']:
 					_save_response(json_data, fp)
 				else:
-					logger.info('No properties found...')
 					break
-
-
-def _get_files(dir_path: str) -> Generator[str, None, None]:
-	"""
-	Returns a generator where each item is a filepath
-	"""
-	for root, dirs, files in os.walk(dir_path):
-		for file in files:
-			yield os.path.join(root, file)
 
 
 def _read_file(fp: str) -> str:
@@ -175,7 +170,7 @@ def _save_as_csv(data, fp):
 
 
 def process():
-	files = _get_files(DIR_PATH_RAW)
+	files = get_files(DIR_PATH_RAW)
 
 	for fp_json in files:
 		logger.info(fp_json)
@@ -231,7 +226,7 @@ def aggregate():
 	result_df = pd.DataFrame(columns=HEADER_CSV)
 	result_df = process_df_columns(result_df, HEADER_CSV)
 
-	files = _get_files(DIR_PATH_PROCESSED)
+	files = get_files(DIR_PATH_PROCESSED)
 
 	for fp_csv in files:
 		logger.info(fp_csv)
@@ -246,13 +241,20 @@ def aggregate():
 	logger.info(f'Success...file written to={csv_fp}')
 
 
+def transform():
+	file = get_last_file(DIR_PATH_AGGREGATED)
+	print(file)
+
+
+
+
 if __name__ == '__main__':
 	
 	# ===========================================================
 	# 						Helper Functions
 	# ===========================================================
 
-	# files = _get_files(DIR_PATH_RAW)
+	# files = get_files(DIR_PATH_RAW)
 	# fp_json = next(files)
 	# print(f'fp_json: {fp_json}')
 	# logger.info(f'fp_json: {fp_json}')
@@ -275,9 +277,10 @@ if __name__ == '__main__':
 	# ===========================================================
 	# 						Main pipeline
 	# ===========================================================
-	download()
-	process()
-	aggregate()
+	# download()
+	# process()
+	# aggregate()
+	transform()
 
 
 
