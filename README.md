@@ -46,7 +46,11 @@ pip install -e .
 #### Usage
 ```
 import enova
-enova.onthemarket.properties()
 
+enova.onthemarket()
+>>> {'title': 'Amazing new build...', 'price': 350000, ...}
+
+enova.landregistry()
+>>> {'date': 2020-03-17, 'price': 350000, ...}
 
 ```
