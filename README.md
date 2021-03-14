@@ -1,4 +1,4 @@
-#### Architecture Diagrams
+#### Architecture Diagrams
 - [Overall Architecture](https://app.diagrams.net/#G1u6movWe56NhjL4cRbYz5LUSHnYTF-qO1)
 - [Data Sources Code](https://lucid.app/lucidchart/invitations/accept/47b854b5-905e-4b80-afd0-e7d3657a2dd8)
 - [OnTheMarket Pipeline](https://drive.google.com/file/d/1LAIS6I_fxpi65tiTe7pjz1tlCuDe8lMU/view?usp=sharing)
@@ -43,7 +43,7 @@ pip install -e .
 `pytest -v`
 
 
-#### Usage
+#### Usage
 ```
 import enova
 enova.onthemarket.properties()
