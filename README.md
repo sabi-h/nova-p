@@ -20,7 +20,7 @@
 - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [Managing multipe python versions using Pyenv](https://opensource.com/article/19/5/python-3-default-mac)
 - [Pyenv tutorial](https://realpython.com/intro-to-pyenv/#virtual-environments-and-pyenv)
-
+- [Setup Local Lambda Development Environment](https://www.youtube.com/watch?v=bih5b3C1nqc&ab_channel=PrasadDomala)
 
 #### Setup project in dev mode
 
