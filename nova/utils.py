@@ -13,27 +13,10 @@ from io import StringIO
 import boto3
 from dotenv import load_dotenv, find_dotenv
 import pandas as pd
-import psycopg2
-from sqlalchemy import create_engine
 
 ENV_FILE = find_dotenv()
 if ENV_FILE:
     load_dotenv(ENV_FILE)
-
-
-BUCKET_NAME = os.environ.get('BUCKET_NAME')
-ACCESS_KEY = os.environ.get('ACCESS_KEY')
-SECRET_KEY = os.environ.get('SECRET_KEY')
-
-USERNAME = os.environ.get('USERNAME')
-PASSWORD = os.environ.get('PASSWORD')
-
-INITIAL_DATABASE = os.environ.get('INITIAL_DATABASE')
-PORT = os.environ.get('PORT')
-HOST = os.environ.get('HOST')
-
-TABLENAME = 'final'
-
 
 
 def get_outward_codes():

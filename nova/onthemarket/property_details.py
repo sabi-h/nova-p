@@ -15,14 +15,14 @@ import pandas as pd
 import requests
 
 from definitions import ROOT_DIR
-from origins.utils import (
+from nova.utils import (
 	get_filepath,
 	get_outward_codes,
 	get_url,
 	process_df_columns,
 	get_files
 )
-from origins.onthemarket.schema import schema
+from nova.onthemarket.schema import schema
 
 
 # ================================================================================
@@ -149,5 +149,4 @@ if __name__ == '__main__':
 	# 						Main pipeline
 	# ===========================================================
 	scrape_property_details(force=True)
-	extract_from_html(fp='')
 
