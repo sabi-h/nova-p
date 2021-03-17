@@ -1,5 +1,5 @@
 
-from origins.onthemarket.property_tiles import (
+from nova.onthemarket.property_tiles import (
 	_save_response,
 	# _get_files,
 	# _read_file,

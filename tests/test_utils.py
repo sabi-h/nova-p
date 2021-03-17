@@ -2,7 +2,7 @@ from glob import iglob, glob
 import os
 from tempfile import TemporaryDirectory, NamedTemporaryFile
 
-from origins.utils import (
+from nova.utils import (
 	url_to_filename, 
 	filename_to_url,
 	get_outward_codes,
