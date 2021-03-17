@@ -4,7 +4,6 @@ import json
 import logging
 import os
 import time
-
 from datetime import datetime
 from pprint import pprint
 from typing import Generator
@@ -13,16 +12,9 @@ import pandas as pd
 import requests
 
 from definitions import ROOT_DIR
-from nova.utils import (
-	get_filepath,
-	get_outward_codes,
-	get_url,
-	process_df_columns,
-	get_files,
-	get_last_file
-)
 from nova.onthemarket.schema import schema
-
+from nova.utils import (get_filepath, get_files, get_last_file,
+                        get_outward_codes, get_url, process_df_columns)
 
 # ================================================================================
 # 									Logging
@@ -244,7 +236,6 @@ def aggregate():
 def transform():
 	file = get_last_file(DIR_PATH_AGGREGATED)
 	print(file)
-
 
 
 

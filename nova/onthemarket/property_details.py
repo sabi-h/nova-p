@@ -3,27 +3,19 @@ import csv
 import json
 import logging
 import os
-from random import random
 import sys
 import time
-
 from datetime import datetime
 from pprint import pprint
+from random import random
 from typing import Generator
 
 import pandas as pd
 import requests
-
 from definitions import ROOT_DIR
-from nova.utils import (
-	get_filepath,
-	get_outward_codes,
-	get_url,
-	process_df_columns,
-	get_files
-)
 from nova.onthemarket.schema import schema
-
+from nova.utils import (get_filepath, get_files, get_outward_codes, get_url,
+                        process_df_columns)
 
 # ================================================================================
 # 									To Do
@@ -125,7 +117,7 @@ def scrape_property_details(force=False):
 			else:
 				logger.info(f'overriding existing file -> {dst_fp}')
 
-		# Request Html page and save
+		# Request html page and save
 		response = _send_request(url)
 		if response.status_code == 200:
 			data = response.content
@@ -135,7 +127,6 @@ def scrape_property_details(force=False):
 			time.sleep(random())
 
 		# break  # for testing
-
 
 
 def extract_data_from_html(fp):

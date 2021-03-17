@@ -3,8 +3,10 @@ data/**/*.html
 data/**/*.json
 
 .python-version
-
 .DS_Store
+
+# VScode
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

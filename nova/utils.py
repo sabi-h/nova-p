@@ -1,22 +1,22 @@
 import base64
 import glob
 import os
+from io import StringIO
 from pathlib import Path
+from pprint import pprint
 from typing import Generator
 
-import pandas as pd
-
-
-from pprint import pprint
-from io import StringIO
-
 import boto3
-from dotenv import load_dotenv, find_dotenv
 import pandas as pd
+from dotenv import find_dotenv, load_dotenv
 
 ENV_FILE = find_dotenv()
 if ENV_FILE:
     load_dotenv(ENV_FILE)
+
+
+ACCESS_KEY = os.environ['ACCESS_KEY']
+SECRET_KEY = os.environ['SECRET_KEY']
 
 
 def get_outward_codes():
@@ -133,10 +133,8 @@ def get_filepaths(s3_client):
 
 
 if __name__ == '__main__':
-
-	print(get_outward_codes())
-
-	pass
+	s3 = get_s3_client()
+    s3
 
 
 
