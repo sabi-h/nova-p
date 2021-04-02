@@ -1,7 +1,6 @@
 import base64
 import csv
 import json
-import logging
 import os
 import time
 from datetime import datetime
@@ -13,27 +12,14 @@ import requests
 
 from definitions import ROOT_DIR
 from nova.onthemarket.schema import schema
-from nova.utils import (get_filepath, get_files, get_last_file,
-                        get_outward_codes, get_url, process_df_columns)
-
-# ================================================================================
-# 									Logging
-# ================================================================================
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
-
-formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s:')
-
-file_handler = logging.FileHandler(os.path.join(ROOT_DIR, 'logs/onthemarket_property_tiles.log'))
-file_handler.setFormatter(formatter)
-
-stream_handler = logging.StreamHandler()
-stream_handler.setFormatter(formatter)
-
-logger.addHandler(file_handler)
-logger.addHandler(stream_handler)
-# ================================================================================
-
+from nova.utils import (
+	get_filepath,
+	get_files,
+	get_last_file,
+	get_outward_codes,
+	get_url,
+	process_df_columns
+)
 
 yyyymm = datetime.now().strftime('%Y%m')
 
@@ -63,51 +49,75 @@ HEADER_URL = {
 	'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8'
 }
 
-def _save_response(json_data, fp):
-	"""
-	Saves response from request to filepath.
-	"""
-	with open(fp, 'w') as f:
-		json.dump(json_data, f, indent=4)
-
 
 def _get_filename(search_type: str, location: str, page: int) -> str:
 	return '-'.join((search_type, location, str(page))) + '.json'
 
 
+def _get_data(outward_code: str) -> pd.DataFrame:
+	"""
+	Takes outward_code and returns pandas dataframe containing
+	properties listed on onthemarket within the area.
+	
+	Parameters
+	----------
+	outward_code : str
+		Postcode districts in UK from:
+			https://en.wikipedia.org/wiki/List_of_postcode_districts_in_the_United_Kingdom
+	
+	Returns
+	-------
+	pd.DataFrame
+		Pandas Dataframe
+	
+	"""
+	result = []
+
+	for page in range(1, 42):
+
+		url = get_url(BASE_URL, 'new-homes', outward_code, page)
+		response = requests.request('GET', url, headers=HEADER_URL, data={})
+		time.sleep(0.5)
+
+		if response.status_code == 200:
+			try:
+				json_data = response.json()
+				data = json_data['properties']
+				result.append(data)
+				pprint(data)
+			except Exception as e:
+				print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
+
+		break	# For testing
+	pprint(result)
+	return result
+
+
 def download():
-	logger.info('Starting Scraper...')
+
+	result = []
+
 	outward_codes = get_outward_codes()
 
-	for location in outward_codes:
-		logger.info(f'==location: {location}==')
-
+	for outward_code in outward_codes:
 		for page in range(1, 42):
 
-			url = get_url(BASE_URL, 'new-homes', location, page)
-			filename = _get_filename('new-homes', location, page)
-			logger.info(f'url={url} -> filename={filename}')
-			
-			fp = get_filepath(DIR_PATH_RAW, filename)
-			if os.path.exists(fp):
-				logger.info(f'fp exists: {fp}')
-				continue
-
+			url = get_url(BASE_URL, 'new-homes', outward_code, page)
 			response = requests.request('GET', url, headers=HEADER_URL, data={})
-			time.sleep(1)
+			time.sleep(5)
 
 			if response.status_code == 200:
-				json_data = response.json()
-				if json_data['properties']:
-					_save_response(json_data, fp)
-				else:
-					break
+				try:
+					json_data = response.json()
+					data = json_data['properties']
+					result.append(data)
+					pprint(data)
+				except Exception as e:
+					print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
 
-
-def _read_file(fp: str) -> str:
-	with open(fp, 'r') as f:
-		data = f.read()
-	return data
+			break
+		break
+	return result
 
 
 def _data_to_json(data: str) -> dict:
@@ -165,7 +175,7 @@ def process():
 	files = get_files(DIR_PATH_RAW)
 
 	for fp_json in files:
-		logger.info(fp_json)
+	
 
 		data = _read_file(fp_json)
 		data_json = _data_to_json(data)
@@ -221,7 +231,7 @@ def aggregate():
 	files = get_files(DIR_PATH_PROCESSED)
 
 	for fp_csv in files:
-		logger.info(fp_csv)
+	
 
 		df = _fp_to_df(fp_csv)
 		df = process_df_columns(df, HEADER_CSV)
@@ -230,12 +240,13 @@ def aggregate():
 	csv_fp = os.path.join(DIR_PATH_AGGREGATED, f'{yyyymm}.csv')
 
 	_df_to_csv(result_df, csv_fp)
-	logger.info(f'Success...file written to={csv_fp}')
+
 
 
 def transform():
 	file = get_last_file(DIR_PATH_AGGREGATED)
-	print(file)
+	df = pd.read_csv(file)
+	print(df.columns)
 
 
 
@@ -248,7 +259,7 @@ if __name__ == '__main__':
 	# files = get_files(DIR_PATH_RAW)
 	# fp_json = next(files)
 	# print(f'fp_json: {fp_json}')
-	# logger.info(f'fp_json: {fp_json}')
+	#
 
 
 	# data = _read_file(fp_json)
@@ -268,9 +279,10 @@ if __name__ == '__main__':
 	# ===========================================================
 	# 						Main pipeline
 	# ===========================================================
-	download()
-	process()
-	aggregate()
+	_get_data('e1')
+	# download()
+	# process()
+	# aggregate()
 	# transform()
 
 

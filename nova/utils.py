@@ -6,17 +6,7 @@ from pathlib import Path
 from pprint import pprint
 from typing import Generator
 
-import boto3
 import pandas as pd
-from dotenv import find_dotenv, load_dotenv
-
-ENV_FILE = find_dotenv()
-if ENV_FILE:
-    load_dotenv(ENV_FILE)
-
-
-ACCESS_KEY = os.environ['ACCESS_KEY']
-SECRET_KEY = os.environ['SECRET_KEY']
 
 
 def get_outward_codes():
@@ -41,19 +31,19 @@ def get_filepath(dir_path: str, filename: str) -> str:
 
 
 def get_files(dir_path: str) -> Generator[str, None, None]:
-    """
-    Returns a generator where each item is a filepath
-    """
-    for root, dirs, files in os.walk(dir_path):
-        for file in files:
-            yield os.path.join(root, file)
+	"""
+	Returns a generator where each item is a filepath
+	"""
+	for root, dirs, files in os.walk(dir_path):
+		for file in files:
+			yield os.path.join(root, file)
 
 
 def get_last_file(dir_path: str, prefix='', suffix='') -> str:
-    """
-    Returns the last file in directory by name
-    """
-    return max(glob.iglob(f'{dir_path}/{prefix}*{suffix}'), key=os.path.basename)
+	"""
+	Returns the last file in directory by name
+	"""
+	return max(glob.iglob(f'{dir_path}/{prefix}*{suffix}'), key=os.path.basename)
 
 
 def get_url(base_url: str, search_type: str, location: str, page: int) -> str:
@@ -67,74 +57,64 @@ def get_url(base_url: str, search_type: str, location: str, page: int) -> str:
 
 
 def process_df_columns(df, columns):
-    """
-    - Adds missing columns
-    - removes extra columns
-    - orders columns
+	"""
+	- Adds missing columns
+	- removes extra columns
+	- orders columns
 
-    """
-    df_columns = df.columns
+	"""
+	df_columns = df.columns
 
-    # add the missing columns with null values
-    for column in columns:
-        if column not in df_columns:
-            df[column] = None
+	# add the missing columns with null values
+	for column in columns:
+		if column not in df_columns:
+			df[column] = None
 
-    # Select and Order columns
-    df = df[columns]
+	# Select and Order columns
+	df = df[columns]
 
-    return df
+	return df
 
 
 def flatten_json(y):
-    """
-    Naively flattens a json.
-    """
-    out = {} 
+	"""
+	Naively flattens a json.
+	"""
+	out = {} 
 
-    def flatten(x, name =''): 
-        
-        # If the Nested key-value 
-        # pair is of dict type 
-        if type(x) is dict: 
-            
-            for a in x: 
-                flatten(x[a], name + a + '_') 
-                
-        # If the Nested key-value 
-        # pair is of list type 
-        elif type(x) is list: 
-            
-            i = 0
-            
-            for a in x:              
-                flatten(a, name + str(i) + '_') 
-                i += 1
-        else:
-            out[name[:-1]] = x 
+	def flatten(x, name =''): 
+		
+		# If the Nested key-value 
+		# pair is of dict type 
+		if type(x) is dict: 
+			
+			for a in x: 
+				flatten(x[a], name + a + '_') 
+				
+		# If the Nested key-value 
+		# pair is of list type 
+		elif type(x) is list: 
+			
+			i = 0
+			
+			for a in x:              
+				flatten(a, name + str(i) + '_') 
+				i += 1
+		else:
+			out[name[:-1]] = x 
 
-    flatten(y) 
-    return out
-
-
-def get_s3_client():
-    return boto3.client(
-        's3',
-        aws_access_key_id=ACCESS_KEY,
-        aws_secret_access_key=SECRET_KEY
-    )
+	flatten(y) 
+	return out
 
 
 def get_filepaths(s3_client):
-    contents = s3_client.list_objects_v2(Bucket=BUCKET_NAME).get('Contents', {})
-    for content in contents:
-        yield content.get('Key')
+	contents = s3_client.list_objects_v2(Bucket=BUCKET_NAME).get('Contents', {})
+	for content in contents:
+		yield content.get('Key')
 
 
 
 if __name__ == '__main__':
 	s3 = get_s3_client()
-    s3
-
 
 

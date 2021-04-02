@@ -12,37 +12,26 @@ from typing import Generator
 
 import pandas as pd
 import requests
+
 from definitions import ROOT_DIR
 from nova.onthemarket.schema import schema
-from nova.utils import (get_filepath, get_files, get_outward_codes, get_url,
-                        process_df_columns)
+from nova.utils import (
+	get_filepath,
+	get_files,
+	get_outward_codes,
+	get_url,
+	process_df_columns
+)
+
 
 # ================================================================================
 # 									To Do
 # ================================================================================
 
-"""				Complete extract_data_from_html function
+"""				- Complete extract_data_from_html function
+
+
 """
-# ================================================================================
-
-
-
-# ================================================================================
-# 									Logging
-# ================================================================================
-logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
-
-formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s:')
-
-file_handler = logging.FileHandler(os.path.join(ROOT_DIR, 'logs/onthemarket_property_details.log'))
-file_handler.setFormatter(formatter)
-
-stream_handler = logging.StreamHandler()
-stream_handler.setFormatter(formatter)
-
-logger.addHandler(file_handler)
-logger.addHandler(stream_handler)
 # ================================================================================
 
 
