@@ -11,6 +11,8 @@ import pandas as pd
 import requests
 
 from definitions import ROOT_DIR
+
+from nova.data import outward_codes
 from nova.onthemarket.schema import schema
 from nova.utils import (
 	get_filepath,
@@ -21,19 +23,11 @@ from nova.utils import (
 	process_df_columns
 )
 
+print(outward_codes.keys())
 yyyymm = datetime.now().strftime('%Y%m')
+DEFAULT_PARAMS = {}
 
 BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
-
-DIR_PATH_RAW = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/raw/{yyyymm}')
-DIR_PATH_PROCESSED = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/processed/{yyyymm}')
-DIR_PATH_AGGREGATED = os.path.join(ROOT_DIR, f'data/onthemarket/property_tiles/aggregated/')
-
-# Create directories if they do not exist
-for _dir in [DIR_PATH_RAW, DIR_PATH_PROCESSED, DIR_PATH_AGGREGATED]:
-	if not os.path.exists(_dir):
-		os.makedirs(_dir)
-
 
 HEADER_URL = {
 	'authority': 'www.onthemarket.com',
@@ -50,11 +44,7 @@ HEADER_URL = {
 }
 
 
-def _get_filename(search_type: str, location: str, page: int) -> str:
-	return '-'.join((search_type, location, str(page))) + '.json'
-
-
-def _get_data(outward_code: str) -> pd.DataFrame:
+def get_properties(outward_code: str, params={}) -> list:
 	"""
 	Takes outward_code and returns pandas dataframe containing
 	properties listed on onthemarket within the area.
@@ -67,61 +57,28 @@ def _get_data(outward_code: str) -> pd.DataFrame:
 	
 	Returns
 	-------
-	pd.DataFrame
-		Pandas Dataframe
+	list
+	    list of dicts, where each dict contains information of one property.
 	
 	"""
-	result = []
-
 	for page in range(1, 42):
 
 		url = get_url(BASE_URL, 'new-homes', outward_code, page)
 		response = requests.request('GET', url, headers=HEADER_URL, data={})
-		time.sleep(0.5)
+		time.sleep(1)
 
-		if response.status_code == 200:
-			try:
-				json_data = response.json()
-				data = json_data['properties']
-				result.append(data)
-				pprint(data)
-			except Exception as e:
-				print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
+		try:
+			json_data = response.json()
+			properties = json_data['properties']
+
+			for _property in properties:
+				yield _property
+
+		except Exception as e:
+			print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
+			continue
 
 		break	# For testing
-	pprint(result)
-	return result
-
-
-def download():
-
-	result = []
-
-	outward_codes = get_outward_codes()
-
-	for outward_code in outward_codes:
-		for page in range(1, 42):
-
-			url = get_url(BASE_URL, 'new-homes', outward_code, page)
-			response = requests.request('GET', url, headers=HEADER_URL, data={})
-			time.sleep(5)
-
-			if response.status_code == 200:
-				try:
-					json_data = response.json()
-					data = json_data['properties']
-					result.append(data)
-					pprint(data)
-				except Exception as e:
-					print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
-
-			break
-		break
-	return result
-
-
-def _data_to_json(data: str) -> dict:
-	return json.loads(data)
 
 
 def _process_property(property_row: dict) -> dict:
@@ -153,6 +110,16 @@ def _process_property(property_row: dict) -> dict:
 	}
 
 	return result
+
+
+def main():
+	properties = get_properties('e1')
+	_property = next(properties)
+	pprint(_property)
+	_property = _process_property(_property)
+	pprint(_property)
+
+
 
 
 def _flatten_json(data: dict) -> list:
@@ -279,7 +246,7 @@ if __name__ == '__main__':
 	# ===========================================================
 	# 						Main pipeline
 	# ===========================================================
-	_get_data('e1')
+	main()
 	# download()
 	# process()
 	# aggregate()
