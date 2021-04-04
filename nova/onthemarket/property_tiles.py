@@ -13,7 +13,6 @@ import requests
 from definitions import ROOT_DIR
 
 from nova.data import outward_codes
-from nova.onthemarket.schema import schema
 from nova.utils import (
 	get_filepath,
 	get_files,
@@ -23,7 +22,7 @@ from nova.utils import (
 	process_df_columns
 )
 
-print(outward_codes.keys())
+
 yyyymm = datetime.now().strftime('%Y%m')
 DEFAULT_PARAMS = {}
 
@@ -43,148 +42,112 @@ HEADER_URL = {
 	'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8'
 }
 
+FIELDS = [
+	'id',
+	'images_count',
+	'price_qualifier',
+	'new_home_flag',
+	'display_address',
+	'cover_images_default',
+	'cover_images_webp',
+	'floorplans_count',
+	'summary',
+	'property_labels',
+	'property_title',
+	'property_link',
+	'cover_image',
+	'price',
+	'floorplans',
+	'for_sale',
+	'agent_base_contact_url',
+	'agent_contact_url',
+	'agent_details_url',
+	'agent_development',
+	'agent_display_logo_url',
+	'agent_id',
+	'agent_name',
+	'agent_telephone',
+]
+
 
 def get_properties(outward_code: str, params={}) -> list:
 	"""
 	Takes outward_code and returns pandas dataframe containing
 	properties listed on onthemarket within the area.
-	
+
 	Parameters
 	----------
 	outward_code : str
 		Postcode districts in UK from:
 			https://en.wikipedia.org/wiki/List_of_postcode_districts_in_the_United_Kingdom
-	
+
 	Returns
 	-------
 	list
 	    list of dicts, where each dict contains information of one property.
-	
+
 	"""
 	for page in range(1, 42):
 
 		url = get_url(BASE_URL, 'new-homes', outward_code, page)
 		response = requests.request('GET', url, headers=HEADER_URL, data={})
-		time.sleep(1)
+		time.sleep(0.2)
 
 		try:
 			json_data = response.json()
 			properties = json_data['properties']
 
-			for _property in properties:
-				yield _property
-
 		except Exception as e:
 			print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
-			continue
+			properties = []
+
+		for _property in properties:
+			yield _property
 
 		break	# For testing
 
 
-def _process_property(property_row: dict) -> dict:
-	result = {
-		'id':						property_row.get('id', ''),
-		'images-count':				property_row.get('images-count', ''),
-		'price-qualifier':			property_row.get('price-qualifier', ''),
-		'new-home-flag':			property_row.get('new-home-flag', ''),
-		'display_address':			property_row.get('display_address', ''),
-		'cover-images-default':		property_row.get('cover-images', {}).get('default', ''),
-		'cover-images-webp':		property_row.get('cover-images', {}).get('webp', ''),
-		'floorplans-count':			property_row.get('floorplans-count', ''),
-		'summary':					property_row.get('summary', ''),
-		'property-labels':			property_row.get('property-labels', ''),
-		'property-title':			property_row.get('property-title', ''),
-		'property-link':			property_row.get('property-link', ''),
-		'cover-image':				property_row.get('cover-image', ''),
-		'price':					property_row.get('price', ''),
-		'floorplans?':				property_row.get('floorplans?', ''),
-		'for-sale?':				property_row.get('for-sale?', ''),
-		'agent-base-contact-url':	property_row.get('agent', {}).get('base-contact-url', ''),
-		'agent-contact-url':		property_row.get('agent', {}).get('contact-url', ''),
-		'agent-details-url':		property_row.get('agent', {}).get('details-url', ''),
-		'agent-development?':		property_row.get('agent', {}).get('development?', ''),
-		'agent-display-logo-url':	property_row.get('agent', {}).get('display-logo', {}).get('url', ''),
-		'agent-id':					property_row.get('agent', {}).get('id', ''),
-		'agent-name':				property_row.get('agent', {}).get('name', ''),
-		'agent-telephone':			property_row.get('agent', {}).get('telephone', ''),
-	}
+def _process_property(property_row: dict) -> tuple:
+	row = (
+		property_row.get('id', ''),
+		property_row.get('images-count', ''),
+		property_row.get('price-qualifier', ''),
+		property_row.get('new-home-flag', ''),
+		property_row.get('display_address', ''),
+		property_row.get('cover-images', {}).get('default', ''),
+		property_row.get('cover-images', {}).get('webp', ''),
+		property_row.get('floorplans-count', ''),
+		property_row.get('summary', ''),
+		property_row.get('property-labels', ''),
+		property_row.get('property-title', ''),
+		property_row.get('property-link', ''),
+		property_row.get('cover-image', ''),
+		property_row.get('price', ''),
+		property_row.get('floorplans?', ''),
+		property_row.get('for-sale?', ''),
+		property_row.get('agent', {}).get('base-contact-url', ''),
+		property_row.get('agent', {}).get('contact-url', ''),
+		property_row.get('agent', {}).get('details-url', ''),
+		property_row.get('agent', {}).get('development?', ''),
+		property_row.get('agent', {}).get('display-logo', {}).get('url', ''),
+		property_row.get('agent', {}).get('id', ''),
+		property_row.get('agent', {}).get('name', ''),
+		property_row.get('agent', {}).get('telephone', ''),
+	)
 
 	return result
 
 
 def main():
-	properties = get_properties('e1')
-	_property = next(properties)
-	pprint(_property)
-	_property = _process_property(_property)
-	pprint(_property)
-
-
-
-
-def _flatten_json(data: dict) -> list:
-	result = []
-
-	property_rows = data.get('properties', [])
-	for property_row in property_rows:
-		dict_row = _process_property(property_row)
-		result.append(dict_row)
-
-	return result
-
-
-def _save_as_csv(data, fp):
-	df = pd.DataFrame(data)
-	df.to_csv(fp, index=False)
-
-
-def process():
-	files = get_files(DIR_PATH_RAW)
-
-	for fp_json in files:
+	result_df = pd.DataFrame(columns=FIELDS)
+	result_df = process_df_columns(result_df, FIELDS)
 	
-
-		data = _read_file(fp_json)
-		data_json = _data_to_json(data)
-		data_flattened = _flatten_json(data_json)
-
-		csv_fp = os.path.join(DIR_PATH_PROCESSED, os.path.basename(fp_json).rsplit('.', 1)[0] + '.csv')
-		_save_as_csv(data_flattened, csv_fp)
-
-
-HEADER_CSV = [
-	'images-count',
-	'price-qualifier',
-	'new-home-flag',
-	'display_address',
-	'cover-images-default',
-	'cover-images-webp',
-	'floorplans-count',
-	'summary',
-	'property-labels',
-	'property-title',
-	'id',
-	'property-link',
-	'cover-image',
-	'price',
-	'floorplans?',
-	'for-sale?',
-	'agent-base-contact-url',
-	'agent-contact-url',
-	'agent-details-url',
-	'agent-development?',
-	'agent-display-logo-url',
-	'agent-id',
-	'agent-name',
-	'agent-telephone',
-]
-
-def _fp_to_df(fp: str) -> pd.DataFrame:
-	return pd.read_csv(fp)
-
-
-def _df_to_csv(df, fp):
-	df.to_csv(fp, index=False)
+	properties = get_properties('e1')
+	for p in properties:
+		if not p:
+			continue
+		p = _process_property(p)
+		pprint(p)
 
 
 def _concat_dfs(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
@@ -192,22 +155,18 @@ def _concat_dfs(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
 
 
 def aggregate():
-	result_df = pd.DataFrame(columns=HEADER_CSV)
-	result_df = process_df_columns(result_df, HEADER_CSV)
+	result_df = pd.DataFrame(columns=FIELDS)
+	result_df = process_df_columns(result_df, FIELDS)
 
 	files = get_files(DIR_PATH_PROCESSED)
 
 	for fp_csv in files:
-	
 
 		df = _fp_to_df(fp_csv)
-		df = process_df_columns(df, HEADER_CSV)
+		df = process_df_columns(df, FIELDS)
 		result_df = _concat_dfs(result_df, df)
 	
 	csv_fp = os.path.join(DIR_PATH_AGGREGATED, f'{yyyymm}.csv')
-
-	_df_to_csv(result_df, csv_fp)
-
 
 
 def transform():
