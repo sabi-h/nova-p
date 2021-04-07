@@ -26,9 +26,9 @@ from nova.utils import (
 yyyymm = datetime.now().strftime('%Y%m')
 DEFAULT_PARAMS = {}
 
-BASE_URL = 'https://www.onthemarket.com/async/search/properties/?search-type={search_type}&retirement=false&location-id={location_id}&page={page}'
+BASE_URL = 'https://www.onthemarket.com/async/search/properties/'
 
-HEADER_URL = {
+HEADER = {
 	'authority': 'www.onthemarket.com',
 	'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"',
 	'accept': 'application/json',
@@ -70,28 +70,34 @@ FIELDS = [
 ]
 
 
-def get_properties(outward_code: str, params={}) -> list:
-	"""
-	Takes outward_code and returns pandas dataframe containing
-	properties listed on onthemarket within the area.
-
-	Parameters
-	----------
-	outward_code : str
-		Postcode districts in UK from:
-			https://en.wikipedia.org/wiki/List_of_postcode_districts_in_the_United_Kingdom
-
-	Returns
-	-------
-	list
-	    list of dicts, where each dict contains information of one property.
+def _get_properties(
+	outward_code: str,
+	search_type: str='new-homes', 
+	retirement='false', 
+	max_pages=42,
+	sleep: float=0.2
+	) -> Generator[dict, None, None]:
 
 	"""
-	for page in range(1, 42):
+	Returns properties listed on onthemarket within the area.
+	
+	Yield
+	------
+	Generator
+		Generator of dicts, where each dict contains information of one property.
+	
+	"""
+	for page in range(1, max_pages+1):
 
-		url = get_url(BASE_URL, 'new-homes', outward_code, page)
-		response = requests.request('GET', url, headers=HEADER_URL, data={})
-		time.sleep(0.2)
+		params = {
+			'location-id': outward_code,
+			'page': page,
+			'search-type': search_type,
+			'retirement': retirement,
+		}
+
+		response = requests.request('GET', BASE_URL, params=params, headers=HEADER, data={})
+		time.sleep(sleep)
 
 		try:
 			json_data = response.json()
@@ -104,113 +110,145 @@ def get_properties(outward_code: str, params={}) -> list:
 		for _property in properties:
 			yield _property
 
-		break	# For testing
 
+def _process_property(row: dict) -> tuple:
+	"""
+	Flatten the json and return a tuple.
 
-def _process_property(property_row: dict) -> tuple:
-	row = (
-		property_row.get('id', ''),
-		property_row.get('images-count', ''),
-		property_row.get('price-qualifier', ''),
-		property_row.get('new-home-flag', ''),
-		property_row.get('display_address', ''),
-		property_row.get('cover-images', {}).get('default', ''),
-		property_row.get('cover-images', {}).get('webp', ''),
-		property_row.get('floorplans-count', ''),
-		property_row.get('summary', ''),
-		property_row.get('property-labels', ''),
-		property_row.get('property-title', ''),
-		property_row.get('property-link', ''),
-		property_row.get('cover-image', ''),
-		property_row.get('price', ''),
-		property_row.get('floorplans?', ''),
-		property_row.get('for-sale?', ''),
-		property_row.get('agent', {}).get('base-contact-url', ''),
-		property_row.get('agent', {}).get('contact-url', ''),
-		property_row.get('agent', {}).get('details-url', ''),
-		property_row.get('agent', {}).get('development?', ''),
-		property_row.get('agent', {}).get('display-logo', {}).get('url', ''),
-		property_row.get('agent', {}).get('id', ''),
-		property_row.get('agent', {}).get('name', ''),
-		property_row.get('agent', {}).get('telephone', ''),
-	)
+	{
+		'agent': {
+			'base-contact-url': '/agents/contact/6292519/',
+			'contact-url': '/agents/contact/6292519/?form-name=details-contact',
+			'details-url': '/agents/branch/knight-frank-city-and-east-residential-development/',
+			'development?': False,
+			'display-logo': {
+					'height': 43,
+					'resized?': True,
+					'url': 'https://media.onthemarket.com/agents/branches/37782/150609132133033/logo-100x65.jpg',
+					'width': 100
+			},
+			'id': 37782,
+			'name': 'Knight Frank - City & East, Residential Development',
+			'telephone': '020 8022 6382'
+		},
+		'composite-eb-cover-image': {
+			'default': 'https://media.onthemarket.com/properties/6292519/1337939268/composite.jpg',
+			'webp': 'https://media.onthemarket.com/properties/6292519/1337939268/composite.webp'
+		},
+		'cover-image': 'https://media.onthemarket.com/properties/6292519/1337821444/image-0-480x320.jpg',
+		'cover-images': {
+			'default': 'https://media.onthemarket.com/properties/6292519/1337821444/image-0-480x320.jpg',
+			'webp': 'https://media.onthemarket.com/properties/6292519/1337821444/image-0-480x320.webp'
+		},
+		'display_address': 'Unit 14 - Osborn Apartments, Osborn Street, London, E1',
+		'floorplans-count': 1,
+		'floorplans?': True,
+		'for-sale?': True,
+		'id': '6292519',
+		'images-count': 7,
+		'new-home-flag': True,
+		'price': '£715,000',
+		'price-qualifier': None,
+		'property-labels': ['New build'],
+		'property-link': '/details/6292519/',
+		'property-title': '1 bedroom flat for sale',
+		'summary': 'Stylish One bedroom apartments...'
+	}
+	"""
+	result = {
+		'id':						row.get('id', ''),
+		'images_count':				row.get('images-count', ''),
+		'price_qualifier':			row.get('price-qualifier', ''),
+		'new_home_flag':			row.get('new-home-flag', ''),
+		'display_address':			row.get('display_address', ''),
+		'cover_images_default':		row.get('cover-images', {}).get('default', ''),
+		'cover_images_webp':		row.get('cover-images', {}).get('webp', ''),
+		'floorplans_count':			row.get('floorplans-count', ''),
+		'summary':					row.get('summary', ''),
+		'property_labels':			row.get('property-labels', ''),
+		'property_title':			row.get('property-title', ''),
+		'property_link':			row.get('property-link', ''),
+		'cover_image':				row.get('cover-image', ''),
+		'price':					row.get('price', ''),
+		'floorplans':				row.get('floorplans?', ''),
+		'for_sale':					row.get('for-sale?', ''),
+		'agent_base_contact_url':	row.get('agent', {}).get('base-contact-url', ''),
+		'agent_contact_url':		row.get('agent', {}).get('contact-url', ''),
+		'agent_details_url':		row.get('agent', {}).get('details-url', ''),
+		'agent_development':		row.get('agent', {}).get('development?', ''),
+		'agent_display_logo_url':	row.get('agent', {}).get('display-logo', {}).get('url', ''),
+		'agent_id':					row.get('agent', {}).get('id', ''),
+		'agent_name':				row.get('agent', {}).get('name', ''),
+		'agent_telephone':			row.get('agent', {}).get('telephone', ''),
+	}
 
 	return result
 
 
-def main():
-	result_df = pd.DataFrame(columns=FIELDS)
-	result_df = process_df_columns(result_df, FIELDS)
+def add_outward_code_to_row(row, outward_code):
+	row['outward_code'] = outward_code
+	return row
+
+
+def main(
+	outward_code: str,
+	search_type: str='new-homes', 
+	retirement='false', 
+	max_pages=1,
+	sleep: float=0.2
+	) -> Generator[dict, None, None]:
+	"""
+	Parameters
+	----------
+	outward_code : str
+		Postcode districts in UK from:
+			https://en.wikipedia.org/wiki/List_of_postcode_districts_in_the_United_Kingdom
+
+	search_type : str, optional
+		Type of home, options are:
+			commercial, for-sale, prices, to-rent, overseas, new-homes, farms-land, developments, agents, student
+
+	retirement : str, optional
+		'true' or 'false'
+
+	max_pages : int, optional
+		Maximum number of pages to get, 42 is the max.
 	
-	properties = get_properties('e1')
-	for p in properties:
-		if not p:
-			continue
-		p = _process_property(p)
-		pprint(p)
-
-
-def _concat_dfs(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
-	return pd.concat([df1, df2], ignore_index=True)
-
-
-def aggregate():
-	result_df = pd.DataFrame(columns=FIELDS)
-	result_df = process_df_columns(result_df, FIELDS)
-
-	files = get_files(DIR_PATH_PROCESSED)
-
-	for fp_csv in files:
-
-		df = _fp_to_df(fp_csv)
-		df = process_df_columns(df, FIELDS)
-		result_df = _concat_dfs(result_df, df)
+	sleep : float, optional
+		Amount of time to sleep between each request. Every page makes a new request.
 	
-	csv_fp = os.path.join(DIR_PATH_AGGREGATED, f'{yyyymm}.csv')
+	Yield
+	------
+	Generator
+		Generator of dicts, where each dict contains information of one property.
 
+	"""
+	properties = _get_properties(
+		outward_code,
+		search_type=search_type,
+		retirement=retirement,
+		max_pages=max_pages,
+		sleep=sleep
+	)
 
-def transform():
-	file = get_last_file(DIR_PATH_AGGREGATED)
-	df = pd.read_csv(file)
-	print(df.columns)
-
+	for row in properties:
+		row = _process_property(row)
+		yield row
 
 
 if __name__ == '__main__':
+
+	# ===========================================================
+	#                       	Test
+	# ===========================================================
+	result = []
+	for row in main(outward_code='e1', max_pages=2):
+		result.append(row)
 	
-	# ===========================================================
-	# 						Helper Functions
-	# ===========================================================
-
-	# files = get_files(DIR_PATH_RAW)
-	# fp_json = next(files)
-	# print(f'fp_json: {fp_json}')
-	#
+	print(pd.DataFrame(result).head(1).T)
 
 
-	# data = _read_file(fp_json)
-	# assert isinstance(data, str)
-
-	# data_json = _data_to_json(data)
-	# assert isinstance(data_json, dict)
-
-	# data_flattened = _flatten_json(data_json)
-	# assert isinstance(data_flattened, list)
-
-	# csv_fp = os.path.join(DIR_PATH_PROCESSED, os.path.basename(fp_json).rsplit('.', 1)[0] + '.csv')
-	# _save_as_csv(data_flattened, csv_fp)
-	
-
-
-	# ===========================================================
-	# 						Main pipeline
-	# ===========================================================
-	main()
 	# download()
 	# process()
 	# aggregate()
 	# transform()
-
-
-
-

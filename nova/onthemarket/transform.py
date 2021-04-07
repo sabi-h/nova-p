@@ -1,4 +1,6 @@
+
 NUMBERS_MAP = {x:i+1 for i, x in enumerate(['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'])}
+
 def extract_bedrooms(text: str, numbers_map: dict) -> int:
     r = '''
         (one|two|three|four|five|six|seven|eight|nine|ten|\d+)

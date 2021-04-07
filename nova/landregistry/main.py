@@ -1,3 +1,3 @@
 
-def get_data():
+def main():
 	return {'landregistry': 1}

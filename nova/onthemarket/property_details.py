@@ -28,10 +28,8 @@ from nova.utils import (
 # 									To Do
 # ================================================================================
 
-"""				- Complete extract_data_from_html function
+#					- Complete extract_data_from_html function
 
-
-"""
 # ================================================================================
 
 
