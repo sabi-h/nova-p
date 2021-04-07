@@ -25,7 +25,7 @@
 #### Setup project in dev mode
 
 ```
-git clone https://github.com/sabih-h/creation-origins.git
+git clone https://github.com/sabih-h/nova-p.git
 cd creation-origins
 pip install -e .
 ```
