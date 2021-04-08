@@ -8,14 +8,13 @@ from typing import Generator
 
 import pandas as pd
 
+from nova.data import outward_codes
 
 def get_outward_codes():
 	"""
 	Returns list of london outward codes
 	"""
-	utils_fp = Path(os.path.realpath(__file__))
-	data_fp = utils_fp.parent.parent.joinpath('data/misc/london-outward-codes.csv')
-	return pd.read_csv(data_fp)['outward_code'].str.lower().to_list()
+	return [k for k in outward_codes]
 
 
 def url_to_filename(url: str) -> str:
@@ -115,6 +114,6 @@ def get_filepaths(s3_client):
 
 
 if __name__ == '__main__':
-	s3 = get_s3_client()
+	print(get_outward_codes())
 
 

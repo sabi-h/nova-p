@@ -2,6 +2,7 @@ import base64
 import csv
 import json
 import os
+import re
 import time
 from datetime import datetime
 from pprint import pprint
@@ -73,14 +74,14 @@ FIELDS = [
 def _get_properties(
 	outward_code: str,
 	search_type: str='new-homes', 
-	retirement='false', 
+	retirement='false',
 	max_pages=42,
 	sleep: float=0.2
 	) -> Generator[dict, None, None]:
 
 	"""
 	Returns properties listed on onthemarket within the area.
-	
+
 	Yield
 	------
 	Generator
@@ -111,7 +112,7 @@ def _get_properties(
 			yield _property
 
 
-def _process_property(row: dict) -> tuple:
+def _flatten_property(row: dict) -> tuple:
 	"""
 	Flatten the json and return a tuple.
 
@@ -190,6 +191,33 @@ def add_outward_code_to_row(row, outward_code):
 	return row
 
 
+NUMBERS_MAP = {x: i+1 for i, x in enumerate(['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'])}
+
+def extract_bedrooms(text: str, numbers_map: dict) -> int:
+	r = """
+		(one|two|three|four|five|six|seven|eight|nine|ten|\d+)
+		[\s-]?
+		bed
+	"""
+	items = re.findall(r, text, flags=re.VERBOSE | re.IGNORECASE)
+	if not items:
+		return 0
+
+	bedrooms = items[0]
+
+	if bedrooms in [str(x) for x in range(1, 11)]:
+		return int(bedrooms)
+
+	return numbers_map.get(bedrooms.lower(), 0)
+
+
+def extract_price(text) -> int:
+	text = text.replace(',', '').replace('£', '')
+	if text and text != 'nan':
+		return int(text)
+	return 0
+
+	
 def main(
 	outward_code: str,
 	search_type: str='new-homes', 
@@ -232,7 +260,12 @@ def main(
 	)
 
 	for row in properties:
-		row = _process_property(row)
+		row = _flatten_property(row)
+		row['outward_code'] = outward_code
+		row['bedrooms'] = extract_bedrooms(row['summary'], numbers_map=NUMBERS_MAP)
+		row['raw_price'] = row['price']
+		row['price'] = extract_price(row['price'])
+
 		yield row
 
 
@@ -241,14 +274,21 @@ if __name__ == '__main__':
 	# ===========================================================
 	#                       	Test
 	# ===========================================================
-	result = []
-	for row in main(outward_code='e1', max_pages=2):
-		result.append(row)
-	
-	print(pd.DataFrame(result).head(1).T)
-
+	data = main(outward_code='e1', max_pages=1)
+	for row in data:
+		pprint(row)
+		print('---------')
+		# break
 
 	# download()
 	# process()
 	# aggregate()
 	# transform()
+
+
+
+
+
+
+
+
