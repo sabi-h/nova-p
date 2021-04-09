@@ -13,7 +13,7 @@ import requests
 
 from definitions import ROOT_DIR
 
-from nova.utils import get_outward_codes
+from nova.utils import get_district_name
 
 
 yyyymm = datetime.now().strftime('%Y%m')
@@ -97,7 +97,7 @@ def _get_properties(
 			properties = json_data['properties']
 
 		except Exception as e:
-			print(f'Could not download data for:\n >>> {url}', e, sep='\n\n')
+			print(f'Could not download data for the parameters:\n >>> {params}', e, sep='\n\n')
 			properties = []
 
 		for _property in properties:
@@ -178,14 +178,19 @@ def _flatten_property(row: dict) -> tuple:
 	return result
 
 
-def add_outward_code_to_row(row, outward_code):
+def add_outward_code(row, outward_code):
 	row['outward_code'] = outward_code
+	return row
+
+
+def add_district_name(row, outward_code):
+	row['district_name'] = get_district_name(outward_code)
 	return row
 
 
 NUMBERS_MAP = {x: i+1 for i, x in enumerate(['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'])}
 
-def extract_bedrooms(text: str, numbers_map: dict) -> int:
+def _extract_bedrooms(text: str, numbers_map: dict) -> int:
 	r = """
 		(one|two|three|four|five|six|seven|eight|nine|ten|\d+)
 		[\s-]?
@@ -203,13 +208,45 @@ def extract_bedrooms(text: str, numbers_map: dict) -> int:
 	return numbers_map.get(bedrooms.lower(), 0)
 
 
-def extract_price(text) -> int:
+def add_bedrooms(row, text):
+	"""
+	Parameters
+	----------
+		text : str
+			String to extract bedrooms from.
+	
+	Returns
+	-------
+	dict
+		row (dict) that was originally passed in, with bedrooms as an added key.
+	"""
+	bedrooms = _extract_bedrooms(text, numbers_map=NUMBERS_MAP)
+	row['bedrooms'] = bedrooms
+	return row
+
+
+def add_raw_price(row, text):
+	row['raw_price'] = text
+	return row
+
+
+def _extract_price(text) -> int:
 	text = text.replace(',', '').replace('£', '')
 	if text and text != 'nan':
 		return int(text)
 	return 0
 
-	
+
+
+def add_price(row, text):
+	row['price'] = _extract_price(text)
+	return row
+
+
+def _format_outward_code(outward_code):
+	return outward_code.strip().lower()
+
+
 def main(
 	outward_code: str,
 	search_type: str='new-homes', 
@@ -243,6 +280,9 @@ def main(
 		Generator of dicts, where each dict contains information of one property.
 
 	"""
+
+	outward_code = _format_outward_code(outward_code)
+
 	properties = _get_properties(
 		outward_code,
 		search_type=search_type,
@@ -253,10 +293,11 @@ def main(
 
 	for row in properties:
 		row = _flatten_property(row)
-		row['outward_code'] = outward_code
-		row['bedrooms'] = extract_bedrooms(row['summary'], numbers_map=NUMBERS_MAP)
-		row['raw_price'] = row['price']
-		row['price'] = extract_price(row['price'])
+		row = add_outward_code(row, outward_code)
+		row = add_district_name(row, outward_code)
+		row = add_bedrooms(row, row['summary'])
+		row = add_raw_price(row, row['price'])
+		row = add_price(row, row['price'])
 
 		yield row
 
@@ -270,7 +311,7 @@ if __name__ == '__main__':
 	for row in data:
 		pprint(row)
 		print('---------')
-		# break
+		break
 
 	# download()
 	# process()

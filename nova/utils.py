@@ -1,13 +1,3 @@
-import base64
-import glob
-import os
-from io import StringIO
-from pathlib import Path
-from pprint import pprint
-from typing import Generator
-
-import pandas as pd
-
 from nova.data import outward_codes
 
 
@@ -16,6 +6,11 @@ def get_outward_codes() -> list:
 	Returns list of london outward codes
 	"""
 	return [k for k in outward_codes]
+
+
+def get_district_name(outward_code):
+	return outward_codes.get(outward_code.lower(), 'unknown')
+
 
 
 def process_df_columns(df, columns):
@@ -70,6 +65,6 @@ def flatten_json(y):
 
 
 if __name__ == '__main__':
-	print(get_outward_codes())
+	print(get_district_name('E1'))
 
 
