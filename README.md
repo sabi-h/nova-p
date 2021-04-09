@@ -26,7 +26,7 @@
 
 ```
 git clone https://github.com/sabih-h/nova-p.git
-cd creation-origins
+cd nova-p
 pip install -e .
 ```
 
