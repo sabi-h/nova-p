@@ -47,12 +47,12 @@ pip install -e .
 
 #### Usage
 ```
-import enova
+import nova
 
-enova.onthemarket()
+nova.get_data_onthemarket(outward_code='e10')
 >>> {'title': 'Amazing new build...', 'price': 350000, ...}
 
-enova.landregistry()
+nova.get_data_landregistry(...)
 >>> {'date': 2020-03-17, 'price': 350000, ...}
 
 ```
