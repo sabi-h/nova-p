@@ -14,47 +14,23 @@ import pandas as pd
 import requests
 
 from definitions import ROOT_DIR
+
 from nova.onthemarket.schema import schema
-from nova.utils import (
-	get_filepath,
-	get_files,
-	get_outward_codes,
-	get_url,
-	process_df_columns
-)
+from nova.utils import get_outward_codes
 
 
 # ================================================================================
 # 									To Do
 # ================================================================================
 
-"""				- Complete extract_data_from_html function
+#					- Complete extract_data_from_html function
 
-
-"""
 # ================================================================================
 
 
 yyyymm = datetime.now().strftime('%Y%m')
 
 BASE_URL = 'https://www.onthemarket.com/'
-
-DIR_PATH_RAW = os.path.join(ROOT_DIR, f'data/onthemarket/property_details/raw/{yyyymm}')
-DIR_PATH_PROCESSED = os.path.join(ROOT_DIR, f'data/onthemarket/property_details/processed/{yyyymm}')
-DIR_PATH_AGGREGATED = os.path.join(ROOT_DIR, f'data/onthemarket/property_details/aggregated/')
-
-# Create directories if they do not exist
-for _dir in [DIR_PATH_RAW, DIR_PATH_PROCESSED, DIR_PATH_AGGREGATED]:
-	if not os.path.exists(_dir):
-		os.makedirs(_dir)
-
-
-def _save_file(data, fp):
-	"""
-	Saves response from request to filepath.
-	"""
-	with open(fp, 'wb') as f:
-		f.write(data)
 
 
 def _get_urls(filename):
@@ -92,19 +68,16 @@ def scrape_property_details(force=False):
 	"""
 	urls = _get_urls(yyyymm)
 	for url in urls:
-		logger.info(f'url: -> {url}')
 
 		# Create filepath and check if it exists
 		filename = url.rsplit('/', 1)[-1] + '.html'
 		dst_fp = os.path.join(DIR_PATH_RAW, filename)
 
 		if os.path.exists(dst_fp):
-			logger.info(f'file exists -> {dst_fp}')
 
 			if force == False:
 				continue
 			else:
-				logger.info(f'overriding existing file -> {dst_fp}')
 
 		# Request html page and save
 		response = _send_request(url)
@@ -112,7 +85,6 @@ def scrape_property_details(force=False):
 			data = response.content
 			_save_file(data, dst_fp)
 
-			logger.info(f'file saved -> {dst_fp}')
 			time.sleep(random())
 
 		# break  # for testing

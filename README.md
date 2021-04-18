@@ -6,17 +6,15 @@
 git clone https://github.com/sabih-h/nova-p.git
 cd nova-p
 pip install -e .
+
 ```
 
-#### Usage
+#### Basic Usage
 ```
-import enova
+import nova
 
-enova.onthemarket()
->>> {'title': 'Amazing new build...', 'price': 350000, ...}
-
-enova.landregistry()
->>> {'date': 2020-03-17, 'price': 350000, ...}
+nova.get_data_onthemarket(outward_code='e1')
+>>> {'outward_code': 'e1', 'price': 350000, 'bedrooms': 3, ...}
 
 ```
 
@@ -45,8 +43,6 @@ enova.landregistry()
 - [Setup Local Lambda Development Environment](https://www.youtube.com/watch?v=bih5b3C1nqc&ab_channel=PrasadDomala)
 - [Serverless VS SAM](https://sanderknape.com/2018/02/comparing-aws-sam-with-serverless-framework/#:~:text=The%20biggest%20difference%20is%20that,creating%20a%20serverless%20HTTP%20endpoint.)
 - [Serverless VS All other tools](https://www.serverless.com/learn/comparisons/)
-
-
 
 
 #### Data Sources
