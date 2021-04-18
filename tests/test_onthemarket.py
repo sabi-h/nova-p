@@ -1,18 +1,17 @@
-
 from nova.onthemarket.property_tiles import (
-	_save_response,
-	# _get_files,
-	# _read_file,
-	# _data_to_json,
-	# _process_property,
-	# _flatten_json,
-	# _save_as_csv,
-	# _fp_to_df,
-	# _df_to_csv,
-	# _concat_dfs,
-	# download,
-	# process,
-	# aggregate,
+    _save_response,
+    # _get_files,
+    # _read_file,
+    # _data_to_json,
+    # _process_property,
+    # _flatten_json,
+    # _save_as_csv,
+    # _fp_to_df,
+    # _df_to_csv,
+    # _concat_dfs,
+    # download,
+    # process,
+    # aggregate,
 )
 
 # def test_TO_REWRITE():
@@ -37,7 +36,7 @@ from nova.onthemarket.property_tiles import (
 
 
 def test__save_response():
-	assert False
+    assert False
 
 
 # def test__get_files():
@@ -61,7 +60,7 @@ def test__save_response():
 # 	fields = [x['name'] for x in onthemarket_schema]
 # 	mock_property_row = {x:'' for x in fields}
 # 	processed_data = _process_property(mock_property_row)
-	
+
 # 	assert list(processed_data.keys()) == list(fields)
 
 
@@ -95,10 +94,3 @@ def test__save_response():
 
 # def test_aggregate():
 # 	assert False
-
-
-
-
-
-
-

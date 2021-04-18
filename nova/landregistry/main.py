@@ -1,3 +1,2 @@
-
 def main():
-	return {'landregistry': 1}
+    return {"landregistry": 1}
