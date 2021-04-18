@@ -1,3 +1,25 @@
+## Nova-P - One stop shop for your house market data here.
+
+#### Setup project in dev mode
+
+```
+git clone https://github.com/sabih-h/nova-p.git
+cd nova-p
+pip install -e .
+```
+
+#### Usage
+```
+import enova
+
+enova.onthemarket()
+>>> {'title': 'Amazing new build...', 'price': 350000, ...}
+
+enova.landregistry()
+>>> {'date': 2020-03-17, 'price': 350000, ...}
+
+```
+
 #### Architecture Diagrams
 - [Overall Architecture](https://app.diagrams.net/#G1u6movWe56NhjL4cRbYz5LUSHnYTF-qO1)
 - [Data Sources Code](https://lucid.app/lucidchart/invitations/accept/47b854b5-905e-4b80-afd0-e7d3657a2dd8)
@@ -21,14 +43,11 @@
 - [Managing multipe python versions using Pyenv](https://opensource.com/article/19/5/python-3-default-mac)
 - [Pyenv tutorial](https://realpython.com/intro-to-pyenv/#virtual-environments-and-pyenv)
 - [Setup Local Lambda Development Environment](https://www.youtube.com/watch?v=bih5b3C1nqc&ab_channel=PrasadDomala)
+- [Serverless VS SAM](https://sanderknape.com/2018/02/comparing-aws-sam-with-serverless-framework/#:~:text=The%20biggest%20difference%20is%20that,creating%20a%20serverless%20HTTP%20endpoint.)
+- [Serverless VS All other tools](https://www.serverless.com/learn/comparisons/)
 
-#### Setup project in dev mode
 
-```
-git clone https://github.com/sabih-h/creation-origins.git
-cd creation-origins
-pip install -e .
-```
+
 
 #### Data Sources
 
@@ -44,15 +63,3 @@ pip install -e .
 #### Testing
 `pytest -v`
 
-
-#### Usage
-```
-import enova
-
-enova.onthemarket()
->>> {'title': 'Amazing new build...', 'price': 350000, ...}
-
-enova.landregistry()
->>> {'date': 2020-03-17, 'price': 350000, ...}
-
-```
