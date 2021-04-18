@@ -1,4 +1,7 @@
-```.
+### Project Structure
+
+```
+.
 ├── README.md
 ├── definitions.py
 ├── docs
